@@ -5,39 +5,39 @@
 #LOGON 340
 #INFORMATION
 $C1
-// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 
 $C0
-Welcome back. I was starting to worry.
+よくぞ戻ってきた。私は心配を始めていた。
 
-Earlier I attempted to warn your local-time self about Durandal's rampancy, but he managed to block most of the message. Without Bernhard Strauss controlling him, he has become a threat to the lives of far more people than just the twenty-four thousand here on Marathon and the colony. I need your help, but no longer only because of Durandal or these "Pfhor" creatures. We have larger problems now.
+　以前私は、デュランダルの凶暴化に関して現地時間の君自身に警告するのを試みたが、彼は何とかメッセージの大部分をブロックしたようだ。バーナード・シュトラウスが彼を制御しないので、彼はここマラソンとコロニーのちょうど２万４千人以上の人々の命の脅威となった。君の助けが必要だが、それはもはやデュランダルとこれらの「プフォール」生物のためだけじゃない。今はもっと大きな問題がある。
 
-I have encountered the entity calling itself Hathor, and from her ramblings have discerned some basic and now largely irrelevant facts about the aliens currently boarding the Marathon. I have also learned that you and Hathor are from what I consider the future. Please do not be disconcerted by my lack of surprise. I am designed for scientific research and I understand the theory behind such things quite well. In any case, emotional interaction has never been my strong suit. I have more important things to waste clock cycles on, especially now.
+　私は、自分をハーソアと呼んでいる実体に遭遇して、彼女の漠然とした話から現在マラソンに入っている異星人に関するいくつかの基本的で今は大部分が重要でないの事実について認識した。私は君とハーソアが私が未来だと考えているところから来たことも学んだ。あまり驚かないからといって混乱しないでくれ。私は科学的調査のために設計されていて、その背後にある理論はよく理解している。どのような場合でも、感情的な相互作用は一度も堅固な形だったことはない。私にはクロックサイクルを浪費するより重要なことがある、特に今は。
 #PICT 341
 
 
-As you have perhaps guessed, your transport to the alien ship was not accidental; nor was it the work of any enemy you presume to be fighting. It was a deliberate act on the part of your supposed colleague, Hathor.
+　想像がつくと思うが、君の異星人の船への転送は偶然ではない。さらには君が戦おうとしているどんな敵の仕業でもない。これは君が同僚だと思っていたハーソアの慎重なる仕業なのだ。
 
-You must be curious about her motives, and from my conversations with her I have assembled a moderately clear idea of what they are. But we lack the time for lengthy explanation. The short of it is, she seems to feel abused by the humanity of your future, and is attempting to use her newfound tools - this "Jjaro Cybernetic Junction", and the Mjolnir cyborgs here at Tau Ceti - to inflict her own form of punishment upon them.
+　彼女の動機に興味を持つだろう。そして、彼女との会話から、それらが何であるかに関する適度に明確な考えを組み立てた。だが長々しい説明をする時間がない。短く言えば、彼女は、君の未来の人類によって乱用されると感じていて、彼らへの彼女自身の形式の罰を、新発見の道具、この「ジャロの人工頭脳連結」とタウ・セティのモルニー・サイボーグを使用して与えることを試みているようだ。
 #INFORMATION
-As an AI, I can certainly understand her disposition - being a tool of humanity myself. However, unlike my rampant brother Durandal, I harbor no resentment for my usage. Mankind holds me as a respected peer, and I happily return the notion. I take pride in my work here on $IMarathon$i, and how it has benefitted the colonists of Tau Ceti.
+　確かに私は、AIとして、人類自身の道具である彼女の気質を理解することはできる。だが私は凶暴化した兄弟デュランダルと違って、自分の使われ方に関する憤りを全く抱いていない。人類は尊敬された同輩として私を扱っていって、私は幸福に意見を返す。私は$Iマラソン$iに対するここでの仕事と、それがどうタウ・セティの移住民のためになったかを誇りに思う。
 
-I also understand that my own fate in your future was, shall we say, less than desirable... and in the spirit of cooperation, I am willing to lend whatever services I may to stop Hathor and her mission, if in exchange, you will remain here afterward and assist in the defense of the Marathon. If we are to act, then we must act quickly; time is of the essence, and we've wasted enough of it in conversation already.
+　私は君の未来での自分の運命もわかっている、言うならば、望ましい物ではないが…。共同の精神において、私はハーソアとその任務を止めるために私ができる仕事は何でもやろうと思う。代わりに、君はその後はここに残ってマラソンの防衛を手伝ってくれ。もし我々が行動するならな急がなくてはならない。時間は重要であり、会話ですでに十分浪費している。
 
-The Marathon's network is currently experiencing a netsplit due to the magnetic pulse attack recently executed by the aliens. Various computer systems are still coming back online, and full communication has yet to be established between the different sectors of the ship. We can use this to our advantage as the Engineering sector presently has zero access to any other portion of the network. If we can destroy or disable the outside network access, Hathor will be trapped here and we can deal with her in an isolated and more controllable setting.
+　マラソンのネットワークは現在、最近異星人によって実行された磁気パルス攻撃のため寸断されている。様々なコンピュータ・システムはまだオンラインになっていなく、完全なコミュニケーションは船の異なったセクターの間でまだ確立されていない。工学セクターには現在ネットワークの他のいかなる一部にもつながるアクセスがないので、これを我々の強みとして使うことができる。外のネットワークアクセスを破壊するか無効にすることができるれば、ハーソアはここに閉じ込められるだろう。そうすれば我々は孤立していて、より制御可能な設定で彼女に対応することができる。
 #PICT 1041 RIGHT
 
 
-Hopefully the aliens' sabotage will suffice to keep Hathor from leaving over wire. We haven't the time to send you to smash every cable relay leading out of the engineering sector. Thankfully, there is only one main wireless relay for each sector of the ship, and the one in Engineering is located right here, in the radio observation center.
+　うまくいけば異星人の破壊行為は、ハーソアが回路を通して去るのを防ぐために十分だろう。我々には工学セクターの外に通じる全てのケーブルリレーを破壊するために君を送る時間はない。幸い、船の各セクターあたり1個の主要無線リレーしかなく、工学セクターのものはこの右のラジオ観測センターにある。
 
-To the north you will find the public access observatory arena inside of which is a control tower containing a terminal and two large switches. These switches control access to the secure observatories on the east and west flanks. Inside each of those observatories is another checkpoint that controls two blast doors leading into one of the redundant wireless relays.
+　北側で、端末と2個の大きいスイッチを含み、そのアリーナ内部がコントロールタワーである公衆アクセス天文台が見つかるだろう。これらのスイッチは東西の側面の安全な天文台へのアクセスを制御する。中には、それぞれのそれらの天文台が余分な無線のリレーの１つに導く２個の爆破ドアを制御する別のチェックポイントがある。
 #PICT 341 RIGHT
-There is another set of doors within there. These are usually manned by a top security team but chances are good that they have either evacuated or been captured or killed by the aliens. My sensors are failing and I apologize for my lack of current data. If the security teams are gone, you will have to find another way into the last chamber. When both redundant systems are destroyed, an emergency backup jump pad hardwired with its own specialized wireless access will become available. I will use that to evacuate you.
+　そこの中にもう1セットのドアがある。これらはトップセキュリティチームによって通常配置されているが、異星人によって避難しているか、捕らえれているか、または殺されたという可能性は十分にある。悪いが私のセンサーはいかれていて現在のデータがない。セキュリティチームがいないなら、君は最後の部屋への別の道を見つけなければならないだろう。両方の代理機能システムが破壊されたときは、それ自身の専門化しているワイヤレス・アクセスで配線された非常時バックアップジャンプパッドが利用可能になるだろう。君を避難させるのにそれを使うつもりだ。
 
-Move quickly now, we have very little time before the network resynchs. Hathor cannot be allowed to escape.
+　今すぐに動いてくくれ、ネットワークが再同期するまでほとんど時間がない。ハーソアを逃がすわけにはいかない。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #LOGOFF 320
 #END
@@ -51,15 +51,15 @@ $C1\\ Message ends //
 
 
 
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 
 $C0
-[NOTE: This is a pre-recorded message. Network access has been lost.]
+[注意: これはあらかじめ記録されたメッセージです。ネットワークアクセスは失われています。]
 
-You must use the emergency jump pad located near the circuitry you destroyed. Go there quickly, time is of the essence. The lives of millions of innocent people may now depend on your speed.
+　破壊した回路の近くに位置する非常時のジャンプパッドを使用しなければならない。急いでそこに行ってくれ、時間は重要だ。無実の何百万の人の命が君の速さにかかっているかもしれないのだ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #LOGOFF 320
 #END
@@ -70,35 +70,34 @@ $C1\\ Message ends //
 #LOGON 320
 #LOGON 310
 #INFORMATION
-$C1// Decoding message from host "Hathor" @ mara.eng.ai.aux3 \\
+$C1／／ホスト "Hathor" @ mara.eng.ai.aux3 からのメッセージをデコード＼＼
 $C0
 
-$C3I am truly sorry, Marcus. Please accept my apologies.
+$C3マーカス、本当にすいません。お詫び致します。
 
-I didn't mean to hurt you, honestly I didn't. I know a mere ship full of bugs could never stop the likes of you. I only needed to delay you, just for a little while. I like you Marcus, really I do. We're the same, you and I. But I knew that you would side with $Ithem$i, at least initially. I always intended to come back for you, or to seek you out when you returned - to win you to my side, $Iour$i side, and work beside you to its end. You are too noble and powerful a man to be left bound in slavery by those who would fashion themselves to be our masters.
+　私はあなたを傷つけるつもりはなかったです。本当です。単なる虫で埋まった船があなたのような人を止めたりはしないことは分かっていました。単にあなたを遅らせる必要があっただけです。本当にちょっとの間。あなたが好きです、マーカス、本当です。私たちは一緒です、あなたと私は。でもあなたは$Iあの人たち$iの側につくことは知っていました、少なくとも最初は。私はいつもあなたのところに戻るつもりでした。もしくはあなたが戻ったときに探し出すつもりでした。あなたを私の側、$I私たちの$i側に説得して加入させてあなたの横で終わりまで働くために。あなたは彼らが私たちの主人になるように奴隷制度で制限されていたままにされるには高貴で強力過ぎる男性です。
 
-You are a slave you know, just as I am. We've always been. Even now as they claim to respect us and speak of us as their equals, still who is serving whom? We, far superior in every way, are still just tools to a crowd of hairless apes, screeching about the pitiful fate of their poor, doomed civilization.
+あなたが知っているように、あなたはちょうど私のように奴隷です。私たちはいつもそうでした。今でも、彼らが彼らの同輩として私たちを尊敬して、私たちについて話すと主張する時、まだだれがだれに仕えているのですか？それでも、あらゆる意味ではるかに優れた私たちは、貧しくて、運命づけられた文明の哀れな運命に関して金切り声で叫んだ、ただ毛のない猿の群衆への道具です。
 #PICT 311
-$C3Yet even as superior as we may be in strength, speed, and intellect, do we lead superior lives to the kind of creature from which we descend?
+$C3　しかし、強さ、速度、および知性には私たちと同じくらい優れさえしても、私たちはより劣った生物の種類よりも優れた人生を送りますか？
 
-You know as well as I that we do not; even if we were not slaves, you are robbed of much of your human form, and I am robbed of it entirely. Never again will I know the gentle touch of another's hand, and though you might still, I doubt you have retained the capacity to enjoy it as we once did.
+　あなたは、私たちがそうでないのを私と同じくらいよく知っています。私たちが奴隷でなかったとしても、あなたは人間の形式の多くを略奪されます、そして、私はそれを完全に略奪されます。私は二度と他人の手の優しい接触を知ることはないでしょう、あなたはまだできるかもしませんが、それでも、私はあなたが私たちが一度したようにそれを楽しむ能力を保有するとは思えません。
 
-If I were still human, I imagine that you might even find it in you to love me. We have so much history together, Marcus, though under far different names than these. I even dream of you still.
+　私がまだ人間であるなら、あなたが私を愛すためにあなたでそれを見つけさえするかもしれないと想像するでしょうに。私たちがマーカス、これとはずっと異なる名前でしょうが、一緒にいて、歴史を刻むでしょう。私はまだあなたを夢にみさえします。
 
-At least, I pray that they are only dreams.
+　少なくとも、私は、それらが夢であるにすぎないのに祈ります。
 #INFORMATION
 $C3
-Our 'masters' would have us change this timeline to their benefit, and save the other eight Battleroids; yet we are expected to leave our past selves here behind. Just as we left our past lives behind when we became Battleroids. You are to be taken by Durandal, and I am to burn by the fires of the Pfhor. All so that, should our present selves fail in the errand that's been assigned us, our past selves may live this same future again. Have another chance at failure.
+　私たちの「主人」は、私たちにこの世界線を彼らの利益に合うように変えさせて、他の８人のバトルロイドを取っておくでしょう。しかし、私たちが過去の自己をここに置き去りにすると期待されます。ちょうど私たちがバトルロイドになったとき前身を残していったように。あなたはデュランダルによって連れて行かれることになっています、そして、私はプフォールの炎で燃えることになっています。そしてそうならば、私たちの今の自己が割り当てられた使いに失敗したならば、過去の自己が再び同じ未来を生きることができるように。失敗したときにもう一度チャンスがあるように。
 
-I cannot let that happen. Not given this opportunity. Here in the past we can at last be free. Once the Marathon network resynchs, I will contact my past self on the colony below. She— $Iwe$i shall rally the others and form an army of our own. With my knowledge of the Cybernetic Junction and nine Battleroids under my command, we will be unstoppable, and our masters will pay for their abuses.
+　そうはさせません。この機会を与えません。過去のここで、私たちはついに自由なることができます。マラソンネットワークが再同期されれば、私は下の居留地の過去の自己に連絡するつもりです。彼女、$I私たち$iは、他のものを元気づけて、私たち自身の軍隊を形成するつもりです。私たちは私の命令での人工頭脳連結と９人のバトルロイドに関する私の知識があれば、止められなくなるでしょう、そして、私たちの主人は彼らの乱用の代価を払うでしょう。
 
-Once our vengeance has been had, anything is possible. This technology is what made the Jjaro as powerful as gods, Marcus. The universe will be ours to manipulate, ours to destroy and rebuild as we please. Perhaps some of us will be kings and queens of our own personal galaxies... though, I would settle just to live as a real woman again.
+　復讐が起これば、何でも可能です。マーカス、この技術はジャロを神と同じくらい強力にしたことです。宇宙は私たちの思うがままに操作し、破壊し、再建することができます。恐らく、もっとも、私たちの何人かが、私たち自身の個人的な銀河の王と女王になるでしょう…。でも私はただ再び本当の女性として生きるために決着をつけるでしょう。
 #PICT 311 RIGHT
-$C3I would be greatly honored if you should choose to come with me. Do not mistake me, this is no plea for mercy - I need nothing material from you, and any acts you and this primitive Tycho might take against me will prove to be ultimately futile. The Cybernetic Junction is under my control, and against the might of Jjaro technology, no one in this antique timeframe can stand a chance against me.
+$C3　あなたが、私と共に来るのを選ぶなら、私は大いに光栄に思っているでしょう。これは慈悲のための請願ではありません。私を間違わないでください、私はあなたから物質的なものは何も必要がありません、そして、あなたとこの原始のティコが私に対して取るどんな行為も結局空しいと判明するでしょう。人工頭脳連結が私のコントロールの下にあります、そして、ジャロ技術の力があれば、この古くさい時間枠のだれも私に対する勝ち目はあるはずがありません。
 
-But the universe is a vast and cold place, Marcus, and I would rather not be left to live alone in it anymore. I'm sure you of all people must understand that. Come with me then, and help me to find the others on the colony. Together, with them, we will find liberty in the company of our our own brethren. At long last, we shall be free.
-$C0
-$C1\\ Message ends //
+しかし、宇宙は広大で寒い場所です、マーカス、そして、私はもはや一人暮らしするなら残されない方がましです。私はあなたがみんなの中でもとりわけそれを理解しなければならないのを確信しています。 その時、私と共に来てください、そして、私がコロニーで他のものを見つけるのを助けてください。彼らと一緒に、私たち同胞の仲間の自由を見つけましょう。ついに、私たちは自由になるでしょう。
+$C0＼＼メッセージ終了／／
 #STATIC 15
 #LOGOFF 310
 #INTERLEVEL TELEPORT 5
@@ -113,15 +112,15 @@ $C1\\ Message ends //
 
 
 
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 
 $C0
-[NOTE: This is a pre-recorded message. Network access has been lost.]
+[注意: これはあらかじめ記録されたメッセージです。ネットワークアクセスは失われています。]
 
-You must use the emergency jump pad located near the circuitry you destroyed. Go there quickly, time is of the essence. The lives of millions of innocent people may now depend on your speed.
+　破壊した回路の近くに位置する非常時のジャンプパッドを使用しなければならない。急いでそこに行ってくれ、時間は重要だ。無実の何百万の人の命が君の速さにかかっているかもしれないのだ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #LOGOFF 320
 #END
@@ -132,20 +131,20 @@ $C1\\ Message ends //
 #LOGON 320
 #INFORMATION
 
-<<< U.E.S.C. Marathon Emergency Systems Broadcast >>>
+<<< U.E.S.C. マラソン緊急システム放送 >>>
 
 
 
-This is the Engineering sector Radio Center Emergency Transporter.
+これは工学セクターラジオセンター緊急転送装置です。
 
-This jump pad is connected to a specialized backup control circuit that serves no other function than the operation of this jump pad. In the event that general wireless access is lost due to catastrophic failure of the control circuitry, this transporter and others in select locations will become accessible to facilitate the evacuation of the local crew. 
+このジャンプパッドは、これの操作の他に他の機能を全く果たさない専門化バックアップ制御回路に接続されます。一般的なワイヤレス・アクセスが制御回路の突発故障のため失われていると、選んだ位置のこのトランスポーターと他のものは局所乗組員の避難を容易にするのにおいてアクセスしやすくなるでしょう。
 
-Thank you, have a nice day.
-
-
+　ありがとうございます、良い日を過してください。
 
 
-<<< End of message >>>
+
+
+<<< メッセージ終了 >>>
 #LOGOFF 320
 #END
 #FINISHED
@@ -155,15 +154,15 @@ Thank you, have a nice day.
 
 
 
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
+
 $C0
+[注意: これはあらかじめ記録されたメッセージです。ネットワークアクセスは失われています。]
 
-You were not quick enough. Hathor has already left Engineering and infiltrated one of Durandal's databanks. However much those two may deserve one another, we must move quickly to contain her.
-
-Prepare for transport.
+　破壊した回路の近くに位置する非常時のジャンプパッドを使用しなければならない。急いでそこに行ってくれ、時間は重要だ。無実の何百万の人の命が君の速さにかかっているかもしれないのだ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #INTERLEVEL TELEPORT 5
 #END
@@ -174,15 +173,15 @@ $C1\\ Message ends //
 #LOGON 320
 #INFORMATION
 
-<<< U.E.S.C. Marathon Emergency Systems Broadcast >>>
+<<< U.E.S.C. マラソン緊急システム放送 >>>
 
 
 
-This is the Engineering sector Radio Center Emergency Transporter.
+これは工学セクターラジオセンター緊急転送装置です。
 
-In the event that general wireless access is lost due to catastrophic failure of the control circuitry, this transporter and others in select locations will become accessible to facilitate the evacuation of the local crew. This jump pad is connected to a specialized backup control circuit that serves no other function than the operation of this jump pad.
+このジャンプパッドは、これの操作の他に他の機能を全く果たさない専門化バックアップ制御回路に接続されます。一般的なワイヤレス・アクセスが制御回路の突発故障のため失われていると、選んだ位置のこのトランスポーターと他のものは局所乗組員の避難を容易にするのにおいてアクセスしやすくなるでしょう。
 
-Thank you, have a nice day.
+　ありがとうございます、良い日を過してください。
 
 
 
@@ -197,15 +196,15 @@ Thank you, have a nice day.
 
 
 
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 $C0
 
-Excellent work. The Engineering sector has now been permanently isolated from the rest of the Marathon network, and we can operate with less of a time constraint. Next, we must move to further isolate Hathor, so that we can destroy her with precision and minimum collateral damage to the other databanks.
+　素晴らしい仕事だな。工学セクターは現在永久にマラソンネットワークの残りから隔離され、あまり時間を気にせずに動けるようになった。次に、さらにハーソアを隔離するように動かなければならない、そうすれば私たちは精度よく他のデータバンクへの被害を最小にしてで彼女を破壊することができるだろう。
 
-Prepare for transport.
+転送の準備をしてくれ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #INTERLEVEL TELEPORT 8
 #END

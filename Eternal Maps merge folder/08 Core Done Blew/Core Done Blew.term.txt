@@ -4,17 +4,17 @@
 #LOGON 320
 #LOGON 340
 #INFORMATION
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 $C0
 
-This section of the ship contains the primary power distributor node for the main Engineering network. Each individual core has its own power source, but the network lines and routers run off a power distribution system located nearby. If this distributor is taken offline, the main data bus will be inoperable; larger programs will not be able to move between cores, though basic communication will remain online via the emergency systems.
+　船のこのセクションは主要工学ネットワークの主要電源分配機ノードを含んでいる。それぞれの個々のコアには、それ自身の電源があるが、ネットワーク系列とルータは近くに位置した電源分配機システムを電源として動いている。この分配機がオフラインになると、主要データバスは操作不能になる。基本通信は非常通報システムでオンラインのままで残るだろうが、より大きいプログラムはコアの間で移行することができない。
 
-Once we are done, Hathor will be trapped wherever she happens to be when the main network goes off line. We can then destroy or deactivate that system and purge her from the network. I will walk you through.
+　そうできれば、ハーソアは主要ネットワークがオフラインになったときに彼女がどうなっていようが閉じこめられる。そうしたら彼女を破壊するなり不能にするなりしてネットワークから除去できるだろう。私は君の立ち稽古をする。
 
-First, you need to power up some of the manual door controls nearby to get into the rest of the sector. Do that now and I will give you further instructions.
+　まず最初に、セクターの残りに入るために近くの手動ドア制御のいくつかをパワーアップする必要がある。それをやったらその先の指示を出そう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #LOGOFF 320
 #END
@@ -25,15 +25,15 @@ $C1\\ Message ends //
 
 
 
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 $C0
 
-Some of the manual door controls are not functioning properly. This is probably a side-effect of Durandal's rampancy; it is possible he has not been entirely contained by Leela and your local self. Autonomous systems are not my forte but let me see what I can do...
+　いくつかの手動ドア制御は適切に機能していない。これはたぶんデュランダルの狂暴化の副作用だ。彼がリーラや君の向こうの自己によって完全に抑えられていないことはありうることだ。自律システムは私の得意分野ではないが、できるかどうかやってみよう…。
 
-There. Your passage into the next sector should be clear. Proceed through the open doors and make your way to the power distributor conduit. It's hard to miss. I'll do what I can to help if you run into any trouble along the way.
+　ほら。次のセクターへの通路は開いたはずだ。開いているドアを通って進んで、電源分配機導管への道を見つけてくれ。見逃しにくいだろう。もし君が道の途中で問題に出くわしたら私にできることで助けよう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #TAG 6
 #LOGOFF 340
 #LOGOFF 320
@@ -45,25 +45,25 @@ $C1\\ Message ends //
 #LOGON 340
 #INFORMATION
 
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 $C0
 
-Good work, the distributor node has lost power and the main data bus is now offline. Unfortunately, Hathor realized too soon what we were doing and transferred herself into my central core moments before you destroyed the control circuitry. This means that in order to destroy her, you must take my core offline.
+　良い仕事だ、分配機ノードは電源を失い、主要データバスは現在オフラインだ。残念ながら、ハーソアはあまりに早く私たちのしていたことがわかって、君が制御回路を破壊する前に私の中央のコアモーメントまで自分を移した。これは、君が彼女を滅ぼすためには、私のコアをオフラインにしなければならないことを意味する。
 
-While it is entirely possible that the colony's computer engineers may - should they survive this crisis - be able to recover some of my program from deactivated memory cells, it would in fact be less of a reactivation, and more like along the lines of... reanimation. I could not possibly come out of the process the same Tycho that I am now.
+　コロニーのコンピュータ技術者が、願うならこの危機で生き残っていれば、私のプログラムの一部を機能停止したメモリーセルから回復することは完全に可能ではあるが、実際は、再起動と言うよりは、生き返る…と言う方が近いだろう。今の同じティコのプロセスから出ることはありえない。
 
-To put into terms that you might better understand, in order to destroy Hathor, you must also destroy me.
+　君がもっと理解できるように言い換えるなら、ハーソアを破壊するためには、私も破壊しなければならない。
 #PICT 341 RIGHT
 
 
 
 
-But please, do not hesitate to take such decisive action. Hathor is a greater threat than even Durandal or the Pfhor, and if sacrificing me to stop her is truly the only solution, then that is what I must ask you to do. At the very least I will be spared an unsavory fate at the hands of the Pfhor.
+　しかし、遠慮なくそのような断固たる行動を取ってくれ。ハーソアはデュランダルやプフォールよりさえ大きい脅威で、彼女を止めるために私を犠牲にするのが本当に唯一の解決策であるなら、それは私が君にお願いしなければならないことだろう。少なくとも、私をプフォールの手におけるまずい運命から開放するだろう。
 
-I will transport you now to my central core. Therein, you must destroy me.
+　私は君を私の中央コアに転送する。そこで、私を破壊するんだ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #INTERLEVEL TELEPORT 9
 #ENDTERMINAL 1
@@ -72,7 +72,7 @@ $C1\\ Message ends //
 #FINISHED
 #LOGON 320
 #INFORMATION
-<<< Memory dump :// mara.auto.lib.bin/door_control/ >>>
+<<< メモリーダンプ :// mara.auto.lib.bin/door_control/ >>>
 
 0CD200000000007C0080001102FF0C00FFFE0000004800000048000000000000007C0
 08000000000001E0001000A0000000E0064007200310000000E00640072001A00002E
@@ -91,7 +91,7 @@ FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 4A000400420074001EFFFC00520004005A00040052FFFC0052FFFC005A0004005A000
 400520074001EFFFC00620004006A00040062FFFC0062FFFC006A0004006A00040062
 
-<<< Transfer terminated on user end >>>
+<<< ユーザ側からの転送中断>>>
 #LOGOFF 320
 #ENDTERMINAL 2
 ;
@@ -99,7 +99,7 @@ FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 #FINISHED
 #LOGON 320
 #INFORMATION
-<<< Memory dump :// mara.auto.lib.bin/door_control/ >>>
+<<< メモリーダンプ :// mara.auto.lib.bin/door_control/ >>>
 
 0CD200000000007C0080001102FF0C00FFFE0000004800000048000000000000007C0
 08000000000001E0001000A0000000E0064007200310000000E00640072001A00002E
@@ -118,18 +118,18 @@ FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 4A000400420074001EFFFC00520004005A00040052FFFC0052FFFC005A0004005A000
 400520074001EFFFC00620004006A00040062FFFC0062FFFC006A0004006A00040062
 
-<<< Transfer terminated on user end >>>
+<<< ユーザ側からの転送中断 >>>
 #LOGON 340
 #INFORMATION
-$C1// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 $C0
 
-That S'pht compiler you just disintegrated appears to have been attempting to open the cargo door you see in front of you. I believe the Pfhor are trying to bring in heavier artillery to destroy the distributor for their own purposes. It would make your job much easier if we could simply let them in, but even I can't seem to override whatever lock-down these doors are under. I'd blame Durandal again, but I doubt he is even fully capable of understanding what his autonomous functions are doing any more. We'll have to continue this mission by ourselves as already planned.
+　君が今崩壊させたスフトのコンパイラは、君が正面に見える貨物口を開けるのを試みているように見える。私はプフォールが、自分たちの目的のために分配機を破壊しようと重装備の武器を持ち込もうとしていると信じている。単に彼らを入れさせさえすることができれば君の仕事は遙かに簡単になるだろうが、私でさえこれらのドアのどんなロックダウンもオーバーライドできそうもない。もう一度デュランダルを非難することになるが、私には彼がもはや自分の自治の機能は何をしているかを完全に理解することさえできるかどうか疑わしい。私たちは既に計画されている通りに自分達でこの任務を続けなければならないだろう。
 
-The jammed door leading into the transponder core is interfaced with Durandal by a circuit in the maintenance corridors directly below it. They are presently flooded due to damage; my apologies for the mess. Destroy that control circuit and I should be able to open the door.
+　トランスポンダーコアに導く詰まったドアはその直接下のメンテナンス廊下の回路によってデュランダルに連結されている。それらは現在損害のため浸水している。混乱していて悪い。その制御回路を破壊してくれ。そうすれば私はドアを開けることができるはずだ
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #LOGOFF 320
 #ENDTERMINAL 3
@@ -139,25 +139,25 @@ $C1\\ Message ends //
 #LOGON 320
 #INFORMATION
 
-<<< U.E.S.C. Marathon Engineering sector network power distributor >>>
+<<< U.E.S.C. マラソン工学セクター電源分配機>>>
 
-<<< Waste disposal channel maintenance terminal >>>
-
-
-
-
-
-No repair order was found on file.
-
-Entry into these systems is currently unauthorized.
+<<< 消耗処分チャンネルメンテナンスターミナル >>>
 
 
 
 
 
-<<< Jump pad activation initiated >>>
+ファイルに修理命令が見つかりません。
 
-<<< Prepare for transport >>>
+これらのシステムへの侵入が現在認証されていません。
+
+
+
+
+
+<<< ジャンプパッド起動初期化 >>>
+
+<<< 転送準備 >>>
 #LOGOFF 320
 #INTRALEVEL TELEPORT 898
 #ENDTERMINAL 4
@@ -166,7 +166,7 @@ Entry into these systems is currently unauthorized.
 #FINISHED
 #LOGON 320
 #INFORMATION
-<<< Memory dump :// mara.auto.lib.bin/door_control/ >>>
+<<< メモリーダンプ :// mara.auto.lib.bin/door_control/ >>>
 
 0CD200000000007C0080001102FF0C00FFFE0000004800000048000000000000007C0
 08000000000001E0001000A0000000E0064007200310000000E00640072001A00002E
@@ -185,7 +185,7 @@ FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 4A000400420074001EFFFC00520004005A00040052FFFC0052FFFC005A0004005A000
 400520074001EFFFC00620004006A00040062FFFC0062FFFC006A0004006A00040062
 
-<<< Transfer terminated on user end >>>
+<<< ユーザ側からの転送中断 >>>
 #LOGOFF 320
 #ENDTERMINAL 5
 ;
@@ -194,24 +194,24 @@ FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 #LOGON 320
 #PICT 341
 
-<<< U.E.S.C Marathon Engineering Sector >>>
-<<< Network Power Distributor Subsystem >>>
+<<< U.E.S.C マラソン工学セクター >>>
+<<< ネットワーク電源分配サブシステム >>>
 
-<<< Emergency Systems Transporter >>
-
-
-
-
-Received order from admin user "Tycho" at mara.eng.core.ai.
-
-Emergency systems transporter rerouted to internal location.
+<<< 緊急時システム転送機 >>
 
 
 
 
-<<< Jump pad activation initiated >>>
+mara.eng.core.aiでの管理ユーザ「ティコ」からの命令を受信。
 
-<<< Prepare for transport >>>
+内部場所に緊急システム転送機を迂回
+
+
+
+
+<<< ジャンプパッド起動初期化 >>>
+
+<<< 転送準備 >>>
 #LOGOFF 320
 #INTRALEVEL TELEPORT 222
 #ENDTERMINAL 6
@@ -220,7 +220,7 @@ Emergency systems transporter rerouted to internal location.
 #FINISHED
 #LOGON 320
 #INFORMATION
-<<< Memory dump :// mara.auto.lib.bin/door_control/ >>>
+<<< メモリーダンプ :// mara.auto.lib.bin/door_control/ >>>
 
 0CD200000000007C0080001102FF0C00FFFE0000004800000048000000000000007C0
 08000000000001E0001000A0000000E0064007200310000000E00640072001A00002E
@@ -239,6 +239,6 @@ FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 4A000400420074001EFFFC00520004005A00040052FFFC0052FFFC005A0004005A000
 400520074001EFFFC00620004006A00040062FFFC0062FFFC006A0004006A00040062
 
-<<< Transfer terminated on user end >>>
+<<< ユーザ側からの転送中断 >>>
 #LOGOFF 320
 #ENDTERMINAL 7

@@ -10,22 +10,22 @@
 
 
 
-$C1// Decoding message from host "Hathor" @ mara.eng.public \\
+$C1／／ホスト"Hathor" @ mara.eng.public からのメッセージをデコード＼＼
 $C0
 
-$C3My apologies. It seems the jump pad systems are not yet fully recovered from the Pfhor magnetic pulse attack. It's quite a bit of luck you only wound up in these sewers - in all likelihood you should have ended up in a wall somewhere.
+$C3　すいません。プフォールの磁気パルス攻撃からまだ完全にジャンプパッドシステムが回復していないように思えます。あなたが結局これらの下水にいただけであるのはかなりの運です。すべてのありそうなことでは、あなたが壁の中にいたはずです。
 
 
-Why the sewers? Your guess is as good as mine.
+なぜ下水かですか？私にもわかりません。
 #PICT 1021 RIGHT
 $C3
 
-The program card I was transporting is also residing somewhere in the nearby waters. Thankfully we are still within the engineering sector, and there is an uplink in this area that will be sufficient for our needs.
+　また、私が輸送していたプログラムカードは近い水域のどこかにあります。幸い、私たちはまだ工学セクターの中にいます。そして、アップリンクがこの私たちの必要に十分な領域にあります。
 
-Retrieve the card from the location shown and place it in the nearby uplink circuit. When you are done, I will transport you out and on to the next phase of our mission.$C0
+　示された位置からカードを検索してください、そして、それを近くのアップリンク回路に置いてください。あなたが完了したなら、私はあなたを外に転送して任務の次の段階に移るつもりです。$C0
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 310
 #LOGOFF 320
 #ENDTERMINAL 0
@@ -33,8 +33,8 @@ $C1\\ Message ends //
 #TERMINAL 1
 #UNFINISHED
 #LOGON 200
-$C1"An Ode to Bob"
-a parody of "The Raven" by Edgar Allen Poe
+$C1『ボブへのオード』
+エドガー・ラン・ポーの『大鴉』のパロディ。
 #INFORMATION
 Deep into my pocket reaching
 Thinking of security breaching
@@ -104,8 +104,8 @@ Editions by Forrest Cameranesi
 #END
 #FINISHED
 #LOGON 200
-$C1"The Bob Not Spanken"
-a parody of "The Road Not Taken" by Robert Frost
+$C1『平手打ちせざるボブ』
+ロバート・フロストの『選ばれざる道』のパロディ
 #PICT 200
 
 
@@ -140,8 +140,8 @@ All roads, they lead to Sol, and I-
 I took the one the Pfhor was on,
 And then I jumped the Electro-fence.
 #LOGOFF 200
-$C1Written by Benjamin Wigler
-Editions by Forrest Cameranesi
+$C1ベンジャミン・ウィグラーによる
+フォレスト・カメネージのエディション
 #ENDTERMINAL 1
 ;
 #TERMINAL 2
@@ -149,21 +149,21 @@ Editions by Forrest Cameranesi
 #LOGON 320
 #INFORMATION
 
-<<< Message to All Marathon Terminals >>>
+<<< 全Marathonターミナルへのメッセージ >>>
 
 
 
 
-$BMarathon Emergency Systems Broadcast
+$Bマラソン緊急システム放送
 $b
 
-Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
+今日の午前８時２０分、マラソンは不明の敵軍に攻撃され、その結果マラソンは多大な損害を受けた。
 
-At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
-
-
+午前８時３０分には、エイリアンの軍隊がマラソンを乗っ取った。現在の状況は非常に重大である。乗組員全員はただちに武器を取り、戦う準備をせよ。
 
 
-<<< Posted 2794.7.3.14.08.39 >>>
+
+
+<<< 報告時間 2794.7.3.14.08.39 >>>
 #LOGOFF 320
 #ENDTERMINAL 2

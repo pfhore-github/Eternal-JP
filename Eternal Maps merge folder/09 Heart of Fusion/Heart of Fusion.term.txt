@@ -3,7 +3,7 @@
 #UNFINISHED
 #LOGON 320
 #INFORMATION
-<<< Memory dump :// mara.eng.ai.core/aux/access_override/ >>>
+<<< メモリーダンプ :// mara.eng.ai.core/aux/access_override/ >>>
 
 FFF8003200000032000800320008002A0004002A0074002EFFF8001A0008002200040
 01AFFFC001AFFF8001AFFF80022FFFC002200040022000800220008001A0004001A00
@@ -22,7 +22,7 @@ E0000000740026FFF8006A000800720004006AFFFC006AFFF8006AFFF800720008007
 4A0074002AFFF8003A000800420000003AFFF8003AFFF80042FFFC004200040042000
 800420008003A0000003A0074002AFFF8002A000800320004002AFFFC002AFFF8002A
 
-<<< Transfer terminated on user end >>>
+<<< ユーザ側からの転送中断 >>>
 #LOGOFF 320
 #END
 #ENDTERMINAL 0
@@ -34,19 +34,18 @@ E0000000740026FFF8006A000800720004006AFFFC006AFFF8006AFFF800720008007
 #INFORMATION
 $C1
 
-// Decoding message from host "Tycho" @ mara.eng.ai.core \\
+／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 
+$C0私の心へようこそ。
 
-$C0Welcome to my mind.
+　もしここにたどり着くのに苦労したら謝ろう。これは船の古い部分で、何回も再設計された。 今日の唯一の目的は、私のコアの何らかの間に合わせのセキュリティアクセスを収容することである。このハードウェアがかなり信頼でき、ほとんどメインテナンスを必要としないので、ここのシステムの外のデザイン感覚にはほとんど注意を向けられなかった。
 
-I'm sorry if you had any trouble getting here. This is an older part of the ship, and has been repurposed many times. Its sole function today is to house some makeshift security access controls for my core. This hardware is fairly reliable and needs little maintenance, so less attention was paid to making any design sense out of the systems here. 
+　非活性化すべき24個のアクティブなメモリセルと、破壊すべき6つのサイバーニューラルネットがある。それでこのシステムからすべてのデータを一掃する。
 
-There are 24 active memory cells to deactivate, and six cyber-neural nets to destroy. That will purge these systems of all data.
-
-I have nothing more to say. Do what you must.
+　私はこれ以上言うことはない。やるべき事をやれ
 $C1
 
-\\ Message ends //
+＼＼メッセージ終了／／
 #LOGOFF 340
 #LOGOFF 320
 #END
@@ -57,40 +56,40 @@ $C1
 #INFORMATION
 
 
-$C1// Decoding message from host "Tycho" [internal process] \\
+$C1／／ホスト "Tycho" @ mara.eng.ai.core からのメッセージをデコード＼＼
 $C0
 
-I have some good news and some bad news.
+　いい知らせと悪い知らせがある。
 
-The good news is most obvious - I am still alive.
-I, at least, am relieved by this fact.
+　いい知らせは自明だ。私はまだ生きている。
+私は、少なくともこの事実にほっとした。
 
-The bad news is that Hathor also lives. When it became evident that you were destroying my central core, Hathor rearranged her program into still-intact memory long enough to signal her proxy program on K'lia, accessing the Cybernetic Junction there and transporting herself to a time 87 years in the future, and across space to a nearby Pfhor military outpost.
+　悪い知らせは、ハーソアも生きているということだ。君が私の中央コアを破壊するのが明白になったとき、ハーソアは自分のプログラムをクッリアの自分のプロキシプログラムにシグナルを送るのに十分長いまだ完全な記憶を再配列して、そこで人工頭脳連結にアクセスして、未来の87年後の近くのプフォール軍事前哨へ彼女自身を転送した。
 
-You are no doubt curious as to how I discovered this.
+　私がどうやってこれを発見したかを君は間違いなく不思議がるだろう。
 #PICT 341
-While sharing the same memory space, Hathor and I had full access to one another's active memory pages. This type of event does not, as you might expect, enact a merger of minds between the two personalities involved; the unique encryption on the pages keeps distinct memories separate from each other, a design feature intended for just such a circumstance.
+　同じメモリスペースを共有している間は、ハーソアと私はお互いのアクティブなメモリ・ページに完全に近づく手段を持ってた。君が予想するかもしれないように、このタイプの出来事はかかわった２つの個性の間の心の合併を制定しない。設計上の特徴がまさしくそのような状況のために意図したように、ページ間のユニークな暗号化は異なった記憶を互いから別々に保った。
 
-However, I was able to break her encryption scheme fast enough to catch those few pages before she left, and just in time as well. Those pages were also what keyed me in on how to access your auxiliary internal network, which is how I am still here to speak to you. Your processing speed and memory are impressive, particularly for such a compact system. Such progress is to be expected, I suppose.
+　しかし、私は彼女が去る前に数ページをつかまえられほど十分に速く彼女の暗号化の方式を破ることができた。それらのページは私にとってどのように君の補助ネットワークにアクセスするかの鍵になった、それが私がどのようにまだ君と話しているかということだ。君の処理速度とメモリはすばらしい、特にそのようなコンパクトなシステムでは。そのような進歩が予想されただろうと思う。
 #INFORMATION
 
-I do not entirely understand why Hathor did not simply transport herself into you as well. To the best of my understanding, a program cannot simply transmit itself through the Cybernetic Junction into some time and place with nothing set up to receive the signal; that is why she transported here onboard you. She must have devised some way, however; suicide would not be very conductive to her goals.
+　私は、ハーソアがなぜ単に自分を君に転送しなかったのかは完全に理解していない。私の理解では、何も信号を受け取るためにセットアップされていないときは、プログラムは人工頭脳連結を通してそれ自体だけをある時間と場所に送ることはできない。それが彼女が君をここの船に乗せて転送した理由だ。しかし、彼女は何らかの方法で工夫したに違いない。自殺しては彼女の目標に決して届かない。
 
-She may have imagined that transferring herself into you was not possible, without even attempting it. She has been trying to access your Cybernetic Junction and transport you into space or the nearest singularity, or perhaps the end of time, who knows. Fortunately for us, she has been unable to. You appear to have some control of your own systems, though you are likely not consciously aware of it. Her attempts, and your thwarting of them, may seem like nothing more than a sense of unease to you. This may have led her to assume that all of your systems were outside of her control.
+　彼女は自分を君に移すことは、試そうとさえせずに不可能だと想像したかもしれない。彼女は、君の人工頭脳連結にアクセスして君を、誰も知らないが、宇宙か、最も近い特異点か、もしかしたら時間の終わりかに転送しようとしている。私たちにとって幸運なことに、彼女はできない。君は意識して気がついてはいないが、自分のシステムの制御を少し持っているようだ。彼女の試みや、それらに対する君の妨害はただ君への不安感のように見えるかもしれない。これによって、彼女が君のシステムのすべてが彼女のコントロールの外にあると仮定するように導いたかもしれない。
 
-I am rambling again, but I believe you may find such thoughts to be of interest, and at last I have the time to explain these things in full detail. You see, with your help, I have all the time in the universe.
+　私はまた漫然と話しているが、君がそのような考えがおもしろいと分かるかもしれないと信じていると、いつかはそれらのことの完全な詳細を説明する時間があるだろう。ほら、君の助けがあれば、宇宙の全時間が使える。
 #INFORMATION
 
-I have also garnered from Hathor's memory how to operate a Cybernetic Junction. I attempted to use this knowledge to stop her from activating her own on K'lia, but she has left a proxy program behind there to guard against such access. The link is moved now, to wherever Hathor has gone, so the K'lia Junction is of no use to us anyway.
+　また、私はハーソアのメモリからどう人工頭脳連結を操作するかを得た。私は彼女がクッリアの自分ものを動かすのを止めるためにこの知識を使おうとしたが、彼女はそのようなアクセスに用心するためにプロキシプログラムをそこに残していった。ハーソアがどこへ行こうが、リンクは動いたので、クッリアの連結はいずれにせよ私たちには役立たずだ。
 
-What is useful is that, with your cooperation, I can take us to follow after Hathor via your own Junction. As I said before I do feel some fraternity with mankind, and I would loath to see her create some worse future than even the one that you have come from. She said to me that destruction, for her, is not enough for vengeance. She wishes to bring torture and suffering to the people of your future, and if it is within my power, I would wish to prevent that.
+　役に立つことは、君の協力で、私は君自身の連結でハーソアを追って私たちを連れて行くことができると言うことである。私が以前言ったように私は人類に対して同胞愛を感じていて、君が来た物よりさえ悪い未来を彼女が作るのを見るのは吐き気がする。彼女は私に、彼女にとっては、破壊が復讐には十分でないと言った。彼女は君の未来の人々が拷問され苦しんで欲しいと思っていて、もし私の力があれば、それを止めたいと私は思っている。
 
-I understand I was to meet a sour end here at Marathon anyway.
+　いずれにせよ、私はここマラソンでつらい終わりを迎える事になっていたと理解している。
 
-Shall we be off then?
+　それじゃ、離れるとしようか？
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 340
 #INTERLEVEL TELEPORT 10
 #END

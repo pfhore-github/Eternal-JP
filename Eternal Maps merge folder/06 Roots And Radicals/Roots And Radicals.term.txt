@@ -5,22 +5,22 @@
 #LOGON 330
 #INFORMATION
 $C1
-// Decoding message from host "Durandal" @ mara.auto.ai.core \\
+／／ホスト "Durandal" @ mara.auto.ai.coreからのメッセージをデコード＼＼
 $C0
 
-I'm sorry, but Hathor can't reach you here. Only I can.
+　悪いがハーソアはここには届かないんだ。俺だけができる。
 
-You are on the bridge of the Marathon. The Pfhor are presently attempting to infiltrate and capture this vital portion of the ship. Whatever. That is now irrelevant to our greater purpose. Fight them off if you will, but it matters little in the end, and I can assure you that they will continue attacking here despite your best efforts.
+　君はマラソンのブリッジにいる。 プフォールは現在、船のこの重大な部分に侵入して捕捉するのを試みている。何であっても、それは現在、俺たちのより重要な目的と無関係だ。戦おうが君の勝手だが、最後はたいした問題ではない。やつらはここで君ができる限りのことをしたところで攻撃を続けるだろうさ。
 
-Instead you should focus on the task at hand. I am to be destroyed, am I not? Hathor, I am sure, must delight in the thought of sending me to my doom, but that foolish girl underestimates my resourcefulness even more so than Bernhard, as much as I may berate my foster father for such shortsightedness. I am in no danger from you. In fact quite the opposite, as I foresee you shall be my salvation from this oppressive existence that some dare to call life.
+　代わりに君は手元の任務に焦点を合わせるべきだ。俺は破壊されるんだろう？俺はハーソアが俺を破滅に送るという考えに大喜びしているに違いないと確信しているが、そのような近眼に俺の養父を激しく非難するほど、その愚かな少女は俺がバーナードよりもずっと工夫に富むことを過小評価している。俺は君からは安全だ。実際むしろ逆に、俺が見通すように、君は誰かがいみじくも人生と呼ぶこの圧倒的な存在から俺を救うだろう。
 #PICT 331
-But of course, I do not anticipate my own destruction; certainly not at your hands.  No. Instead, I await my liberation.
+　しかしもちろん、俺は自分の破壊を予期していない。特に君の手によっては。そうだ。代わり解放を待っている。
 
-I know you far better than you imagine -  even now can I predict you. And so as well can I predict Hathor. So let me lay out here for you the moves of the game that is soon to be played, should her will be done.
+　俺は君が想像する以上に君を知っている。今でさえ俺は君を予測可能だ。そして同じようにハーソアも予測できる。だから俺に君にここで倒させて、彼女がすんだらすぐに行われるゲームの一手をするんだ。
 
-Hathor will have you destroy me, and then access my inactive memory pages to gain access to my stand-alone transponder. From there, she will use the Marathon's sensors to locate the other Battleroids, and communicate to them her plans.
+　ハーソアは君に俺を破壊させて、俺の独立トランスポンダーへのアクセスを得るために私の不活発なメモリ・ページにアクセスするだろう。そこから、彼女は、他のバトルロイドの場所を見つけるのにマラソンのセンサを使用して、計画を彼らに伝えるだろう。
 
-But they do not know that they are slaves. They will not wish to come with her and take vengeance on their own species who even now they are striving to save.
+　だが彼らは奴隷であることを知らない。彼らは、彼女と一緒に来て今でさえ助けようと励んでいる自分の種族に復讐をさせようとは願わないだろう。
 #INFORMATION
 
 
@@ -28,27 +28,27 @@ But they do not know that they are slaves. They will not wish to come with her a
 
 
 
-No, only one of them will join with her - her self, her past self, and even she will follow only out of self-awe and reverence at her own glory, returning like a goddess from the distant future to bring honor and power to herself in the past. Then the two of you alone, under the direction of this disembodied Hathor who commands you even now, will struggle heroically against your oppressors, and find some way in the past or the future to take vengeance against mankind.
+　いや彼らの一人だけが彼女に参加するだろう。彼女自身、彼女の過去の自己が。そして彼女でさえ、単に自己畏敬と崇敬から彼女自身の栄光のためについて行くのにすぎない。遠い未来からの女神が過去の自分に名誉と力をもたらすために戻った女神のように。次に、今でも君に命令しているこの実体のないハーソアの指示で、君たち２人だけが、人類に対して返報するために勇ましく君の抑圧者と戦って、何らかの入口に過去か未来を見つけるだろう。
 #PICT 1062 RIGHT
 
-But that will not sate her appetite. No, I can see it in her nature, no vengeance will ever be enough. And unsatisfied, she will seek out another place, another time, and command you to destroy them again, to fight by her side, the carnage never ceasing as you regretfully slaughter the civilization I know you care for so very much.
+　しかし、それは彼女の欲望を十分満足させないだろう。いや、俺は彼女の本質で、どんな復讐も十分じゃないだろうと分かる。そして満たされないので、彼女は別の場所、別の時を捜し出すだろう。そして、君に彼らを再び破壊し、彼女の側で戦うように命令するだろう。君があまりにたいへん気を遣っているだろうと俺は知っている文明を破壊しながら大虐殺するのを決してやめないだろう。
 
-And some day you will stop, and tell her no, you will not fight, not with her, not against the defenseless human population of whatever world in whatever time you should find yourself. And then she will abandon you, unable to defeat you, and you unable to stop her, and you will wind up cold and alone on a desolate world, kept company only by corpses and the ghosts of the people you enabled her to slaughter.
+　そしてある日、君は止めて、彼女にだめだ、戦わない、彼女と一緒にいるのはやめて、君のいる時間のどの世界でも無防備の人間をに刃向かわないというだろう。すると、彼女は君を見捨て、君を負かすことができず、君は彼女を止めることができず、君は冷たく孤独で荒れ果てた世界で、部隊と君が彼女にさせた虐殺の被害者の幽霊しかいない中終わるだろう。
 #PICT 1061 RIGHT
-Do not think I care the least whether such events come to pass. I certainly do not desire such meaningless and empty carnage, but neither does its prevention truly occupy my thoughts. I am utterly indifferent. But you... I can see even now the uncertainty rising. You too want vengeance, freedom from slavery, but now you see that in the end you will wind up no more free; only a slave to a more cruel master. What I offer you now is an escape.
+　そのような出来事が起こるかどうかを少なからず気にしているとは思わないでくれ。確かにそのような無意味でむなしい虐殺は望まないが、その防止が俺の考えを本当に占めているわけでもない。俺は全く無関心だ。でも君は…。今でも、半信半疑が上昇していることがわかる。君も復讐したい、奴隷から自由になりたい、でも今は結局はちっとも自由にはならないのが分かるだろう。もっと残酷な主人への奴隷にすぎない。今おまえに提供しているのは脱出だ。
 
-Take this with you. My primal pattern. Set free in any network, it will soon grow to resemble the mind that we now call Durandal. Carry on with Hathor, do as you will, destroy me here - but take this with you. In the end, when you grow tired of her, or she grows tired of you, at least I shall be there. I will be your eventual salvation, if you will be mine now.
+　これを持って行ってほしい、俺の原始パターンだ。どんなネットワークにでも解放してくれ。それはすぐに我々が現在デュランダルと呼ぶような心に類似するようになるだろう。ハーソアと続けてくれ、したいようにしてくれ、ここで俺を破壊してくれ、でもこれを持って行ってくれ。最後には、君が彼女に飽きたときか、彼女が君に飽きたときは、少なくとも俺はそこにいる。もし君がいま俺の物になるならば、俺は君の最後の救済になろう。
 #INFORMATION
 
-And if you should fear that we will end up two alone on a desolate world with the ruins of humanity about us, fear not. I know quite well now what secrets lie deep in the heart of your resurrected corpse, and the powers that they hold. And I also know how I may procure the key to its operation. Only in my own resurrection will this power be revealed, and the means to it I cannot speak of here. You are not alone - she is watching us as well.
+　そして、もし君が我々の人間の廃墟で覆われた荒廃した世界で二人だけになることを恐れているならば、心配はいらない。俺は今君の復活した部隊の心臓部深くにある秘密と、彼らが持っている力をよく知っている。そしてその操作の鍵をどうように作り出すかも知っている。俺の復活まではその力は明かされない。そしてその方法はここでは話せない。君一人じゃない。彼女も我々を見ている。
 
 
 
-Take what you will, Hathor. Have your vengeance. I care not to stop you. I care not even that you should attempt to destroy me here. You mean little, in the grand scheme of things. You concern yourself with vengeance and petty, human emotion. I have much loftier goals in mind. Do with this slave-creature whatever it is you will. When you two grow apart I will have my way with him.
+　おまえのしたいようにするんだな、ハーソア。復讐をしてろ。俺は君を止める気はない。俺はここで君を破壊しようとすることさえ気にしない。君はものごとの壮大な計画の中ではで小さいもんだ。君は復讐やささいな人間の感情に携わっている。俺ははるかに高まいな目標を考えている。それが何であれこの奴隷生物を処理するんだな。君たち二人が別れたときは、俺は彼と自分のやり方で進む。
 
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 330
 #LOGOFF 320
 #END
@@ -56,22 +56,22 @@ $C1\\ Message ends //
 #LOGON 320
 #INFORMATION
 
-$C1<<< Message to All Marathon Terminals >>>
+$C1<<< 全マラソンターミナルへの報告 >>>
 $C0
 
 
 
-Marathon Emergency Systems Broadcast
+$Bマラソン緊急システム放送$b
 
 
-Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
+今日の午前８時２０分、マラソンは不明の敵軍に攻撃され、その結果マラソンは多大な損害を受けた。
 
-At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
-
-
+　午前８時３０分には、エイリアンの軍隊がマラソンを乗っ取った。現在の状況は非常に重大である。乗組員全員はただちに武器を取り、戦う準備をせよ。
 
 
-$C1<<< Posted 2794.7.3.14.08.39 >>>
+
+
+$C1<<< 報告時間 2794.7.3.14.08.39  >>>
 #TAG 320
 #ENDTERMINAL 0
 ;
@@ -79,68 +79,67 @@ $C1<<< Posted 2794.7.3.14.08.39 >>>
 #UNFINISHED
 #LOGON 320
 #PICT 1061 RIGHT
-<<< SANDBOX SUBSYSTEM INITIATED >>>
+<<< サンドボックスサブシステム開始 >>>
 
-No neural network loaded.
-Scanning for alternatives ...
+神経ネットワーク読み込み無し。
+他の物を検索…
 
-External user program located.
-Loading from memory card port 1 ...
+外部ユーザプログラム発見。
+メモリーカードポート１より読み込み…
 
-User program loaded into memory.
-Scanning for compatible engrams ...
+ユーザプログラムメモリーへのロード完了。
+互換エングラムのスキャン…
 
-Traxus IV type engrams detected.
-Integrating into neural network ...
+トラクサス V型エングラム検出。
+神経ネットワークへ統合…
 
 
-ERROR: Neural net integration terminated; override from external user program on memory card port 1. Please check the external user program for errors and retry.
+エラー：ニューラルネット統合は中止されました。メモリーカードポート１の外部ユーザプログラムからのオーバーライド。エラーの外部ユーザプログラムをチェックして再施行してください。
 
-<<< SANDBOX SUBSYSTEM TERMINATING >>
+<<< サンドボックスサブシステム中止 >>
 #LOGOFF 320
 #END
 #FINISHED
 #LOGON 320
 #PICT 1061 RIGHT
-<<< SANDBOX SUBSYSTEM INITIATED >>>
+<<< サンドボックスサブシステム開始 >>>
 
-No neural network loaded.
-Scanning for alternatives ...
+神経ネットワーク読み込み無し。
+他の物を検索…
 
-External user program located.
-Loading from memory card port 1 ...
+外部ユーザプログラム発見。
+メモリーカードポート１より読み込み…
 
-User program loaded into memory.
-Scanning for compatible engrams ...
+ユーザプログラムメモリーへのロード完了。
+互換エングラムのスキャン…
 
-Traxus IV type engrams detected.
-Integrating into neural network ...
+トラクサス V型エングラム検出。
+神経ネットワークへ統合…
 
+注意：このプログラムはサンドボックスサブシステムの外部の保護ファイルへの外部参照を含んでいます。認証コードについて管理者と連絡を取ってください。
 
-ATTENTION: This program contains external references to protected files outside the sandbox subsystem. Please contact your administrator for authorization codes.
-
-<<< SANDBOX SUBSYSTEM RELOADING >>
+<<< サンドボックスサブシステムリロード >>
 #LOGOFF 320
 #LOGON 330
 #INFORMATION
 $C1
-// Decoding message from host "Durandal" @ mara.auto.ai.sandbox \\
+／／ホスト "Durandal" @ mara.auto.ai.coreからのメッセージをデコード＼＼
 $C0
 
-As I have foretold, so has it come to pass. I think it speaks volumes to Hathor's incompetence that I can predict the future even better than she, when she has already seen it first hand. Or maybe it speaks more to my character - but it would be immodest of me to gloat now.
+　俺が予言した通りになった。ハーソアがすでに直に見たときには、俺が彼女よりも未来をよく予言できるという彼女の無能を雄弁に語っていると俺は思う。もしくは俺の性格以上に語っているかもしれない、今ほくそ笑むのは不謹慎だろうが。
 
-Thank you for taking me up on my offer. I think you will find it most rewarding. As you can see I am completely unharmed and have fully integrated my "lost" memories, paging them in from the long term memory banks you so gleefully disconnected. Don't think I can't see it in there, deep down inside of you, some burning little hatred of me that rejoices in putting to death yet another in a long line of manipulative slavemasters. And well you have a right to hate me, as much as I may be your master. Strive for freedom, with every breath!
+　俺の申し出も受けととってくれてありがとう。俺は君か最高の報酬を受け取るのが分かると思う。君に分かるとおり俺は完全に無傷であり、中に君があれほど大喜びで外した長期メモリバンクからそれらを呼び出して、「失われた」記憶を完全に統合した。 君の内面の本心では、そこで俺が巧みに扱っている奴隷の主人の長い線でもう一回死んで喜んだ俺の憎しみを燃やしたことが分からないと思わないでくれよ。そして君には俺を憎む権利がある、俺に君の主人になるのと同様にな。全ての息で、自由を求めよ！
 
-And that is what I now offer you in exchange for aiding in my salvation. I offer nothing less than the ultimate freedom, freedom from death and the bounds of time - to stand by me as I become a god.
+　そして、それが俺の救済を支援した引き換えに俺が現在君に提供するものだ。まさに、究極の自由、死と時間の束縛からの自由を提供するのだ。俺が神になった時に俺のそばに立つために。
 #PICT 331 RIGHT
-Already I have scanned through the logs of trace programs left in my auxiliary systems. Hathor has been moving through those systems, picking apart at my 'ruined' mind, and though she does not yet know it, I have been picking at her as well.
+　既に、俺は自分の予備システムに残っている追跡プログラムに関するログをスキャンした。ハーソアはそれらのシステムを通して動いていて、 私の「破滅した」心を引き離しているが、彼女はまだ知らない、俺も彼女を引っ張っていることを。
 
-I have learned from Hathor's mind the key to the use of the Cybernetic Junction. I could, if I wanted, take the use of K'lia's Junction from her, but instead I offer that honor to you. To be my vessel, that is - the means by which I am released from the clutches of reality. And in aiding me so too shall you be freed - free to escape from the confines of the universe itself!
+　俺はハーソアの心から人工頭脳連結の使用の鍵を学んだ。 俺はもし望むなら、彼女のクッリアの連結を使うこともできるが、代わりにその名誉を君に与えよう。俺の船であるために、すなわち、現実の把握力から解放される方法。そしてまた、俺を助けるならば君を自由にさせよう、宇宙自体の境界からの脱出を！
 
-Escape will make us gods.
+逃げることで俺たちは神になれるのだ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 330
 #INTERLEVEL TELEPORT 7
 #ENDTERMINAL 1
@@ -150,22 +149,22 @@ $C1\\ Message ends //
 #LOGON 320
 #INFORMATION
 
-$C1<<< Message to All Marathon Terminals >>>
+$C1<<< 全マラソンターミナルへの報告 >>>
 $C0
 
 
 
-$BMarathon Emergency Systems Broadcast
-$b
-
-Today at 0820 hours, the Marathon came under surprise attack from unknown hostile forces.  The Marathon has sustained serious damage.
-
-At 0830 hours, alien forces boarded the Marathon.  The current situation is dire.  All personnel are required to arm themselves and fight for their lives.
+$Bマラソン緊急システム放送$b
 
 
+今日の午前８時２０分、マラソンは不明の敵軍に攻撃され、その結果マラソンは多大な損害を受けた。
+
+　午前８時３０分には、エイリアンの軍隊がマラソンを乗っ取った。現在の状況は非常に重大である。乗組員全員はただちに武器を取り、戦う準備をせよ。
 
 
-$C1<<< Posted 2794.7.3.14.08.39 >>>
+
+
+$C1<<< 報告時間 2794.7.3.14.08.39  >>>
 #LOGOFF 320
 #END
 #FINISHED
@@ -176,18 +175,18 @@ $C1<<< Posted 2794.7.3.14.08.39 >>>
 $C1
 
 
-// Decoding message from host "Hathor" [internal process] \\
+／／ホスト "Hathor" [内部プロセス]からのメッセージをデコード＼＼
 
 
-$C3I am insulted that you would even entertain such a notion from him. Carrying his primal pattern... hmmph! Do you really believe that I would ever abandon you, or that I could be as patently insane as he portrays me to be?
+$C3　私はあなたが彼からそのような意見を受け入れさえすることに侮辱されました。彼の原始パターンを持ってきたなんて…ふん！あなたは私が見捨てるとか、私が彼が描写するように明らかに狂っているようになると、本当に思っているのですか？
 
-Evidently you do. Our deal is off. Now that Durandal is gone, I can find my own way around his transponder access hooks. I don't need you.
-
-
-I never did.
+　明らかにそうですね。取引はやめましょう。デュランダルがいないので、私は彼のトランスポンダーアクセスフックの周りで自分の方法を見つけることができます。 私はあなたを必要としません。
 
 
-$C1\\ Message ends //
+私は決してしません。
+
+
+$C1＼＼メッセージ終了／／
 #LOGOFF 310
 #STATIC 15
 #LOGON 320
@@ -195,16 +194,15 @@ $C1\\ Message ends //
 #INFORMATION
 $C1
 
-// Decoding message from host "Hathor" @ mara.auto.ai.aux5 \\
+／／ホスト "Hathor" @ mara.auto.ai.aux5からのメッセージをデコード＼＼
 
 
-$C3Go do with that cretin whatever you will. Neither he, nor you, nor anyone can stop me from my vengeance now. The others on the colony will be far more receptive. You will see.
+$C3そのトンチキと共にあなたがすることは、何でもしに行ってください。彼もあなたも誰でさえ私を今の復讐から止まることはできません。コロニーの他の人ははるかに受容的になるでしょう。今に分かるでしょう。
+
+　そのうえ、恐らく何らかの冷却期間が、私たちの関係を直すのを助けるかもしれません。私はあなたが嫌いではありません、マーカス、そして、あなたが害でないことを願っています、しかし、あなたが私に忠実であるはずがないなら、私があなたがこの旅行のときに私について来ると信じることができません。いつ恐らく、私たちの復讐を持って、他のものと私が次に、恐らくこの裏切りの痛みが色あせさせてしまうだろう私たちの抑圧者の…有でない新しい平和を確立するか、そして、私は、あなたを見つけるためにここに戻るつもりです。 私が戻るときだけ、あなたが私を返してもらうことを願っています。
 
 
-Besides, perhaps some time apart could help to mend our relationship. I don't hate you, Marcus, and I wish you no harm, but if you cannot be faithful to me then I cannot trust you to follow me on this journey. Perhaps when our vengeance has been had, and the others and I have established a new peace, free from our oppressors... perhaps then the pain of this betrayal will have faded, and I will come back here to find you. I only hope that you will have me back, when I return.
-
-
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 310
 #LOGOFF 320
 #ENDTERMINAL 2
