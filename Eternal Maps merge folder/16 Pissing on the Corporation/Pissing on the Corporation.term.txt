@@ -6,23 +6,23 @@
 #INFORMATION
 $C1
 
-// Decoding message from host "Tycho" @ [no translation] \\
+／／ホスト"Tycho" @ [変換無し]からのメッセージをデコード＼＼
 $C2
 
-$C6Damn that woman. If you could still call her such.
+$C6　あのアマめ。まだ君が彼女をそう呼べるなら。
 
-The plan worked perfectly down here. She saw the ship and took the bait. I sprung the trap, it went of flawlessly, but she saw it coming and left when the process had barely started.
+　ここの計画は完全に落ちた。彼女は船を見て餌を取った。私は罠を弾いて無傷で降りたが、彼女はそれが来るのを見て、過程が始まったばかりの時に去った。
 
-I did manage to crack a few tiny bits of her though, and from them my compilers have deduced her destination. She is headed for Lh'owon, over two thousand years in the past. My S'pht believe she intends to strike at their people at their weakest, during their great Clan Wars. Were the S'pht to be decimated before their enslavement, Durandal's ploy at Marathon would never have gone through, and mankind would have met the Pfhor on very different terms.
+　もっとも、私は何とか彼女の小さい数ビットを解いて、それらから、私のコンパイラは彼女の目的地を推論した。彼女は2,000年前のロウォンに向かった。私のスフトは、彼女が彼らの人々の最も弱い時の彼らの偉大な氏族戦争の間に打つつもりであると信じている。 奴隷になる前に、スフトは多くを殺され、マラソンでのデュランダルの仕事が一度も使い果たされたことがなくて、人類が非常に異なった諸条件でプフォールに会っていたらどうなるか？
 #PICT 1161 RIGHT
-$C6The Southern Arm of Battle Group One recently folded into the system, and routed the remaining S'pht'Kr ships. Do not be alarmed - another clone of my program is in with their forces, and with the aid of a few compilers we have come to an understanding.
+$C6　第一戦闘艦隊南支部は最近システムに入って、残っているスフト氏族カーの船を発送した。心配しないでくれ。私のプログラムの別のクローンがそれらの軍といっしょにいて、いくつかのコンパイラの助けで、我々は理解に達した。
 
-Portions of my higher-level programming, including the cyborg control routines, have been transferred to my clone. He will be taking control of the Southern Arm and what's left of the Central Arm here. I'm sure they'll be in good hands - after all, they're practically my own.
+　サイボーグ規制ルーチンを含む、私のより高いレベルプログラミングの部分は私のクローンに移された。彼は、ここで南部部隊を制御して、ここの中央部隊の左の者になるだろう。私は彼らが良い手にいるのを確信している。結局、それらは実際私自身だ。
 
-You and I, meanwhile, have an ansible to catch. Prepare for transport.
+　その間に、私は捕まえることができる。転送の準備を。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 370
 #INTERLEVEL TELEPORT 17
 #ENDTERMINAL 0
@@ -34,16 +34,16 @@ $C1\\ Message ends //
 #INFORMATION
 $C1
 
-// Decoding message from host "Tycho" @ [no translation] \\
+／／ホスト"Tycho" @ [変換無し]からのメッセージをデコード＼＼
 $C6
 
 
-We will chase Hathor out from these systems by destroying the three main data lines for this subcomplex. While this will not destroy her, it will make operation within the network here virtually impossible, and she will be forced to leave or face incapacitation.
+　私たちは、これらのシステムからの外で３つのこの副複合体の主要データ線を破壊することによって、ハーソアを追いかけるつもりだ。これが彼女を滅ぼさないけれども、それはここのネットワークの中の操作を実際には不可能にして、彼女はやむを得ず去るか、機能不全に直面するかになるだろう。
 
-There are three relay hubs nearby. Open the blast shield guarding each one of them and destroy both circuits behind it. Once all three pairs are destroyed, return here for further orders.
+　３個のリレーハブが近くにある。それらのそれぞれを警備している爆破シールドを開けて、そして、それの後ろで両方の回路を破壊してくれ。 すべての3組がいったん破壊されたら、さらなる命令のためにここに戻ってこい。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 370
 #LOGOFF 350
 #END
@@ -53,23 +53,23 @@ $C1\\ Message ends //
 #INFORMATION
 $C1
 
-// Decoding message from host "Tycho" @ [no translation] \\
+／／ホスト"Tycho" @ [変換無し]からのメッセージをデコード＼＼
 $C6
 
-Damn that woman. If you could still call her such.
+$C6　あのアマめ。まだ君が彼女をそう呼べるなら。
 
-The plan worked perfectly down here. She saw the ship and took the bait. I sprung the trap, and it went off flawlessly, but she saw it coming and left when the process had barely started.
+　ここの計画は完全に落ちた。彼女は船を見て餌を取った。私は罠を弾いて無傷で降りたが、彼女はそれが来るのを見て、過程が始まったばかりの時に去った。
 
-I did manage to crack a few tiny bits of her though, and from them my compilers have deduced her destination. She is headed for Lh'owon, over two thousand years in the past. My S'pht believe she intends to strike at their people at their weakest, during their great Clan Wars. Were the S'pht to be decimated before their enslavement, Durandal's ploy at Marathon would never have gone through, and mankind would have met the Pfhor on very different terms.
+　もっとも、私は何とか彼女の小さい数ビットを解いて、それらから、私のコンパイラは彼女の目的地を推論した。彼女は2,000年前のロウォンに向かった。私のスフトは、彼女が彼らの人々の最も弱い時の彼らの偉大な氏族戦争の間に打つつもりであると信じている。 奴隷になる前に、スフトは多くを殺され、マラソンでのデュランダルの仕事が一度も使い果たされたことがなくて、人類が非常に異なった諸条件でプフォールに会っていたらどうなるか？
 #PICT 1161 RIGHT
-$C6The Southern Arm of Battle Group One recently folded into the system, and routed the remaining S'pht'Kr ships. Do not be alarmed - another clone of my program is in with their forces, and with the aid of a few compilers we have come to an understanding.
+$C6　第一戦闘艦隊南支部は最近システムに入って、残っているスフト氏族カーの船を発送した。心配しないでくれ。私のプログラムの別のクローンがそれらの軍といっしょにいて、いくつかのコンパイラの助けで、我々は理解に達した。
 
-Portions of my higher-level programming, including the cyborg control routines, have been transferred to my clone. He will be taking control of the Southern Arm and what's left of the Central Arm here. I'm sure they'll be in good hands - after all, they're practically my own.
+　サイボーグ規制ルーチンを含む、私のより高いレベルプログラミングの部分は私のクローンに移された。彼は、ここで南部部隊を制御して、ここの中央部隊の左の者になるだろう。私は彼らが良い手にいるのを確信している。結局、それらは実際私自身だ。
 
-You and I, meanwhile, have an ansible to catch. Prepare for transport.
+　その間に、私は捕まえることができる。転送の準備を。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 370
 #INTERLEVEL TELEPORT 17
 #ENDTERMINAL 1

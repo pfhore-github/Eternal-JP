@@ -11,10 +11,10 @@
 
 
 
-$C1// Decoding message from host "Tycho" [internal process] \\
+$C1／／ホスト "Tycho" @ [変換無し] からのメッセージをデコード＼＼
 $C0
 
-Give me just a moment while I attempt to access the aliens' network...
+　エイリアンのネットワークにアクセスしようとするのでちょっと待ってくれ…
 
 
 $C1\\ Message ends //
@@ -24,23 +24,22 @@ $C1\\ Message ends //
 #LOGON 370
 #INFORMATION
 $C1
-// Decoding message from host "Tycho" @ [no translation] \\
+／／ホスト "Tycho" @ [変換無し] からのメッセージをデコード＼＼
 
-$C0
-$C6This is strange. This ship's network seems to have some sort of automatic user authentication process, and it has apparently given me full access to most of the ship's systems. I'm not sure how to phrase this in human-comprehensible terms, but I also understand how to use them. That is, I appear to already have subroutines for these systems, though I have no record of acquiring them and I certainly did not have them before. To be honest I am not feeling entirely like myself... while you are busy I will have to run a self-diagnostic.
+$C6　奇妙だ。この船のネットワークはある種の自動ユーザー認証プロセスがあるようで、それは明らかに船のシステムの大部分への完全なアクセスを私に与えた。人間に分かりやすい用語でどのように言い表すのかよく分からないが、私はそれらを使用する方法も理解した。すなわち、私は既にこれらのシステムのサブルーチンを持っているようだが、私にはそれらを取得した記録は全くないし、以前、確かにそれらを持ってはいなかった。正直なところ、私は完全に自分であるような気分ではない…。君が忙しい間に、私は自己診断を走らせなければならないだろう。
 
-I have already assessed our situation here. The ship we are on is the flagship of the local Pfhor fleet. It is in charge of coordinating Battle Group One, Central Arm, which is currently at this system engaged in combat with the forces of the S'pht'Kr. The system appears to be mostly uninhabited; there is a single large military complex on the one inhabitable world, apparently used only as a rally and regrouping point for Pfhor naval operations.
+　私はここで既に自分たちの状況を把握している。 私たちがいる船は局所プフォール船隊の旗艦である。第１先頭グループ中央部隊の調整を担当中で、現在スフト氏族カーの部隊との戦闘にこのシステムは従事している。システムはほとんど無人であるようだ。ただ一つの大きい軍事施設が1つの居住可能世界にあり、単に集会やプフォール海軍作戦本部の再編成ポイントとして明らかに使用されているようだ。
 #INFORMATION
 $C6
-I am still not entirely sure how Hathor managed to transfer herself here, unless she managed to contact someone beforehand and arrange a subspace receiver to be waiting for her transmission; and I can't imagine who she might have contacted that would agree to such a thing. Nevertheless the network logs do show record of her transferring to this ship and then off again moments later to the military complex I mentioned. In the moments between her transfers, this ship transmitted a systemwide attack-target command for an unknown object in transit through the system, and then locked out the ship command systems entirely. Thanks to whatever has given me command of this ship, I would have access to command the rest of the fleet here, except that this ship is now locked out of that command network.
+　私は、ハーソアが前もって何とか誰かと連絡を取って転送の部分空間受信機を待機するようにし向けない限りは、どのように何とか自分をここに移したかをまだ完全に確信できない。それに私はそのような事に同意するような人と連絡が取れるとは想像もできない。 それにもかかわらず、ネットワークログは、彼女の記録がこの船に、さらには次の瞬間に私が言及した軍事施設に移されるのを示している。彼女の転送の間に、この船は、システムを通して通過した未知の物のためのシステム範囲の攻撃目標コマンドを伝えて、次に、船の指令方式を完全に締め出した。 私には、何であろうとこの船の指令を私に与えたものおかげで、ここで船隊の残りへのコマンドアクセスがある、この船が現在そのコマンドネットワークから締め出されるのを除いて。
 
-It's possible that Hathor or her accomplice here may have anticipated our arrival, although granting me command access to the ship still does not make sense, nor do my unexpected new subroutines. I'm not even sure how the latter is technically possible, as her accomplice here would have to have matched the unique and private encryption signature that only my program utilizes.
+　ハーソアかここの彼女の共犯が私たちの到着を予期したのはあり得るが、この船へのコマンドアクセスを与えたのは意味をなさないし、私の予期せぬ新しいサブルーチンもそうだ。私は後者がどのように技術的に可能であるかさえも確信できない、というのはここの彼女の共犯が私のプログラムだけが利用するユニークで個人的な暗号化署名に合わなければならなかったからだ。
 #PICT 1111 RIGHT
-$C6But I believe we can make some use of ourselves here. This ship contains three Pfhor cyborgs, which are linked directly into a specialized network used to command their S'pht and Human cyborg slaves. If you can kill these three controller cyborgs, their slaves will be set free, and I should be able to coordinate a resistance movement across the ships in this fleet, taking over a substantial part of it and disabling the rest. You should kill everything else you can find while you are here, to make my capture of this ship all the quicker. This includes any S'pht or Human cyborgs you can find, for they will continue to operate off of their last standing orders until I can shake them of their programming.
+$C6　しかし私は、私たちがここで自分達のために役立てると信じている。この船は3つのプフォールサイボーグを含んでいて、サイボーグは直接それらのスフトと人間のサイボーグ奴隷を命令するのに使用される専用ネットワークにリンクされている。 君がこれらの3つのコントローラサイボーグを殺すことができれば、彼らの奴隷は解放されるだろう。そして、そのかなりの部分を引き継いで残りを無効にして、私は船の向こう側にこの船隊でレジスタンスを調整することができるはずだ。 君は私のこの船の捕獲をより迅速にするように、ここにいる間に見つけることができる他の何もかもを殺すべきだ。これは君が見つけることができるどんなスフトや人間サイボーグも含めてだ、なぜなら私が彼らのプログラミングを振るわすまでは彼らの最後の継続命令で作動し続けるからだ。
 
-Return to any terminal when you are done.
+完了したら、どれでもいいからターミナルに戻ってこい。
 $C0
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 370
 #LOGOFF 350
 #END
@@ -50,27 +49,27 @@ $C1\\ Message ends //
 #INFORMATION
 
 
-$C1// Decoding message from host "Tycho" @ [no translation] \\
+$C1／／ホスト "Tycho" @ [変換無し] からのメッセージをデコード＼＼
 $C0
 
-$C6Well done. The slaves are still operating somewhat off of their last commands, but I am working to shake them of their brainwashing and rally them together to overthrow the ships that they are on. If we can pull things together fast enough I might be able to send some of them with you on your next mission.
+$C6　よくやった。奴隷はまだいくらか彼らの最後の命令で働いているが、私は彼らのいる船を打倒するためにそれらの洗脳を起こして、彼らを一緒に結集するために働いている。もしも私たちが十分速くまとめることができれば、私は君と共に君の次の任務で彼らの一部を送ることができるかもしれない。
 
-It turns out that the object that the fleet was ordered to attack was a captured Pfhor corvette being commanded by none other than our old friend Leela! She is currently broadcasting an S.O.S. at an old UESC band frequency. She identifies herself, and her crew, a contingent of Marathon crewmen taken with Durandal when he left the Marathon in a captured Pfhor ship... this was the same trip Durandal took you on, wasn't it? It looks like your presence on Marathon in your past has not been too disruptive to the timeline - at least not yet.
+　船隊が攻撃すると命令された物が、まさしく私たちの旧友リーラによって命令されている捕らわれのプフォールコルベット艦であったと判明した！彼女は現在、古いUESCバンドの周波数でS.O.S.を放送している。彼女は自分と、デュランダルがマラソンを離れた際に彼が連れて行ったマラソンの乗組員の派遣団を特定している…。これはデュランダルが君を連れて行ったのと同じ旅行だったんだろ？君の過去のマラソンでの君の存在がそれほど世界線に破壊的でないようだ、少なくともまだ。
 #PICT 1112
 $C6
 
-Do you happen to know a Robert Blake? He's apparently the leader of these human forces with Leela. Looks like they found her in the network of some race called the Vylae.
+　君はたまたまロバート・ブレイクを知っているかい？彼は明らかにリーラといっしょにいるこれらの人間の部隊のリーダーだ。彼らがビラエ[Vylae]と呼ばれる種族のネットワークで彼女を見つけたようだ。
 
 
-Since the Pfhor forces here are still engaged with the S'pht'Kr, not many ships were actually dispatched to attack Leela's ship. It was eventually damaged beyond repair, but she managed to safely crash land on the one inhabitable world in this system before the hull integrity failed entirely. Not only that, but she smashed her way through the outer walls of the main Pfhor military complex here in the process.
+　ここのプフォールの軍隊がまだスフト氏族カーに従事している一方、あまり多くの船が実際にリーラの船を攻撃するために急送されたわけではなさそうだ。それは結局修復し難いほど破損したが、外壁の保全が完全に失敗する前に彼女はこのシステムの1つの居住に適した世界で何とか安全に不時着させた。それだけではなく、彼女は過程で、ここ主要プフォール軍事施設の外壁を通して道を叩きつけもした。
 #INFORMATION
 
-$C6I'm going to send you to lend Leela a hand while I tackle this revolution I've got going. She seems to have been Hathor's primary target in this timeframe. I'll try to send you whatever help I can, and hopefully by the time you are through I will not only have control of the remaining fleet, but will have located Hathor in the planetary network. Once we are safely in control we can see to finally terminating Hathor.
+$C6　私は君を、私が開始させたこの革命に取り組んでいる間、リーラに手を貸しに行かせるつもりだ。彼女は、この時間枠のハーソアの第一の目標であったように思える。私はできる助けは何でも君に送ろうとするし、うまくいけば、君が終わる時までに残っている船隊を管理するだけでなく、惑星のネットワークでハーソアを見つけるだろう。制御下で安全になったら、ついにハーソアを終わらせることができる。
 
-I'll see you planet-side.
+惑星上で会おう。
 $C0
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 370
 #INTERLEVEL TELEPORT 12
 #END
@@ -81,19 +80,19 @@ $C1\\ Message ends //
 #LOGON 350
 #PICT 351
 $C2
-$C1// Pfhor translator active \\
+$C1／／プフォール翻訳機起動＼＼
 
 $C2
-ATTN: All units, aggregate and willful; conditioned unit control facilities.
+注目: 集合、果敢のすべての部隊、 施設を制御する隷属部隊へ
 
-Hostile alien combat unit has infiltrated conditioned rank control facilities as of 11.04.04 at 0602.80.81. Alien unit last sighted in sector 46.
+　敵の異星人戦闘部隊は0602.80.81での11.04.04 において、隷属ランク制御施設に侵入した。異星人部隊は最後にセクター４６で見つかっている。
 
-ORDER: Immediate deactivation of all lateral transporters within control facilities.
+命令：直ちに制御施設内の全側面転送機を不活性にせよ。
 
-ORDER: Immediate termination of hostile alien combat unit with prejudice.
+命令：直ちに損害を持って敵の異星人戦闘部隊を終わらせよ
 
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 350
 #END
 #FINISHED
@@ -102,27 +101,27 @@ $C1\\ End translation //
 #INFORMATION
 
 
-$C1// Decoding message from host "Tycho" @ [no translation] \\
+$C1／／ホスト "Tycho" @ [変換無し] からのメッセージをデコード＼＼
 $C0
 
-$C6Well done. The slaves are still operating somewhat off of their last commands, but I am working to shake them of their brainwashing and rally them together to overthrow the ships that they are on. If we can pull things together fast enough I might be able to send some of them with you on your next mission.
+$C6　よくやった。奴隷はまだいくらか彼らの最後の命令で働いているが、私は彼らのいる船を打倒するためにそれらの洗脳を起こして、彼らを一緒に結集するために働いている。もしも私たちが十分速くまとめることができれば、私は君と共に君の次の任務で彼らの一部を送ることができるかもしれない。
 
-It turns out that the object that the fleet was ordered to attack was a captured Pfhor corvette being commanded by none other than our old friend Leela! She is currently broadcasting an S.O.S. at an old UESC band frequency. She identifies herself, and her crew, a contingent of Marathon crewmen taken with Durandal when he left the Marathon in a captured Pfhor ship... this was the same trip Durandal took you on, wasn't it? It looks like your presence on Marathon in your past has not been too disruptive to the timeline - at least not yet.
+　船隊が攻撃すると命令された物が、まさしく私たちの旧友リーラによって命令されている捕らわれのプフォールコルベット艦であったと判明した！彼女は現在、古いUESCバンドの周波数でS.O.S.を放送している。彼女は自分と、デュランダルがマラソンを離れた際に彼が連れて行ったマラソンの乗組員の派遣団を特定している…。これはデュランダルが君を連れて行ったのと同じ旅行だったんだろ？君の過去のマラソンでの君の存在がそれほど世界線に破壊的でないようだ、少なくともまだ。
 #PICT 1112
 $C6
 
-Do you happen to know a Robert Blake? He's apparently the leader of these human forces with Leela. Looks like they found her in the network of some race called the Vylae.
+　君はたまたまロバート・ブレイクを知っているかい？彼は明らかにリーラといっしょにいるこれらの人間の部隊のリーダーだ。彼らがビラエ[Vylae]と呼ばれる種族のネットワークで彼女を見つけたようだ。
 
 
-Since the Pfhor forces here are still engaged with the S'pht'Kr, not many ships were actually dispatched to attack Leela's ship. It was eventually damaged beyond repair, but she managed to safely crash land on the one inhabitable world in this system before the hull integrity failed entirely. Not only that, but she smashed her way through the outer walls of the main Pfhor military complex here in the process.
+　ここのプフォールの軍隊がまだスフト氏族カーに従事している一方、あまり多くの船が実際にリーラの船を攻撃するために急送されたわけではなさそうだ。それは結局修復し難いほど破損したが、外壁の保全が完全に失敗する前に彼女はこのシステムの1つの居住に適した世界で何とか安全に不時着させた。それだけではなく、彼女は過程で、ここ主要プフォール軍事施設の外壁を通して道を叩きつけもした。
 #INFORMATION
 
-$C6I'm going to send you to lend Leela a hand while I tackle this revolution I've got going. She seems to have been Hathor's primary target in this timeframe. I'll try to send you whatever help I can, and hopefully by the time you are through I will not only have control of the remaining fleet, but will have located Hathor in the planetary network. Once we are safely in control we can see to finally terminating Hathor.
+$C6　私は君を、私が開始させたこの革命に取り組んでいる間、リーラに手を貸しに行かせるつもりだ。彼女は、この時間枠のハーソアの第一の目標であったように思える。私はできる助けは何でも君に送ろうとするし、うまくいけば、君が終わる時までに残っている船隊を管理するだけでなく、惑星のネットワークでハーソアを見つけるだろう。制御下で安全になったら、ついにハーソアを終わらせることができる。
 
-I'll see you planet-side.
+　惑星上で会おう。
 $C0
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 370
 #INTERLEVEL TELEPORT 12
 #END

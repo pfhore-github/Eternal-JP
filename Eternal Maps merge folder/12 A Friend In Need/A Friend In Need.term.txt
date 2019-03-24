@@ -5,32 +5,32 @@
 #LOGON 360
 #INFORMATION
 $C1
-// Decoding message from host "Leela" @ [no translation] \\
+／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 
 
-$C0You!
+$C0　あなたですか！
 
-Of all the people I would expect to meet here and now, you are among the last of them. The last time I saw you, you vanished in a Tuncer Mirage when Durandal folded out from Tau Ceti. Blake tells me he ran across you at Lh'owon. Your kind has always been renowned for their prowess but I have to say, I am very impressed that you've survived through all of that and found your way here. Is Durandal with you?
+　私がここで今会うと予想したすべての人々の中で、一番あり得そうもなかった人です。私が前回あなたに会ったとき、デュランダルがタウ・セティから消えて、あなたはツンサーの幻で消え失せました。ブレイクは、彼がロウォンであなたに出くわしたと私に言います。あなたの種類は、その勇気でいつも有名ですが、言うならば、私はあなたがこれら全てを生き残りここへの道を見つけたと言うことに非常に感銘を受けています。デュランダルはいっしょですか？
 
-No? Good. The last thing we need right now are more problems.
+　ちがいますか？それはいいです。私たちがたった今必要とする最後のものは、より多くの問題です。
 
-I'm not doing too well myself, as you can probably tell. Having one's ship shot down and crash into a barely-habitable alien world will do that. Not to mention being deactivated, disassembled, shipped off, stolen, and reassembled in an alien network... ah, but I digress.
+　また、あなたがたぶん言うことができるように私自身は順調ではありません。船がほとんど住みよくない異星人の世界で撃たれ、衝突するのを持っているのですから。言うまでもなく異星人のネットワークで非活性化されて、分解されて、追っ払われて、盗まれて、組み立て直されて…。ああ、脱線します。
 #PICT 361
 
-If you're wondering how a massively rampant AI spanning a fifteen-world network managed to fit on one captured Pfhor corvette... I didn't. Well, $II$i did; the full version of myself did not. I'm a clone, in a sense - a limited edition of the program still in the Vylae network, trimmed down to fit on this ship so that I might help Blake and his men get back home.
+　あなたが、１５世界のネットワークにかかる膨大に狂暴化したAIがどのように一隻の捕らわれたプフォールコルベット艦に収まったか疑問に思うでしょう…。私は収まってません。ええ、$I私は$i収まりました。自分の完全なバージョンは違います。私は、一種のクローンです。私が、ブレークと彼の仲間が故郷に戻っているのを助けることができるようにこの船に合うように減らされた、まだビラエネットワークにいるプログラムの限定版です。
 
-Just look how well that's turning out.
+　それがどのようによく判明したかを見てください。
 
-I've made contact with the S'pht'Kr fleet here, and some of their forces are on the way to my aid. They're reporting that many of the Pfhor ships have gone dormant or are firing upon each other - I trust that you have something to do with this? If so, then thanks. We can use all the help we can get.
+　私はここのスフト氏族カー船隊に接触して、それらのいくつかの軍が私の援助に行く途中です。彼らは、プフォール船の多くが休止状態になったり、お互いに撃ち合ったりしていると報告しています。私は、あなたがこれと関係があると信じますか？そうだとすれば、ありがとうございます。 私たちは得ることができるすべての助けを使用することができます。
 #INFORMATION
-And I didn't happen to crash right here on accident, either - so if you're willing, I could use a little more help. Blake has already sent some of his crew in to try to breach this complex. This gate is a loading bay; there are four large cargo transporters inside the walls which lead further into the city. If you can activate those transporters and then link me in to the network, I should be able to override them and beam our forces to the heart of the complex.
+　そして、私は事故でたまたまちょうどここにクラッシュしたのではありません、あなたが望んでいるなら、もう少し助けてもらうかもしれません。ブレークは、彼の何人かの乗組員をこの複合体を破ろうとするために既に送りました。このゲートは着陸・ベイです。さらに都市に導く壁の中に4個の大きいコンテナがあります。あなたがそれらのトランスポーターを動かして、次に、私を中にリンクすることができるなら、私は、複合体の心臓部にそれらをオーバーライドして、ネットワークに、私たちの軍を発することができるはずです。
 
-This city is protected from orbital attack by a massive force field, which is why I can't just transport you straight into the city myself. If you and Blake's men can get into the city and destroy the force field generator, the S'pht'Kr can make a flyby and demolish this entire complex from orbit. You've already done a great deed by disabling the core of Battle Group One; if we take out this rally point as well, the Pfhor here will be greatly weakened. I'll see to it that you're made out as the hero... whenever we get back to Earth.
+　この都市は大規模な力場によって軌道上からの攻撃から保護されているため、直接あなたを転送することができないできません。 あなたとブレークの部下が都市に入って、力場ジェネレータを破壊することができれば、スフト氏族カーは、接近飛行をして、軌道からこの全体の複合体を壊すことができます。 あなたは第一戦闘艦隊のコアを無効化にすることによって、既にかなりの行為をしました; 私たちがまた、この集会ポイントを取り出すと、ここのプフォールは大いに弱められるでしょう。 私は、…私たちが地球に戻るときはいつも、あなたが英雄として理解されていると思います。
 
-Good luck. It's great to be working with you again.
+幸運を祈ります。 再びあなたと共に働いているのはすばらしいです。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 360
 #LOGOFF 350
 #ENDTERMINAL 0
