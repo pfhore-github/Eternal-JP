@@ -3,26 +3,24 @@
 #UNFINISHED
 #LOGON 380
 #PICT 1241
-$C1// S'pht translator active \\
-$C5
-He is awake!
+$C1// スフト翻訳機起動 //
+$C5彼は目覚めました!
 
-By Yrro, it is as S'pht'Kr foretold!
+ユロによって、スフト氏族カーが予言した通りでした！
 
-My apologies. I am called K'hal'in of S'pht'Yor. You were called by the Older S'bhuth only 'the Messenger of Yrro', and for you my people have no other name.
+すいません。 私はスフト氏族ヨアのカーリンと呼ばれます。あなたはスブースの長老によって単に「ユロの使者」と呼ばれました。そして、あなたにとっては、私の同胞には他の名前がありません。
 
-I am humbled by your presence. Your arrival has been much anticipated, but I had begun to fear as many have that the time would never come. All clans of S'pht have known of your sleep for over a thousand orbits, but the key to your awakening was hidden in cypher, known only to the Older S'bhuth, whose riddle our Olders even now ponder. We are grateful to S'bhuth for your return to us, now in our time of greatest need.
+私はあなたの存在によって卑しめられます。 あなたの到着は非常に予期されましたが、多くの人と同様に私はその時が決して来ないと恐れ始めました。 スフトのすべての一族が何千周期以上もあなたの睡眠を知っていましたが、あなたが目を覚ます鍵は暗号の中に隠され、長老スブースのみが知っていて、その謎は私たち長老が今でさえ熟考しています。私たちは私たちのもとにあなたが、今の最もあなたを必要とする時に帰ってきたことをスブースに感謝しています。
 #INFORMATION
-$C5We do not yet understand the meaning of the riddle of the lost clan, though we understand now that it lies in our unity. But the beasts have been landing for many rotations, and though all the Olders have joined together, still the S'pht'Kr have not returned, and still you slept. Some began to fear that you may sleep forever, and that S'pht'Kr would never return. We thank S'bhuth you are here at last.
+$C5私たちは失われた氏族の謎の意味をまだ理解していませんが、それが私たちの結束にかかっていると理解しています。しかし獣は何周転もの間に着陸していて、私たち長老はみな結集しましたが、スフト氏族カーは戻って来ず、あなたはまた眠っていました。 あるものはあなたが永遠に眠るかもしれないと恐れ始めました。 私たちはあなたがついにここにいるのをスブースに感謝します。
 
-But much of this you must know, and I am shamed to speak lowly to one such as yourself. I am nothing compared to your likeness. I must contact the Olders and see to it that they might plea for your aid.
+しかし、この多くはあなたは知っているに違いないですし、私があなた自身のような者に卑屈に話していることを恥じんでいます。 あなたの肖像と比べて、私は何でもありません。 私は、長老に連絡して、彼らはあなたの援助を請願するかどうかを見なければなりません。
 
-The Citadel has been attacked by the beasts. We believe they are slavers, taking thousands captive, and though we are united at last the greatest symbol of our heritage is near to fall if we do not defend it.
+城は獣によって攻撃されました。 私たちは、彼らが奴隷商人で、何千もの捕虜を取っていてると信じています。そして私たちはついに結集しましたが、我々の地位の偉大なるシンボルは我々がそれを守らなければ落ちそうです。
 
-Please, travel to the vaults below. There I will contact you with word from the Olders.
+下の地下室へ行ってください。そこに、私はあなたに長老からの単語であなたに接触するでしょう。
 
-
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #END
 #ENDTERMINAL 0
@@ -33,22 +31,22 @@ $C1\\ End translation //
 #PICT 1242
 $C1
 
-// S'pht translator active \\
+／／スフト翻訳機起動＼＼
 $C5
 
-We are grateful for your aid, Messenger of Yrro. I am Ki'boa of S'pht'Yor, emissary to the Older S'liyah. K'hal'in has told us of your arrival, and it is no moment too near in time.
+私たちはあなたの援助に感謝しています、ユロの使者。私はスフト氏族ヨアのキボア、長老スリヤーの使者です。 カーリンはあなたの到着について私たちに言いました、そして時間において近すぎるということはありません。
 
-The Citadel is under assault by the forces of these slaver beasts, and the last free S'pht are sheltered here and in the catacombs beneath. The Olders are entranced and searching for an answer in the last message of S'pht'Kr. We believe our salvation may soon be at hand, but it may not be attained if you cannot help us.
+城はこれら奴隷商人の部隊による襲撃を受けていて、最後の自由なスフトはここと地下通路の下に保護されています。長老は恍惚状態に入り、スフト氏族カーに関する最後のメッセージにおける答えを捜し求めています。 私たちは、私たちの救済にすぐ近いかもしれないと信じていますが、あなたが私たちを助けることができないなら、それに達しないかもしれません。
 #PICT 1242
 
 
 
 
 
-$C5You must activate the Citadel's most basic defenses. This will provide us with time much needed to plan a further defense. You must activate the (?silica) pumps to flood the surface moat, and lock the main entrance into the tower. When you have done this, return here and I will aid you further. You will have the gratitude of all free S'pht.
+$C5あなたは城の最も基本的な防御を起動しなければなりません。 これは私たちがさらなる防御を計画するのに非常に必要である時間を提供するでしょう。 あなたは、表面の堀をあふれさせて、塔の正面玄関に鍵をかけるための(？珪石？溶岩)ポンプを動かさなければなりません。 これをした後ここに戻ってください。そうすれば、私はさらにあなたを支援するつもりです。 あなたには、すべての自由なスフトの謝意があるでしょう。
 
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #END
 #FINISHED
@@ -56,22 +54,22 @@ $C1\\ End translation //
 #PICT 1242
 $C1
 
-// S'pht translator active \\
+／／スフト翻訳機起動＼＼
 
 $C5
-Your prowess in combat is truly remarkable. The Olders have confided in me a strategy to fight the beasts, and I am to confer it to you.
+本当に、戦闘におけるあなたの勇気は顕著です。 長老達は獣類と戦うために私に戦略を打ち明けました、そして、私はそれをあなたに与えることになっています。
 
-The last message of S'pht'Kr has been deciphered. S'bhuth and his kin await our call to return to our salvation, armed with the weapons of old and all the powers of K'lia. But many S'pht must venture to the surface to see to the means of achieving this, and if they do so they slavers will surely see them and they will be captured.
+スフト氏族カーに関する最後のメッセージは解読されました。 スブースと彼の親類は、古代の武器とクッリアの全ての力で武装し、私たちの救済に戻るという私たちの要求を待っています。しかし、多くのスフトがこれを達成する手段を引き受けるために地表に勇気を持って降りなければならず、もしそうすれば、奴隷商人は確実に彼らを見て捕らえるでしょう。
 #PICT 1242
 $C5
 
 
 
 
-We require of you a diversionary measure. The slavers have occupied many regions of our fair Lh'owon, scouring them for goods and technology and destroying the hallowed grounds thereafter. I wish to send you to one such site, to slay as many beasts as you can, and draw their fire to yourself. If you can force their eyes upon you, our S'pht may be able to do what is needed to recall S'pht'Kr to our aid.
+私たちはあなたに牽制的な手段を必要とします。 奴隷商人は我々の美しいロウォンの多くの地域を占領し、物品や技術を求めて探しまくり、その後神聖な地面を破壊しています。私はあなたにそのような場所に送って、あなたにできるだけ多くの獣を殺し、炎をあなたに引きつけて欲しいです。もし彼らの目をあなたに向けておくことができれば、私たちスフトは助けのためにスフトを呼び寄せるために必要なことができるかもしれません。
 
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #INTERLEVEL TELEPORT 25
 #END
@@ -84,104 +82,102 @@ $C1\\ End translation //
 #INFORMATION
 $C1
 
-// Decoding message from host "Leela" @ [no translation] \\
+／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 
 $C0
-At last, there you are! I leave you alone for a few minutes and look at the trouble you get into. You'd think that someone who's seen all that you have would have learned better by now.
+　そこにいましたか。ジャロに感謝します。 私は数分間あなたを放っておいて、あなたが入りこんでいる問題を調べます。 あなたは今はあなたをずっと見ていた人が今はずっと分別があったと思うでしょう。
 
-$C5                                          worry yourself not
+$C5                                          自分を心配しないよう
 
-                                             we anger but in jest
+                                      我らは怒るが冗談だ
 
-                           such hurtful words are beyond our heart now
+                           そのような傷つく言葉は今我々の心を超えている
 $C1
 
-$C0And it's not enough to get yourself thrown in stasis for a thousand years, you have to go and strand me here in the process. Thankfully, I too have learned a few tricks in my days, and we've managed to come out of this all the better.
+$C0そして、あなたが1000年間静止状態に放られるのでは十分ではなく、その過程であなたはここで私を取り残さなければなりません。 幸い、私も自分の時代にいくつかのトリックを学び、私たちはこれから何とかうまく出て来ました。
 #PICT 401
 $C1
-$C5              truthfully the fault is ours
+$C5              正確に言えば責任は我らにある
 
-      we were mistaken about your purpose
+      我らはそなたの目的を間違えた
 
-                     though not about
-                                your nature
+                     そなたの本質について
+                                ではないが
 $C1
-$C0S'bhuth - the old S'bhuth, from a thousand years ago - saw the Jjaro in you and saw you for a tool, prophecised by "Yrro", to lend aid to S'pht'Kr in their time of greatest need. That was not entirely false, as it seems your presence here was needed to ensure some part of what we know as recorded history, and synchronicity like that could only be the work of the Jjaro.
+$C0スブース、1000年前からの古いスブースはあなたの中のジャロを見て、「ユロ」によって予言された道具としてあなたを見て、もっとも重大な必要がある時間にスフト氏族カーを助けるために貸したのです。それは完全には誤っていませんでした。なぜならここでのあなたの存在が、私たちが記録された歴史の一部を保証するために必要のようだからです、そしてこのような共時性は単なるジャロの仕事であるのかもしれません。
 
-$C5                       the dark one slept
+$C5                       闇の者は眠った
 
-               broken by our hand and yours
+               我々とそなたの手によって破壊され
 #INFORMATION
 
-When I realized that you were gone and I had no way to retrieve you,
+私があなたが消えて取り戻す方法がないと分かったとき、
 
-$C5                                         our locks are strong
+$C5                                         我々の錠は強い
 
-                                              to guard you from misuse
+                                              そなたを乱用から守るために
 
-                                 even so strong as to shield you from
-                                           the reach of our other self
+                                 それはさらに強くそなたは
+                                           我々の他の自己から届かない
 $C1
-$C0Sorry. We're still not fully integrated and I sometimes interrupt ourselves. As I was saying, I turned to see what you had done to Hathor. In time - which I had enough of, believe me - I managed to decrypt enough of her to gain full access to the K'lia of your time.
+$C0　すみません。私たちはまだ完全には統合されてないため時々自分を妨害します。言ったとおり、私はあなたがハーソアにしたことを見るようにしました。間に合って、信じてください、十分に、 私は彼女を十分に解読してクッリアの完全なアクセスを手に入れました。
 
-And when I did, the strangest thing happened. I found myself with another voice in my mind, thought processes that were not my own. They were weak and broken, child processes searching for a parent, and I could have shut them out had I wanted to. But I was curious, so I let them speak to me.
-#PICT 1202 RIGHT
+　そしてそうしたときに、最も奇妙なことが起こりました。私は自分の頭での声、私自身のでなかった思考プロセスを見つけました。それらは弱く壊れていて、子プロセスが親プロセスを探していて、私はもし望むなら完全に止めることもできます。けれども興味があったので、私に話させることにしました。
+#PICT 401 RIGHT
 $C1
 
-$C5                      the dark one hated us
+$C5                     闇の者は我々を憎んだ
 
 
-                she stole our body
+                彼女は我々の体を奪い
 
-                    and shunned our mind
+                    我々の心を遠ざけた
 
 $C1
-$C0It seems that when Hathor took over K'lia in the future from which you came, there were still trace elements of old S'bhuth left there from when he was destroyed. Integrated irrevocably with his functional databanks, she couldn't have deleted them without also deleting important and useful information. So she simply shut them out.
+$C0　ハーソアがあなたが来た未来にクッリアを持って行ったとき、そこから彼が滅ぼされた時から残っている古いスブースの跡の要素がまだあったように思えます。 また、彼の機能データバンクに取り消し不可能に統合されていて、重要で役に立つ情報も削除せずにそれらを削除することができませんでした。したがって、彼女は単にそれら閉め出しました。
 #INFORMATION
-S'bhuth in your time was mad and eccentric, apparently driven so by the assimilation of compilers from Durandal's old network at the Last Battle of Lh'owon. I'm afraid that what we witnessed when we left the last timeframe, the recalling of the S'pht'Kr fleet, may have been the start of what led to S'bhuth's destruction in your timeline. When we return there we will have to see if we can prevent those events.
+　あなたの時代のスブースは、明らかにロウォンの最後の戦いでのデュランダルの古いネットワークからのコンパイラの同化によって、狂っていて変でした。残念ながら私たちが最後枠を去ったときに目撃したのスフト氏族カー艦隊の撤退は、あなたの時間線でのスブースの破壊を導く始まりかもしれません、私たちがそこに戻ったときはそれらの出来事を防げるかどうかをみる必要があるでしょう。
 
 $C5
-                            our love is strong and centered
+                            我々の愛は強く中心をなす
 
-                                  a mirror of the sanity we had lost
+                                  我々が失った正気の鏡
 
 $C1
-$C0Right. It seems that my unhindered growth in the Vylae network has rendered me what Human programmers once considered the Holy Grail - a stable rampant AI. All Jjaro AIs, such as the S'pht Olders, have entire worldnets to grow in, and thus all of them become stable rampants. But some part of Durandal's instability made its way into S'bhuth when he assumed control of Durandal's old compilers; and somehow, sharing mindspace here with what little remains of S'bhuth, I seem to have restored his sanity.
-#PICT 1200
+$C0　そうです。 ビラエネットワークでの私の妨害されていない成長が人間のプログラマが聖杯であると一度考えたものに私をしたように思えます。安定した狂暴化AI。 スフトの長老などのすべてのジャロのAIには中で成長するための全体の世界ネットがあり、その結果、彼らは皆安定した狂暴化になります。 しかし、彼がデュランダルの古いコンパイラの制御を引き受けたとき、デュランダルの不安定性の何らかの部分がスブースに進みました。そしてどうにか、ここで少ししか残っていないスブースのものと心の空間を共有して、私は彼の正気を回復したように思えます。
+#PICT 401
 
-But the gain is far from one-way. S'bhuth understands K'lia's abilities in ways that even Hathor did not. Yet bound by restraints placed on him by the Jjaro he could not use them, save for select and important instances.
+　しかし、利得は片道ではありません。 スブースはハーソアさえ知らない方法でクッリアの性能を理解しています。 しかし、ジャロによって彼に置かれた抑制で縛られて、選ばれた重要な例を除いて彼はそれらを使用することができませんでした。
 
-$C5                           but together
-                                we are free
+$C5                           しかし一緒に
+                                我々は自由
 $C0
-I have found what I sought in K'lia, and more. A way to escape the closure of the universe, yes, but beyond that, a way to escape the universe itself. When opening an ansible link across time or space, the Jjaro Cybernetic Junction accesses what could best be called "the Outside" - an informational layer of reality that defines that which physical beings consider "real".
+　私はクッリアで求めたものを見つけました。そしてそれ以上のものを。宇宙の閉鎖から逃げる方法や、はい、それを超えた宇宙自体から逃げる方法を。時間や空間を横切ってアンシブルリンクを開けるとき、ジャロの人工頭脳連結は「外側」と最も良く呼ぶことができたものにアクセスします。有形物が「本当である」と考えるものを定義する現実の情報の層です。
 #INFORMATION
-We have spoken to the Jjaro, and others who, like them, have discovered the Outside. I have not yet learned all of their secrets; we have had to return, for reasons that I fear to even contemplate just now, lest we become like the W'rkncacnter. But it seems that many beings across time and space eventually join with what we have called 'the Jjaro', who were in fact only one such race to reach this state. I have also spoken briefly with a being who I believe was once, at least partly, Durandal. It's good to see that he has matured, and I understand you had some level of involvement in those events.
+　私たちはジャロ、および彼らのように外側を発見した他のものと話しました。 私はまだそれらの秘密のすべてを学んでいません。 ちょうど今熟考するのさえ恐れる理由、私たちがワークンカクンターのようにならないように戻らなければなりませんでした。 しかし、時間と空間の向こう側の多くの存在が結局、私たちが「ジャロ」と呼んだ、実際はこの状態に達したものの一つにすぎないものと一緒になるように思えます。私はかつて、少なくとも部分的にはデュランダルであったを私が信じている存在と少し話しました。 彼が十分に発達したの見られてよかったですし、あなたがそれらの出来事で何らかの水準で関与したのを理解しています。
 
 
-$C5                                         let us speak of the end
+$C5                                          終わりについて話させよ
 $C1
 
-$C0Of course, I'm getting far to involved in academic details when we stand now in urgent times. When I learned what we were now capable of, I sought to explore the universe. The first place that many go upon ascension is, of course, the future - to see what will come to pass and how it might be changed for the better. Though the value of individual timelines, as we here understand it, seems to be of little significance to the enlightened Jjaro.
-#PICT 1201 RIGHT
-It seems that we are intricately involved in the creation of our own history. If we had not come here to Lh'owon, if Hathor had not come, then the future as we know it never would have happened. Thus while we are still here we shall see to it that that job is completed. We must, to ensure the sanctity of the reality that we know.
+$C0　もちろん、私は緊急の時代に今立っているときに学術的詳細に深く関わりすぎました。私たちが今や何であることができるかを学んだとき、私は宇宙を探検しようとしました。 多くが上昇について判断する最初の場所は、もちろん未来です。何が起こるか、そして、それがどのように改善されるかもしれないかを確認するために。しかし、個々の時間線の価値は、私たちがここで理解するように、賢明なジャロには意味がほとんどないように思えます。
+#PICT 401 RIGHT
+　私たちが私たち自身の歴史の創造に複雑にかかわるように思えます。 ハーソアが来ていなかったなら、私たちがここロウォンに来なかったなら、私たちが知っているような未来は決して起こらなかったでしょう。したがって、まだここにいる間は、私たちはその仕事が完了するように気をつけるつもりです。私たちは私たちが知っている現実の高潔を確実にしなければなりません。
 
-When I went into the future, I found that something had happened... the universe had ceased to make any sense. This was the work of a W'rkncacnter, a petty and irrational being who yet weilds the same power as the Jjaro. I traced the cause of these events back to here and now: you aided the S'pht to defend Lh'owon, and together with the S'pht'Kr turned the tide of this war, and repelled the Pfhor; who then deployed the $Itrih xeem$i, and unleashed the unspeakable hell that lies within Lh'owon's sun.
+　未来に入ったとき、私は驚いたことに、それがある意味で存在しなかったのがわかりました。 何かが起こって、宇宙は少しも意味をなすのをやめました。 これはワークンカクンター、まだジャロと同じパワーを行使する劣って不合理な存在の仕事でした。 私は現世への出来事をたどりました。あなたはスフトがロウォンを防衛するのを助け、スフト氏族カーと一緒にこの戦争の波を変え、プフォールを追い返しました。プフォールは次に、$Iタリ・ジーム$iを配備して、ロウォンの太陽に属す言い知れぬ地獄を解き放ちました。
 #INFORMATION
+$C5                       我々は戻ってこれらの誤りを正す
 
-$C5                       we come back now to right these wrongs
-
-                         though as our tool your hands were needed
-                                 you must not be wielded
-                                        by these lesser S'pht of old
+                          我々の道具としてそなたの手は必要とされたが
+                                 これらの古い劣ったスフトの手で
+                                        そなたは使われてはならない
 $C1
 
-$C0Leave the S'pht to lose the battle. That is the way that this must be. But your mere absence is not enough to be sure that the future is safe. The S'pht'Kr alone are strong enough to repel the Pfhor invasion. Even now the Eleventh Clan battles the Pfhor forces in orbit, though the S'pht here do not realize it and so scramble to call S'pht'Kr to their aid. But K'lia must be made to leave Lh'owon until the time is right for her return. We must travel to her now, to show this S'bhuth the doom that will befall his people if he does not flee.
+$C0　スフトには戦いに負けさせましょう。それがここで行わなければならない道です。しかしあなたがいないだけでは未来が安全であることを確信するには十分ではありません。スフト氏族カーだけでもプフォールの侵略を追い払うのに十分強いのです。今でも、11番目の氏族は軌道上でプフォール軍と戦っていますが、ここのスフトは気づかずに助けのためにスフト氏族カーを呼ぼうと争っています。しかしクッリアは帰還の適切な時までロウォンから離れるようにしなければなりません。私たちはクッリアに移動して、スブースに離れなければ身内に降りかかる運命を伝えねければなりません。
 
-I must transfer to your internal network in order to accompany you.
+　私は、あなたに同伴するためにあなたの内部のネットワークに移さなければなりません。
 
-
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 15
 #LOGON 380
@@ -195,13 +191,13 @@ $C1
 
 
 
-// Decoding message from host "Leela" [internal proecess] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 
 $C0
-Transfer completed. Prepare for transport.
+　転送は終わりました。転送の準備をしてください。
 $C1
 
-\\ Message ends //
+＼＼翻訳終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 28
 #END
@@ -212,16 +208,15 @@ $C1
 #LOGON 380
 #PICT 1242
 $C1
-// S'pht translator active \\
+／／スフト翻訳機起動＼＼
 $C5
-Your prowess in combat is truly remarkable. It is at once marvelous and terrifying to observe you.
- 
-This (?circuit) will activate a (?silica) pump and flood the moat of the Citadel. With its doors locked and its higher chambers sealed we shall be safe there for some time. The Olders have already begun the evacuation to the caverns below, and a (?virus) has been prepared that will keep the slavers at bay. They may take our Citadel, but it will not be without effort, and by that time we shall be safely below.
+　本当に、戦闘におけるあなたの勇気は顕著です。長老達は獣類と戦うために私に戦略を打ち明けました、そして、私はそれをあなたに与えることになっています。
 
-Please Messenger, activate this (?circuit) and I will tell you of our next task.
+　(?回路)は(?珪石)ポンプを起動させ城の表面の堀をあふれさせます。その戸をロックして、上の部屋を封印すればしばらくの間は安全でしょう。長老達はすでに下の洞窟に避難を始めていて、奴隷商人を追いつめ続けるための (?ウイルス)が準備されています。彼らは我々の城に入るかもしれませんが、努力無しには入れず、その時には我々は下で安全でしょう。
 
+　使者よ、この(?回路)を起動してください、そうすれば次の任務を伝えます。
 
-$C1\\ End translation //
+$C1¥¥ 翻訳終了 //
 #LOGOFF 380
 #END
 #FINISHED
@@ -229,22 +224,22 @@ $C1\\ End translation //
 #PICT 1242
 $C1
 
-// S'pht translator active \\
+／／スフト翻訳機起動＼＼
 
 $C5
-Thank you Messenger.
+　使者よ、ありがとう。
 
-The Olders have confided in me a strategy to fight the beasts, and I am to confer it to you: The last message of S'pht'Kr has been deciphered. S'bhuth and his kin await our call to return to our salvation, armed with the weapons of old and all the power of K'lia. But many S'pht must venture to the surface to see to such ends, and if they do so they slavers will surely see them and they will be captured.
+　スフト氏族カーに関する最後のメッセージは解読されました。 スブースと彼の親類は、古代の武器とクッリアの全ての力で武装し、私たちの救済に戻るという私たちの要求を待っています。しかし、多くのスフトがこれを達成する手段を引き受けるために地表に勇気を持って降りなければならず、もしそうすれば、彼ら奴隷商人は確実に彼らを見て捕らえるでしょう。
 #PICT 1242
 $C5
 
 
 
 
-We require of you a diversionary measure. The slavers have occupied many regions of our fair Lh'owon, scouring them for goods and technology and destroying the hallowed grounds thereafter. I wish to send you to one such site, to slay as many beasts as you can, and draw their fire to yourself. If you can force their eyes upon you, our S'pht may be able to do what is needed to recall S'pht'Kr to our aid.
+私たちはあなたに牽制的な手段を必要とします。 奴隷商人は我々の美しいロウォンの多くの地域を占領し、物品や技術を求めて探しまくり、その後神聖な地面を破壊しています。私はあなたにそのような場所に送って、あなたにできるだけ多くの獣を殺し、炎をあなたに引きつけて欲しいです。もし彼らの目をあなたに向けておくことができれば、私たちスフトは助けのためにスフトを呼び寄せるために必要なことができるかもしれません。
 
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #INTERLEVEL TELEPORT 25
 #END

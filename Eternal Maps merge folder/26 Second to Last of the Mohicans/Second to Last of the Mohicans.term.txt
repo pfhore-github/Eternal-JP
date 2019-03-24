@@ -4,13 +4,13 @@
 #LOGON 380
 #PICT 1242
 $C1
-// S'pht translator active \\
+／／スフト翻訳機起動＼＼
 $C5
-Welcome, Messenger. Your task was well executed. The slavers have been drawn far off from our true plot, and all but one beacon has been lit in the riddle of the S'pht'Kr.
+　ようこそ、使者。あなたのタスクはよく実行されました。奴隷商人は私たちの真のプロットから遠くに撤退しています。一つをのぞく全ての標識がスフト氏族カーの謎の中点灯されました。
 
-Please, continue distracting the slavers, while our troops seek the final lights that will recall S'pht'Kr to our salvation.
+　我々が救済のためにスフト氏族カーを呼ぶための最後の光を探している間に続けてください。
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #ENDTERMINAL 0
 ;
@@ -19,20 +19,19 @@ $C1\\ End translation //
 #LOGON 380
 #LOGON 410
 #PICT 411
-$C1~
-                                   []
+$C1‾                                []
 
 ^r                               /  !
-              x ~^
+              x ‾^
                        j
-@W$Bnot ed$b%UJIr     R$Bslowly$b FYMHr &(P
+@W$Bない$b%UJIr     R$Bゆっくりと$b FYMHr &(P
           $  !
                                      /                       [0]
         45 * !                               +_
-5                $Bovr erru$b   JSR$Bfinish$bYr RK
-        4 !        ;’,’41!!           $Bwaiting$b
-                 EY$Bthous$b
-3w4t                        g g WGJDN!!!K)(2             ~~fF~fx
+5                $Bこえて まちが$b   JSR$B終わらせる$bYr RK
+        4 !        ;ﾕ,ﾕ41!!           $B待っている$b
+                 EY$Bせ$b
+3w4t                        g g WGJDN!!!K)(2             ‾‾fF‾fx
                 4!@
 
    ?!$                          .414.14
@@ -46,26 +45,26 @@ $C1~
 #LOGON 410
 #PICT 411
 $C1
-the quiet sleep at last is broken
+静かな眠りはついに破られた
 
-                        time seems far gone
-            and yet not enough
-
-
-         lost kin
-                       the elder youth
+                        時は過ぎてしまったようだ
+            だが十分ではない
 
 
-             far flung by machinations
-                     untouched
-                           by the firstborn
-
-    soon to win this battle
-                      in a time far too new
+         失われた種族
+                       年上の若者
 
 
-             witness now the consequences
-                       of your intervention
+             策謀によって遠く飛ばされ
+                     最初の誕生に
+                           触れられていない
+
+    すぐにはるかに新しすぎるときに
+                      呼び出される
+
+
+             君の介入の結果
+                       今目撃される
 #LOGOFF 410
 #INTERLEVEL TELEPORT 27
 #ENDTERMINAL 1

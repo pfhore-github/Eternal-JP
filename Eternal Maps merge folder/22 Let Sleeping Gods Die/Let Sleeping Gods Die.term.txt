@@ -5,88 +5,88 @@
 #LOGON 390
 #INFORMATION
 
-$C1// Decoding message from host "S'bhuth" @ [no translation] \\
+$C1／／ホスト"S'bhuth" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-$C5                                 the wings of technology cannot reach
-                 the hallowed grounds which you now seek
+$C5                                 技術の翼は届かない
+                 そなたが探している神聖な土地には
 
 
-          before the clans were sundered
-       the Master instructed us     S'bhuth
-            the youngest Royalty of the S'pht
-              of those now called S'pht'Kr
+          氏族が分けられる前に
+       長は我々に教えた     スブース
+            スフトのもっとも若い王族
+              そして今スフト氏族カーと呼ばれる
 
-                to await the arrival of his Message
-                       delivered by the Messenger
+                使者によって届けられる
+                       彼の伝言の到着を待っている
 
-             young we were then
-                         we did not understand
-               the purpose of this prophecy
+             我々は若いので
+                         この予言の目的を
+               理解することができない
 
-                              nor knew we the methods of its function
+                              そしてその機能の方式も知らない
 #PICT 1221
 $C5
 
-  but clues were left by the Master
-    in the words of his many teachings
+  しかし手がかりは多くの彼の指導の言葉の中に
+    長によって残された
 
-        long we have sought this place
-for the powers which it holds
+        長らく我々はこの場所を探してきた
+それが持つ力のために
 
-     and only so few orbits ago
-   its purpose has been understood
+     そしてほんの数周期前に
+   その目的は理解された
 
-but so deadly are the devices
-                  of its activation
-   that no S'pht may survive
+しかしその装置はあまりに致命的で
+                  その起動によって
+   スフトは誰一人として生き残れないかもしれない
 
-      the [?rusty] F'lick'ta
-         strong but thoughtless
-   traverse its passages with ease
-         and yet entirely without purpose
+      [?鈍い]フリッタは
+         強いが不注意で
+   その通行を容易に邪魔し
+         そして完全に目的もなく
 #INFORMATION
-$C5    but you are the Messenger of Yrro
-           for what other purpose sent?
+$C5    しかしそなたはユロの使者である
+           他の目的があったのか？
 
- we understand the Message as it was prophesied
-         and the Message is our salvation
+ 我々は予言されたように伝言を理解した
+         そして伝言は我々の救済である
 
- now in time of greatest need
-     you are to be savior of our kind
-
-
-       another world awaits all those who seek a life of peace
+ 今もっとも大きな必要の時
+     あなたは我々種族の救世主となる
 
 
-     the third sister of Lh'owon
-                   high above this land
-                             will see to her kin well
+       もう一つの世界が平和の人生を求める者たちを待っている
+
+
+     ロウォンの姉妹
+                   地面の遙か上で
+                             種族をみるだろう
 
 
 
-                         upon K'lia we find freedom from the fires
+                         クッリアで我々は炎からの自由を見つける
 #PICT 1222 RIGHT
 $C5
 
-               find you this key
-and seek out the lock
-         hidden behind the curtains of fire
+            そなたはこの鍵を探し
+錠を探し出す
+         炎のカーテンの後ろに隠れた
 
 
-     our mind it conveys
+     我々の心はそれを運ぶ
 
-              the key you now seek
+              そなたが今持っている鍵
 
-                     and placed in the lock
-              we shall open the door
-
-
-
-        the path of ascension awaits
+                     そして錠に置く
+              我々は戸を開くだろう
 
 
-$C1\\ Message ends ///
+
+        上昇の道は待っている
+
+
+$C1＼＼メッセージ終了／／
 #LOGOFF 390
 #LOGOFF 380
 #ENDTERMINAL 0
@@ -98,44 +98,44 @@ $C1\\ Message ends ///
 #INFORMATION
 $C1
 
-// Decoding message from host "S'bhuth" @ [no translation] \\
+／／ホスト"S'bhuth" @ [変換無し]からのメッセージをデコード＼＼
 
 
 $C0
-                $C5               a message we have prepared
-$C0                $C5         for the kin we are to leave behind
+                $C5               クッリアから我々は同胞をみはる
+$C0                $C5         １０００周期以内に
 
 
-$C0        $C5   one verse for each of our brothers
-        $C0        $C5one verse for all Lh'owon
+$C0        $C5   我々の兄弟それぞれに１文
+        $C0        $C5全ロウォンに１文
 
 
-$C0              $C5   long after we are gone
-      $C0                $C5when all S'pht are one
-           $C0                $C5S'pht'Kr shall return
-                                 to Lh'owon
+$C0              $C5   我々が消えてずっと後に
+      $C0                $C5スフトがひとつになった時に
+           $C0                $C5スフト氏族カーは
+                                 ロウォンへと戻るだろう
 #PICT 1222 RIGHT
-$C5 __________________________________________
- |                                        |
- |  K'lia whom we have taken              |
- |           between Y'loa and T'jia      |
- |             all in a line              |
- |   replace K’lia with the marsh         |
- |       take the place to be the mark    |
- |      mark the time from our exodus     |
- |        every 459.231 rotations         |
- |     search the T'jia side              |
- |             quarter way to the sun     |
- |  around and under the marshes          |
- |        when all are one                |
- |              the S'pht'Kr will return  |
- |________________________________________|
+$C5
+┌────────────────────┐
+│　我々が連れてきたクッリア　　　　　　　│
+│　　　　　ユロアとティジアの間　　　　　│
+│　　　　　　一つの線に並び　　　　　　　｜
+｜　　クッリアを沼に置き換え　　　　　　　｜
+｜　　　　　その場所に印を付けて　　　　　｜
+｜　　　我々の脱出から時を数えて　　　　　｜
+｜　　　　　４５９９．２３１軌道毎に　　　｜
+｜　　　　ティジアの側を探し　　　　　　　｜
+｜　　　　　　　太陽に向かって４分の１　　｜
+｜　沼の周りと下を　　　　　　　　　　　　｜
+｜　　　　我々が１つになった時に　　　　　｜
+｜　　　　　　　スフトのカー族は帰還する　｜
+└────────────────────┘
 
-            take you now this key
-     brave the fires below
-              and bring about our salvation
+            さあこの鍵を持ってゆけ
+     下の炎に立ち向かい
+              我々の救済について持って行け
 
-$C1\\ Message ends ///
+$C1＼＼メッセージ終了／／
 #LOGOFF 390
 #LOGOFF 380
 #ENDTERMINAL 1
@@ -145,33 +145,33 @@ $C1\\ Message ends ///
 #LOGON 380
 #PICT 1201 RIGHT
 
-$C1// S'pht Translator Active \\
+$C1／／スフト翻訳機起動＼＼
 
 
-$C5In this chasm, aeons ago, died a demon W'rkncacnter. Long it slumbered, hidden beneath the barren sands of Lh'owon. Now at last he has awakened, and he has slain Pthia - my other, my sister, and my lover. This edifice I have erected to extract and entomb the demon, burying him again within the fires of our star.
+$C5　この裂け目で、遙か昔に、悪魔のワークンカクンターは死んだ。長くそれは眠り、ロウォンの不毛な砂の下で隠れていた。今ついに彼は目覚め、ペシア、私の相棒、私の姉妹、私の愛人を殺した。私が悪魔を引き抜き埋葬するために建てたこの建物で、彼は再び我が星の炎の中に埋められた。
 #PICT 381
 $C5
 
 
 
-You shall build, upon these grounds, a Citadel to commemorate the legacy of your kind and mine. It shall be a symbol of strength and unity to your people, when all other hope has failed. Come forth now, and hear your names:
+　お前達にこの地面の上に、お前達と私の種族の遺産を記念するために城を造らせよう。他のすべての望みが失敗したとき、それはお前達の人々の強さと統一のシンボルになるだろう。今から外に出て、お前達の名前を聞け。
 
-S'pht'Lhar, S'pht'Hra, S'pht'Nma, S'pht'Kah, S'pht'Vir, S'pht'Yra, S'pht'Val, S'pht'Shr, S'pht'Mnr, S'pht'Yor, S'pht'Kr.
+　スフト氏族ラー、スフト氏族フラ、スフト氏族ンマ、スフト氏族カハ、スフト氏族バー、スフト氏族ユラ、スフト氏族バル、スフト氏族シャー、スフト氏族マナ、スフト氏族ヨア、スフト氏族カー。
 
 #PICT 1200 RIGHT
 $C5
 
 
 
-You eleven Olders I have gathered unto me. Though each of you heralds from one corner of Lh'owon, you alone amongst your kind may swim her entire breadth, upon the seas of the aether, beyond that realm of material beings to which your kin are bound.
+　我が元に集めたお前達１１の長老。お前達それぞれはロウォン一角から布告されるが、お前達の種族の中でお前達だけが、お前達種族が縛り付けられている物質的存在の領域を超えて、空の海でその全幅を泳ぐことができる。
 
-In this aspect, you alone are most akin to my own kind. You shall lead eleven clans as sacred rulers of your kin. This world now holds no love for me, and soon I shall depart it. In another realm, my brethren await me.
+　お前達だけが我が種族にもっともよく似ている。お前達はお前達種族の神聖なる統治者として１１の種族を導くだろう。この世界は今私にはもはや愛はなく、すぐに離れる。他の領域で、我が同胞が私を待っている。
 #INFORMATION
 $C5
 
 
 
-I Yrro, who was your master, have failed to preserve you. Take your royalty to guide you, and live upon the paradise that you built for me. Unto you I leave only this one advice. Heed you this last prophecy: Do not mistake your rank and number for superiority. The oldest child may yet learn from the youngest.
+　お前達の長であった私、ユロはお前達を留めておくことができない。お前たちを導く皇族を保持し続け、お前達が私のために建てた楽園で生活を営むのだ。お前達に私は最後の忠告を残す。この最後の予言に注意を払え。数と階級を順位と間違えるな。年長の子供も年少の子供から学ぶ事がある。
 $C1
 
 \\ End translation //

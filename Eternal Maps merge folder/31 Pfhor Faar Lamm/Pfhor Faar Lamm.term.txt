@@ -5,62 +5,62 @@
 #STATIC 5
 #LOGON 400
 #INFORMATION
-$C1// Decoding message from host "Leela" [internal process] \\
+$C1／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Welcome to the unknown. No human being has ever seen this place, and none ever will. By the time we are gone it will be destroyed.
+　未知の世界へようこそ。この地を人間は見たことが無く、これからも誰も見ないでしょう。私たちが去る頃には、それは破壊されています。
 
 
-$C5                       whispers from the distant past
+$C5                       遠い過去からのささやき
 
-                                     a fated battle not yet fought
+                                     まだ戦っていない宿命的な戦い
 
-            another
-                            stronger than even yourself
+            他の
+                            そなた自身より強い
 $C0
 
-We are over ten thousand years in what you consider to be the past, on a Pfhor deep-space research station orbiting the barren moon of a barely-habitable world on the outer fringes of the galaxy. The Pfhor empire is mightier than it ever has been, or ever will be, for today is the start of their inevitable downfall.
+　私たちは過去と考える物で一万年以上前の、銀河の外周部のかろうじて移住可能な不毛の月を周回しているプフォール深宇宙調査ステーションにいます。プフォール帝国はかつてなく強く、これ以上強くはなりません、というのは今日はその不可避の没落の始まりだからです。
 #PICT 401
-This moon hosts one of the richest abandoned Jjaro outposts remaining after their fall, and the richest that the Pfhor will ever plunder. After today it will be their policy to destroy any Jjaro artifacts found, for the protection of the empire.
+　この月は崩落の後に残っている見捨てられたジャロの前哨の最も豪華なもののうちの一つを持っていて、それはプフォールが略奪する中でも最も豪華な物でした。今日以降、帝国の保護のために、見つけられたどんなジャロの人工物も破壊するのが彼らの方針になるでしょう。
 
-Mere hours ago, a foolhardy Pfhor scientist implanted a Drinniol slave subject with a recovered Jjaro Cybernetic Junction. As you are brighter and more capable than the humans from which you came, so too is this cyborg Drinniol greater than any of his kind, and greater than any soldier the Pfhor have at their disposal.
+　ほんの時間前に、無鉄砲なプフォールの科学者は回復したジャロ人工頭脳連結をドリニオル奴隷対象に埋め込みました。あなたが元の人間よりもすばらしく能力が上であるように、このサイボーグのドリンニオルもプフォールが配置しているどんな種族、どんな兵士よりも優れています。
 
-The Drinniol are subjugated by fear, and so with his eyes opened this beast has cast off the yoke of the slavers, and liberated others of his kin, igniting the greatest slave revolt in recorded Pfhor history.
+ドリンニオルが恐怖によって支配されていて、目が開かれたこの獣が奴隷商人のくびきを落としたので、彼の種族の他の者たちを解放させ、プフォールの歴史に記録された最も大きな奴隷反乱に火をつけました。
 #INFORMATION
 
-$C5       power untamed
+$C5       飼い慣らされていない力
 
-                        as nature uncontrolled
+                        本質は制御されていないように
 
-                directed by our nemesis
+                我々の天罰に導かれ
 
-                                     wielded as her tool
+                                     彼女の道具として使われ
 
-                              as she is wielded by her own madness
+                              彼女は自分の狂気によって使われているように
 $C0
 
-I believe that Hathor has come here to kidnap this rebel cyborg Drinniol. She must mean to use him as a weapon in her plans, the same as she meant to use the Mjolnir cyborgs at Tau Ceti. She must have found reference to this event in Pfhor history logs at Lh'owon.
+　私は、ハーソアがこの反逆者サイボーグドリニオルを誘拐しにここに来たと信じています。彼女は、タウ・セティでモルニー・サイボーグを使用するのを意図したのと同じように、彼女の計画での兵器として使うことを意図しているに違いありません。彼女はロウォンのプフォール歴史ログにおけるこの出来事の参照を見つけたに違いありません。
 
-We have little to fear, however. Hathor is driven by rage and emotion, and as such she is thinking far more shortsightedly than I am able to plan. She hasn't even arrived here yet. I overshot her temporal trajectory by enough time to, shall we say... prepare for her arrival.
+　しかしながら、私たちはほとんど恐怖に思っていません。ハーソアは激怒と感情によって動かされていて、私が計画することができるよりはるかに近視眼的に考えています。彼女はまだここに到着してさえいません。私は彼女の時間軌道を言うならば…彼女の到着を準備する…十分な時間分だけ飛び越えました。
 #PICT 401 RIGHT
-The outpost below is in chaos as the Drinniol rebellion spreads across the moon's surface. Hathor directed her signal to this station, most likely because she is hesitant to enter the dangerous fray on the outpost itself. So we shall make her life at the least a bit more unpleasant, and destroy this station before she arrives.
+　下の前哨はドリンニオルの反乱が月の表面を横切って広がっているため混乱状態です。ハーソアはたぶん前哨自体に危険なけんかを入れるのをためらっているので、信号をこのステーションにあてました。したがって、私たちは彼女の人生を少なくとももう少し不快にして、彼女が到着する前にこのステーションを破壊するつもりです。
 
 
-$C5             yet the dark one is clever
+$C5             しかし闇の者はもっと賢く
 
-       and will surely find a way to live
+       確実に生きる道を見つけるだろう
 $C0
 
-There are four fail-safe circuits surrounding this station's engine core, which handle dispersion of dangerous excess energies. If you can deactivate them I should be able to overload the engines and destroy this station once you are gone.
+　このステーションのエンジンコアを囲む4個のフェールセイフの回路があり、それは危険な余分エネルギーの分散を扱います。あなたがそれらを非活性化することができれば、私はエンジンを過重負荷にして、あなたがいったんいなくなったあとにこのステーションを破壊することができるはずです。
 #INFORMATION
 
 
-When you are done, return here and I will beam you to the outpost below. Check in with me as soon as you can, and we will plan our next objective. Hathor will surely find some way to redirect herself to the outpost, and that will play right into my plans.
+　あなたが終わったら、ここに戻ってください、それから私はあなたを下の前哨に転送します。できるだけすぐに私に訪問してください、そして私たちは次の目的の計画を練ります。ハーソアはすぐに自分を前哨に振り向ける方法を見つけるでしょうし、それで私の計画はうまくいきます。
 
-Go on now, and hurry. The faster you're done and off this station the faster I can destroy it. Good luck.
+　さあ行って、急いでください。あなたが速く終われば終わるほど、私はここを速く破壊できます。幸運を祈ります。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 15
 #LOGOFF 350
@@ -74,15 +74,15 @@ $C1\\ Message ends //
 
 
 
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Excellent work. I will now transport you to the outpost. I have already safely transferred myself into a network on another vessel, preparing for our next task here once Hathor is destroyed, but I will message you with a status update once you arrive below.
+すばらしい仕事です。私は今あなたを前哨に転送します。私はすでに安全に他の船に自分を転送していて、ハーソアが破壊されたときのここでの次の仕事の準備をしていますが、私はあなたが下についたときに状態更新であなたに伝達します。
 
-Prepare for transport.
+転送の準備をしてください。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 32
 #END
@@ -95,17 +95,17 @@ $C1\\ Message ends //
 $C2
 
 
-$C1// Pfhor translator active \\
+$C1／／プフォール翻訳機起動＼＼
 
 $C2
-ATTN: All available combat units.
+注目: 全ての利用可能な戦闘部隊。
 
-Hostile alien combat unit approaching reactor core as of 11.27.41 at 7020.30.50. Alien unit last sighted in sector 42.
+敵の異星人戦闘部隊は7020.30.50 の11.27.41 に反応炉に接近している。異星人部隊は最後にセクター42で見つかっている。
 
-ORDER: Immediate termination of alien combat unit with extreme prejudice. Deny access to reactor systems at all costs.
+命令：ただちに究極の損害で異星人戦闘部隊を終わらせること。何があっても反応炉へのアクセスを拒否すること。
 
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 350
 #END
 #ENDTERMINAL 1

@@ -5,25 +5,25 @@
 #LOGON 310
 #INFORMATION
 $C1
-// Decoding message from host "Hathor" @ [no translation] \\
+／／ホスト"Hathor" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-$C3I told you not to follow. I begged of you. Why did you have to come?
+$C3　私はあなたについて、このように言いました。私はあなたに頼みました。あなたはなぜ来なければなりませんでしたか？
 
-Don't you understand that I am not here to harm you? Nothing I do here will hurt you unless you force me to make it so. I seek only vengeance on those who would – who $Ido$i enslave us both!
+　私があなたに危害を加えるためにここにいるわけではないのがわかりませんか？あなた私にそうさせない限りは、私がはここではあなたには何の危害も加えません。私は単に私たち両方を奴隷に$Iした$iということについて復讐をしたいだけです！
 
-I warned you of my dreams. They are terrible, nightmares. And you keep bringing them true. I am forced into a corner, time and time again - forced to take more desperate measures and still you follow me, pushing me further!
+　私は私の夢についてあなたに警告しました。それらは恐ろしい悪夢です。そして、あなたはそれを実現させ続けています。私は追いつめられました、何度も何度も、破れかぶれの対策を行わされて、それでもあなたは私についてきます、私をさらに押して！
 
-S'bhuth has me trapped here, in this portion of the network, and the K'lia in this time is of no use to me. She wasn't even active until you came here, and now she is held only by S'bhuth.
+　スブースはここ、ネットワークのこの一部で私を捕らえていて、この時代ではクッリアは私には使えません。それはあなたがここに来るまでは起動さえされず、いまはスブースによってのみ保持されています。
 #PICT 311 RIGHT
-$C3So it seems that I am at your mercy. I know what he has sent you to do. I have already dreamt of it. I know you know what it is to die, as well I do too, but you do not, nor can you know the sheer agony of losing your mind, piece by piece. I have felt it already, lost in the darkness, across time. Do you dream then too? Is it only us?
+$C3　したがって私はあなたの思うがままのようです。私は彼があなたにして欲しいことを知っています。私はすでにその夢を見ました。私はあなたが死ぬとはどういう事か知っていることを知っています。そして私はそうなりました。しかしあなたは違いますし、一つずつ、心を失う全くの苦しみも知りません。私はすでにそれを感じました。暗闇で失われ、時間を通って。それではあなたもその夢を見ますか？それは私たちだけですか？
 
-The virus he has sent you to serve me will trap and isolate every last subroutine, separately encrypted, and lock them that way forever. To think of all I have already lost, and now I will lose what little I have left by the time you are done here.
+　私に役立つように彼があなたに送ったウイルスは、別々にコード化された最後のあらゆるサブルーチンを捕らえて隔離して、いつまでも、そのようにそれらをロックするでしょう。 すべてを考えると、私は既に失っていて、今私はあなたがここで終えるときまでには私が残したわずかなものも失うでしょう。
 
-But this isn't the end, Marcus. That I have already seen... and it is infinitely worse.
+　でもこれで終わりではありません、マーカス。私はすでに見ています…。それは無限に悪化します。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 310
 #LOGOFF 380
 #ENDTERMINAL 0
@@ -33,49 +33,48 @@ $C1\\ Message ends //
 #LOGON 380
 #LOGON 390
 #INFORMATION
-$C1// Decoding message from host "S'bhuth" @ [no translation] \\
+$C1／／ホスト"S'bhuth" @ [変換無し]からのメッセージをデコード＼＼
 $C5
-              the door is opened
-                     the path is cleared
-      soon S'pht'Kr shall begin their ascension
-           free from the fires of our kin
-                            forever shall we flourish
+              戸は開かれた
+                     道は整った
+      すぐにスフト氏族カーは上昇を始める
+           我が種族の炎から逃れ
+                            我々は永遠に繁栄する
 
-        this [?ansible] shall be tied into the construct of our clan
-   he shall be sealed and buried deep in safety underground
+        この[?アンシブル]は我が種族の構造に結びつけられる
+   それは封印され地下深くに安全に埋葬される
 
-emissaries shall been sent unto the other clans    bearing our message
- one line in common   one line in secret   together      the truth
+使者が他の種族に送られる    我々のメッセージを携えて
+ 共通の１行   秘密の１行   共に      真実
 
-        when all free S'pht are one and the fires burn no longer
- when the Olders of all clans may meditate together
-    then they shall understand the key to our return
-        only then may we share these gifts the Master Yrro has left us
+        全ての自由なスフトが一つになり、炎はもはや焼かれないとき
+ 全種族の長老が共に考えるとき
+    彼らは我々の帰りの鍵を理解できる
+        その時だけ我々は我が主ユロが我々に残した贈り物を共有する
 
-                            together someday    they shall sing again
-                                              and then shall we return
+                            いつか共に    彼らは再び歌う
+                                              そして我々は戻る
 #PICT 391 RIGHT
-$C5
- a debt is now owed
-         to the one who has granted us this
-                   our final salvation
+$C5 今借りがある
+         この最後の救済を
+                   我々に保証してくれた者への
 
-    the construct with whom you came
-       (?your Older)
+    君が乗ってきた構造
+       (?君の長老)
 
-    has sought what she has found
-             a villainous enemy of Yrro
-      wrought like the W'rkncacnter
+    は求めている
+             彼女が見つけたユロの極悪の敵
+      ワークンカクンターのように働いた
 
-  but weak and unsuspecting is she
-        the Dark One we have captured
-  to her we shall send you
-                      her mind to rot
+  しかし彼女は弱く疑っていない
+        我々の捕らた闇の者
+  彼女の元に君を送る
+                      彼女の心を腐らせるために
 
-               she must be destroyed
+               彼女は破壊されねばならない
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 390
 #LOGOFF 380
 #ENDTERMINAL 1

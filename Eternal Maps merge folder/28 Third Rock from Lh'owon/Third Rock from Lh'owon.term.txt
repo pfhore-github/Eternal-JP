@@ -4,38 +4,37 @@
 #LOGON 430
 #STATIC 5
 #LOGON 400
-#PICT 1202
-$C1// Decoding message from host
-"Leela" [internal process]  \\
+#INFORMATION
+$C1／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
-Welcome back to K'lia.
+クッリアへおかえりなさい。
 
-Doesn't change much, does it?
+あまり変わっていないでしょう？
 
-$C5   a silent shadow
-creeping
-      within the mind of our (?self?brother)
+$C5     静かな影
+  忍び寄る
+        我々の（自身？兄弟？）の心のなかで
 $C0
-In order to see history through on its course, I must convince the S'bhuth of this time to take K'lia from Lh'owon until the time is right for the S'pht'Kr to return.
+　歴史が道筋通りに進むのを見るためには、この時代のスブースにクッリアがロウォンからスフト氏族カーが戻ってくる正しい時代まで離れさせるように説得させなければなりません。
 #INFORMATION
 
 
 
 
-$C5                             our mind to our mind
-                   our thoughts to our thoughts
+$C5                             我らの心から我らの心へ
+                   我らの考えから我らの考えへ
 
-$C0But rather than expend the effort explaining to him who I am and where we have come from, and convincing him that all this is true, it will be far more expedient to simply upload an engram pattern into his network, encoded with his unique signature, containing thoughts to the effect that Yrro wishes him to refrain from this battle until the time is right, and the location where he is to await his calling.
+$C0しかし、私が誰であるか、そして、私たちがどこから来たか彼に説明していて、こういうことが真実であると彼に信じさせている努力を費やすよりはむしろ、ユロがスブースに、然るべき時間まで、彼が呼ぶのを待っている場所でこの戦いを控えてもらいたいという趣旨の考えを含む、特有のサインでコード化された記憶痕跡パターンをネットワークにアップロードすることの方がはるかに好都合でしょう。
 #PICT 401 RIGHT
-In order to do this we must manufacture a data chip with the appropriate engrams and insert it into a network uplink.
+こうするために、私たちは適切な記憶痕跡でデータ・チップを製造し、それをネットワーク・アップリンクに挿入しなければなりません。
 
-I have chosen this region of K'lia because it contains both a data chip manufacturing facility and a suitable uplink, but it is sufficiently out of the way of the main battle raging here.
+データ・チップ製造施設と適当なアップリンクを含む一方で、ここの激しい主要な戦闘から十分に離れていたので、私はクッリアのこの地域を選びました。
 
-The manufacturing facility is to the north of here, and underground. I have already ordered our data chip's fabrication, and it should be waiting for you by the time you arrive.
+製造施設は、ここの北方の地下にあります。私は私たちのデータ・チップの作り事をすでに命じ、あなたが到着する頃には、あなたを待っているはずです。
 
-There is another terminal at the facility, near the data chip. I will provide you with further directions there.
+データ・チップの近くで、もう一つのターミナルが施設にあります。私は、あなたにそこの更なる指示を出します。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 5
 #LOGOFF 430
@@ -51,16 +50,15 @@ $C1
 
 
 
-// Decoding message from host
-"Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Excellent work.
+素晴らしい仕事です。
 
-Now you must insert the data chip into a network uplink. The nearest one is in a room due west of our location.
+データチップをネットワークアップリンクに挿入しなければなりません。最も近いものはこの場所の真西にあります。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 5
 #LOGOFF 430
@@ -75,16 +73,14 @@ $C1\\ Message ends //
 $C1
 
 
-// Decoding message from host
-"Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 
 
-$C0You must insert the data chip into the uplink slot near the southeast corner of this room.
+$C0　データチップをこの部屋の北東近くのスロットに挿入しなければなりません。
 
-Report back to this terminal when you have finished.
-$C1
+　終了後にこのターミナルに戻って報告してください。
 
-\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 5
 #LOGOFF 430
@@ -97,16 +93,15 @@ $C1
 $C1
 
 
-// Decoding message from host
-"Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Good job, our work here is done. K'lia will soon depart Lh'owon. But there is one more step that we must take, to ensure that she shall return in due time.
+良い仕事です。ここでの作業は終わりました。クッリアはすぐにロウォンを離れるでしょう。しかしその時に戻れることを保証するためには、しなければならないことがもう一段階あります。
 
-We must leave now before we are transported away with S'bhuth. I will brief you further when we are on the ground.
+スブースから離れて転送される前に今すぐ出発しなければなりません。地表で詳しく説明します。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 29
 #ENDTERMINAL 2
