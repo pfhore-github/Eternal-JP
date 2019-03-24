@@ -6,18 +6,18 @@
 #INFORMATION
 $C1
 
-// Decoding message from host "Leela" @ [no translation] \\
+／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-Outside these windows you can see the starboard wingtip of the Pfhor capital ship $Iki'Lhara$i. The ship is already operational and fully prepared for launch, and it is only awaiting a launch program to be loaded from the docking bay here. This would normally detail what crew and cargo are to be beamed aboard, and the ship's formal mission, but I'm going to give you something a little different to upload.
+　これらの窓の外では、あなたはプフォール主力艦$Iキラーラ$iの右舷のウイング・チップを見ることができます。 船は、既に操作上で発射のために完全に準備されています。そして、それはここでドッキングベイからロードされるために発射プログラムを待っているだけです。 これは通常どんな乗組員と貨物が船舶で発せられることになっていたらよいか、そして、船の正式な任務について詳述するでしょうが、アップロードとは少し何か異なったものを与えましょう。
 
-To your left is an uplink card I have just manufactured here. It is compatible with the Pfhor ship's systems. When you insert it into the ship's command uplink, located in this wing, it will open a relay for me to transfer my program from my downed ship into this one, and I can then take control of the entire ship from there.
+　あなたの左には、私がちょうどここに製造したアップリンクカードがあります。 それはプフォール船のシステムと互換性があります。 あなたがそれをこの翼に位置する船のコマンドアップリンクに挿入するとき、私がプログラムを私の倒された船からこれに移すように、それはリレーを開けるでしょう。そして次に、私はそこから全体の船を制御することができます。
 #PICT 361 RIGHT
-The insertion process is fairly easy. Near the command uplink is a switch that will open access to a nearby control center. This control center will allow you to unlock the command uplink, and you can then insert the card I have made. Once it is inserted you must activate another switch in the control center to confirm the initiation of the launch program. That will open the relay and allow me to transfer onto the ship.
+挿入の過程はかなり簡単です。 コマンドでは、アップリンクは近いコントロールセンターへのアクセスを開くスイッチです。 このコントロールセンターはあなたにコマンドアップリンクをアンロックさせるでしょう、そして、次に、あなたは私が作ったカードを挿入することができます。 それがいったん挿入されると、あなたは、発射プログラムの開始を確認するためにコントロールセンターで別のスイッチを動かさなければなりません。 それは、リレーを開けて、私が船に移すのを許容するでしょう。
 
-Since the ship has not been staffed or stocked yet, you should meet only minimal resistance inside. When you are finished, report to a terminal near the fore end of this sector and I will teleport you back to the starport, where we can continue our work against Hathor.
+　船がまだ配置されないし、または蓄えられていないので、あなたは中で最小量の抵抗だけを満たすべきです。 終わるとき、このセクターの前面の終わり頃の端末に報告してください。そうすれば、私はあなたをスターポートへテレポートして戻させるつもりです。そこでは、私たちがハーソアに対して仕事を続けることができます。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 360
 #LOGOFF 350
 #ENDTERMINAL 0
@@ -31,15 +31,15 @@ $C1
 
 
 
-// Decoding message from host "Leela" @ [no translation] \\
+／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-Good work. My program is now fully integrated into this ship's databanks and I am set to launch any second. I am already beaming Blake and his men from their present positions into a safer part of this ship.
+　良い仕事です。私のプログラムは現在この船のデータバンクと完全に統合されます。そしていつでも発射できるように用意ができています。私は彼らの現在の位置からこの船の、より安全な部分にブレークと彼の乗組員を既に発しています。
 
-Now, we must turn back to Hathor...
+今、私たちはハーソアに戻らなくてはなりません…
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 360
 #INTERLEVEL TELEPORT 19
 #ENDTERMINAL 1

@@ -6,13 +6,13 @@
 #INFORMATION
 
 
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 No, I already have access to this clan's network.  I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 
 However, I do have access to the teleporter grid from here.  I think I can put you near a pattern buffer closer to another clan's network.  Hang on...
 $C1
-\\ Message ends //
+＼＼メッセージ終了／／
 #LOGOFF 360
 #LOGOFF 380
 #INTRALEVEL TELEPORT 96
@@ -22,14 +22,14 @@ $C1
 #LOGON 360
 #PICT 1204
 $C1
-// Decoding message from host
-"Leela" @ [no translation] \\
+／／ホスト "Leela" @ [内部プロセス]
+からのメッセージをデコード＼＼
 $C0
 Well, I can't find any clear data transfer records that would let me trace Hathor's arrival and movement in the network. The S'pht worldnet seems to function more like a giant neural net, retaining and discarding data in a very nonlinear, unstructured fashion.
 
 You should stay here inside the Citadel. I will transport you further into the upper levels. Try not to be seen, and disturb as little as possible.  Log in to as many terminal as you can find, so we can access further information.
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 360
 #LOGOFF 380
 #INTRALEVEL TELEPORT 318
@@ -41,67 +41,67 @@ $C1\\ Message ends //
 #LOGON 390
 #INFORMATION
 $C1
-// Decoding message from host "S'bhuth" @ [no translation] \\
+／／ホスト"S'bhuth" @ [変換無し]からのメッセージをデコード＼＼
 
 
-   $C5when came the W'rkncacnter
+   $C5ワークンカクンターが来たところで
 
-           Yrro became an angry master
+           ユロは怒りの長となり
 
-       and broke the S'pht into their clans
-
-
+       スフトを氏族へと分割した
 
 
-                                  the Olders we were appointed
 
-                                     our clans named and numbered
 
-                                 and we are called S'bhuth
+                                  我らは指名された長老
 
-                                               the Older of S'pht'Kr
+                                     我ら氏族は名付けられ順序を付けれた
+
+                                そして我らはスブースと呼ばれた
+
+                                               スフト氏族カーの長老
 #PICT 391
-$C5                         apologies are due
+$C5                         謝罪は義務である
 
-    we have no word in our tongue
-                        by which to call
-       the Messenger of Yrro
+    我々の言葉には
+                        ユロの使者を呼ぶ
+       言葉がない
 
-   sent unto us now in our time of need
+   我らは、今必要な時に送られた
 
 
-      peacefull are the young S'pht'Kr
- mindful of our ways
-    intending no harm to our elder brethren
+      若きスフト氏族カーは友好的で
+ 我々の道に気を配り
+    我々の老いた同胞を傷つけようとはしない
 
-     their Olders battle for selfish needs
-                    with no consideration
-        for the kinship of our people
+     彼らの長老は利己的な必要性のために戦い
+                    考えもしなかった
+        我が人々の親戚関係について
 
-  long has S'pht'Kr struggled
-         to bring peace to all our kin
- but failure has come to us at last
+  長くスフト氏族カーはもがいた
+         我々氏族皆が平和になるよう
+ だがついに失敗した
 #INFORMATION
-$C5  weapons built for our defense
-          now are turned against the S'pht
-                             in hatred and in greed
-              wielded by brother against his kin
+$C5  我々の防衛のために作られた武器は
+          今スフトに対して向けられている
+                             憎しみとどん欲の中で
+             彼の同族に対して兄弟によって使われ
 
-though S'pht'Kr cannot bear to witness nor to partake of this carnage
-       the S'pht'Mnr attack us at our very heart
-           our villages are slaughtered     our Defenders overrun
-    and the last of our people entomed within their chambers
+しかしスフト氏族カーはこの虐殺を目撃することも参加することも耐えられない
+       スフト氏族マナは我々のまさに中心部で我々を攻撃した
+           我々の村は虐殺された     我々のディフェンダーは圧倒された
+    そして我々の人々の残りはこの部屋の中で埋葬されている
 
-  yet there is known a way to flee
-                 a path of ascension awaits S'pht'Kr
-         prophecized long ago           by the father Yrro
+  しかし逃れる方法が知られている
+                 上昇の道がスフト氏族カーを待っている
+         長く前に予言された           父なるユロによって
 
-     we have awaited only the arrival of his Messenger
+     我々は彼の使者の到着をただ待っている
 
-                                        seek you the pathway far below
-                                            and deliver our salvation
+                                        ずっと下の道でそなたを捜している
+                                            そして我々の救済を届けよ
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 390
 #INTERLEVEL TELEPORT 22
 #ENDTERMINAL 1
@@ -116,15 +116,15 @@ $C1
 
 
 
-// Decoding message from host "Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 
 $C0
-Welcome to Lh'owon. At least, that's what Blake told me when I showed him the coordinates from Hathor's last transport. Does it look familiar to you? It's probably changed a lot between now and the last time that you saw it... we've arrived here some 2000 years earlier.
+　ロウォンへようこそ。少なくとも、それがハーソアの最後の転送の座標をブレイクに見せたときに彼が私に伝えたものです。あなたにはなじみ深いですか？たぶん今とあなたが最後に見たものとではかなり違っているでしょう…。私たちは2000年前のここに到着しました。
 
-Give me a moment to see if I can connect to the S'pht network...
+　スフトネットワークに接続できるかどうか見るためにちょっと待ってください…
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 360
 #STATIC 15
 #LOGON 380
@@ -132,22 +132,22 @@ $C1\\ Message ends //
 #INFORMATION
 
 
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
-There we are. This place is even roomier than you are, though I suppose that's to be expected for a planetary grid. It still doesn't hold a candle to the Vylae network.
+　できました。惑星格子のために予想されることだと思いますが、この場所はあなたよりさらに広いです。それはビラエのネットワークとまだ比べものになっていませんが。
 
-Let me see if I can find any useful information around here. My trace of Hathor was approximate - it seems the process of aiming an ansible link is done fractally, refining the resolution in diminishing increments, and I didn't catch the last few cycles of it. We may be on the wrong continent, or have missed her by a few years. I'm sure you noticed our entrance here was anything but stable. Lucky we wound up as low in the atmosphere as we did.
+　この周りで何か役に立つ情報を見つけられるかどうかを私に見させてください。私のハーソアの跡は大体でした。アンシブルリンクを目的とする過程は、減少する増加分の解像度を精製してフラクタルに行われるように思え、私はその最後の数サイクルを捕らえませんでした。私たちは、間違った大陸にいるか、数年で彼女を見逃したのかもしれません。私はあなたがここの入り口が決して安定していないのに気付いたのを確信しています。 私たちが私たちと同じくらい低い大気に飛んだのが幸運です。
 
-Here we go. This is Lh'owon, just as Blake said, and this building is called the 'Citadel of Antiquities' - stop me if I'm covering data that you already know.
+　行きましょう。これはロウォンです。ちょうどブレークが言ったように、この建物は「古城」と呼ばれます。私があなたが既に知っているデータをカバーしているなら、私を止めてください。
 #PICT 361
 
 I see no immediate sign of Hathor, which could mean we have arrived before her, but we should look a bit into public history here to see if there are any signs of her arriving earlier.
 
-Roomy as the worldnet is, the S'pht are fragmented into eleven separate clans at this point in history, and I can only access one clan's information from this terminal.
+　スフトの世界ネットは、非常に非線形で不統一な形式でデータを保有して破棄する、巨大なニューラルネットのように機能するように思えます。
 
 I need you to access another terminal so I can pinpoint where we are in time and see if there's any sign of Hathor that I'm not seeing from here.
 $C1
-\\ Message ends //
+＼＼メッセージ終了／／
 #LOGOFF 360
 #LOGOFF 380
 #END
@@ -256,7 +256,7 @@ $C1\\ End translation //
 #INFORMATION
 $C1
 
-// Decoding message from host "Leela" @ [no translation] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
 That is not good news. It would appear that S'pht computer security is much more capable than I anticipated. We $Bmust$b be more careful to hide our presence here. On the other hand, their failure to recognise us suggests that particular clan has not had contact with Hathor.
@@ -265,7 +265,7 @@ Now that I have enough access, I am going to initiate a planetwide search for Ha
 
 Please be patient, this may take a while.
 $C1
-\\ Message ends //
+＼＼メッセージ終了／／
 #LOGOFF 360
 #LOGOFF 380
 #ENDTERMINAL 5

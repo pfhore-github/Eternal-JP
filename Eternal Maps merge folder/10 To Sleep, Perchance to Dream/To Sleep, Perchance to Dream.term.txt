@@ -65,31 +65,31 @@ $C1
 #INFORMATION
 $C1                                     these things we need not tell you$C3
 
-                                           $C1 yet we know full well$C3
+                                           $C1yet we know full well$C3
 
-                               $C1 the utterance will make for comfort$C3
+                               $C1the utterance will make for comfort$C3
 
-                  $C1  you have been $C3 $C1roland beowulf achilles gilgamesh$C3
+                  $C1 you have been $C3 $C1roland beowulf achilles gilgamesh$C3
 
                         $C1you were called a thousand names$C3
 
-          $C1 and a thousand more shall answer to before our work is done$C3
+          $C1and a thousand more shall answer to before our work is done$C3
 
-     $C1  they were heroes you knew though yourself you do not understand$C3
+     $C1 they were heroes you knew though yourself you do not understand$C3
 
-      $C1 for given life but a few years their deeds were done
+      $C1for given life but a few years their deeds were done
                                             and their flesh grew weak$C3
 
 $C1once strong and taut it grayed and faded as did the works that would
    praise these names for centuries until at last they were forgotten$C3
 
-                      $C1 as the generations teeming$C3 $C1faded them from view$C3
+                      $C1as the generations teeming$C3 $C1faded them from view$C3
 #INFORMATION
 
 
 
 
-　しかし君は違った。神が運命を生んだ第８の日に君も来た。あまりにも多くの者が蹴ってわめきながらこの面に入ってきたけれども、君はあまりに重要な出生の重荷を含む重さを被り、君の顔の柔らかい線の下にそれを隠し、今は単にとても人間的だ。.$C1 $C3
+　しかし君は違った。神が運命を生んだ第８の日に君も来た。あまりにも多くの者が蹴ってわめきながらこの面に入ってきたけれども、君はあまりに重要な出生の重荷を含む重さを被り、君の顔の柔らかい線の下にそれを隠し、今は単にとても人間的だ。.$C1$C3
 
 
 
@@ -129,11 +129,11 @@ $C3
 
                              $C1そなたの決意の    現実の次へ$C3
 
-$C1  $C3
+$C1 $C3
 
 $C0しなければならないことは明らかだ
 $C3
-$C1  $C3
+$C1 $C3
 
 
                               $C1まき散らした血は段階をはかる$C3
