@@ -2,11 +2,11 @@
 #TERMINAL 0
 #UNFINISHED
 #LOGON 200
-Welcome!
+ようこそ！
 #INFORMATION
-You've got mail!
+メールが来てるよ！
 #LOGOFF 200
-Goodbye!
+さようなら！
 #END
 #ENDTERMINAL 0
 ;
@@ -15,42 +15,42 @@ Goodbye!
 #LOGON 430
 #LOGON 400
 #INFORMATION
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-What the hell do you think you're doing? Do you have some sort of death wish? A waste disposal transporter... of all the stupid... uhr!
+　いったい何をしてると思ってるんですか？死にたいんですか？それは廃棄物処分転送機…全ての馬鹿な物の中で…あ！
 
 
-$C5                                    please pardon
-                                             the forked tongue
+$C5                                    二枚舌に
+                                             失礼
 
-                                            of our other(?sister)-self
+                                            我々の他の（？妹の）自己の
 $C0
 
-I'm sorry, you just caught me a little off guard there. That transporter you just took is used for lifting wastes and such up to orbital platforms for processing. Let me put it in simpler terms for you: $Iit beams things into space!$i You're lucky I happened to notice you or you'd have drifted there forever, or at least until the shockwave from the $Itrih xeem$i came. I mean, I understand that you don't know where any given transporter goes, but did you honestly think a garbage disposal would transport you anywhere even remotely pleasant?
+　すいません、あなたは私が少しそこで油断しているのをたった今捕らえました。あなたがたった今乗った転送機は、処理のために廃棄物などを軌道上のプラットホームまで持ち上げるのに使用されます。言い換えます。$Iそれは物を宇宙まで転送します！$i。あなたは私がたまたまあなたに気づいたのは幸運で、さもなければあなたはいつまでも、少なくとも$Iタリ・ジーム$iからの衝撃波が来るまではそこに漂っていたでしょう。つまり、私はどんな転送機がどこへ行くか知らないのは理解していますが、あなたは正直に廃棄物処理があなたをどこでもほんの少し快くさえある状態で輸送すると正直に思いましたか？
 #PICT 401 RIGHT
 
-I suppose with Hathor's interference field in place you didn't have much choice. I'm sorry I couldn't get through to you, and now that I think about it, there wasn't much else in the way of options to get you off that outpost alive. You're just lucky I keep such a close eye on you.
+　ハーソアの干渉場があった状態で私はあなたには多くの選択がなかったと思います。あなたに通じることができないですみません、そして私がそれについて考えています。生きてその前哨から脱出するほかの選択肢があまりありませんでした。あなたは私があなたにそのような厳しい目を光らせるのがただ幸運です。
 
-In case you can't tell, we are presently aboard an ancient Jjaro dreadnaught, floating adrift in permanant standby, awaiting the return of its long-departed masters. Hathor has dropped her interference field now that you are here, and I am now in the process of negotiating a truce with the Drinniol on the outpost. I have begun to beam them here for safety. The Pfhor have deployed the $Itrih xeem$i, and this system will soon be nothing but stardust.
+　あなたが言うことができない場合に備えて言っておきますが、私たちは現在、永久の待機状態でさまよって浮いている、古代のジャロのドレッドノート級軍艦にいます。ハーソアはあなたがここにいるので、彼女の干渉場を落としました。そして、現在、前哨のドリニオルと休戦を交渉する途中に私はいます。私は安全のためにここに彼らを転送し始めました。プフォールは$Iタリ・ジーム$iを配備しました、そして、このシステムはすぐ、星くず以外は何もなくなるでしょう。
 #INFORMATION
 
 
 
-Before their ships retreated to safe distance, the Pfhor beamed over a small contingent to try to secure this ship. They have already experimented with it previously, and found that it is equipped with shields that will withstand the blast of the $Itrih xeem$i.
+　彼らの船が安全距離に退却する前に、プフォールは、この船を安全にしようとしてわずかな派遣団の上発しました。 彼らは以前に既にそれを実験して、それは$Iタリ・ジーム$iの爆破に耐えるシールドを備えているのがわかりました。
 
-That is good for us and the Drinniol, but we cannot let the ship fall into Pfhor hands. History records that it did not, so we must see that through to reality. I would take it with us back to the future, but its Cybernetic Junction appears to be nonfunctional, and without it, the ship is trapped here in this timeframe.
+　私たちとドリンニオルにとってそれは良いのですが、私たちは船をプフォールの手にならせることができません。歴史はそうでないことを記録していて、私たちは通して現実へとなるように見なければなりません。私はそれは一緒に未来へと戻すつもりですが、その人工頭脳連結が機能しないように見え、それがなければこの時間枠のここにこの船は閉じこめられます。
 
-History also records that these Drinniol here find their way out of this system. We could leave the ship to them, but I still fear that the Pfhor would take it in the end. So we must destroy it, and send the Drinniol elsewhere.
+　歴史はまた、ここのこれらのドリンニオルがこのシステムから脱出する方法を見つけたとも記録しています。私たちは彼らに船を残しておくこともできますが、私はまだ最後にプフォールがそれを取るのではないかと恐れています。だから私たちはそれを破壊して、ドリニオルに他の物を送らなければなりません。
 #PICT 401 RIGHT
 
 
-In the history of the Pfhor, there are only three rebellions that are truly worthy of note. The last of them you have seen the beginnings, and the ends, of. While the S'pht revolt was terrible and ultimately saw to the end of the Pfhor empire, in the grand scheme it was but a small war that finished off an already ruined civilization.
+　プフォールの歴史の中で、真に注目に値する反乱は三つしかありません。それらの最後は最初に、そして最後に見た物です。スフトの反乱は恐ろしくプフォール帝国の最後を見た物でしたが、大きな計画では、すでに破滅した文明を終わらせた小さな戦争にすぎませんでした。
 
-But that is a lesson in history that I can teach at a later time. For now, seek out this ship's self destruct mechanism, on the aft-port side from here, then head aftward for an exit terminal.
+　しかしそれは私が後で教えられる歴史の教訓です。今は、ここから船尾港側のこの船の自壊メカニズムを探して、出口のターミナルのある船尾ターミナルに向かってください。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #LOGOFF 430
 #END
@@ -60,24 +60,24 @@ $C1\\ Message ends //
 #UNFINISHED
 #LOGON 430
 #PICT 431
-$C1// Jjaro translator active \\
+$C1／／ジャロ翻訳機起動＼＼
 
-~~~ Data Core Status: All systems nominal.
+‾‾‾ データコア状態: 全システム計画通り
 
-~~~ Processor Status: All systems nominal.
+‾‾‾ プロセッサ状態: 全システム計画通り
 
-~~~ Neuralnet Status: Unusual Activity (*)
+‾‾‾ ニューラルネット状態: 異常活動（※）
 
-Data in Core: 823.543 YB (out of 1,000 ZB)
+コアのデータ：823.543 YB (1,000 ZB以上)
 
-Processor Activity: 7% (in 3 task groups)
+プロセッサ活動：７％（3タスクグループで）
 
-Neuralnet Activity: 250% normal activity
+ニューラルネットの活動: 通常活動の250%
 
 
-* ALERT: Unusual amounts of neuralnet activity in progress. Please check for redundant thought processes, or transfer some personas to another neural network.
+※$B警告$b：異常な量のニューラルネットの活動が進行中です。余剰思考プロセスを検査するか、いくつかの人格を他のニューラルネットワークに移してください。
 
-\\ End translation //
+＼＼翻訳終了／／
 #LOGOFF 430
 #END
 #ENDTERMINAL 2
@@ -87,36 +87,36 @@ Neuralnet Activity: 250% normal activity
 #LOGON 430
 #LOGON 400
 #INFORMATION
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-Good work. The self-destruct mechanism has been set. We will now see to the escape of the Drinniol on this ship, and the dawning of a revolution.
+　いい仕事です。自壊メカニズムがセットされました。私たちは今この船のドリニオルが脱出して、反乱が始まるのを見ましょう。
 
-Thousands of years before your time, before the S'pht were ever enslaved, the Pfhor encountered another Jjaro client race, the Nahk. The Nahk fought tooth and nail against Pfhor enslavement, and though conquered for a while, they eventually threw off their yolks and freed their few small worlds from Pfhor rule.
+　あなたの時代の何千年も前、スフトが奴隷化される前に、プフォールは他のジャロの類族（配下種族）、ナクに出会いました。ナクはプフォールの奴隷化に全力で戦い、しばらくは征服されましたが、彼らはついにくびきを捨て、プフォールの規則から彼らのいくつかの小さな世界に逃げました。
 
-Their war pushed further and defeated a good portion of the Pfhor navy. Several dozen Pfhor worlds were destroyed by the Nahk's use of their own weapons against them. But all that now remains of the Nahk or their worlds are ever-expanding clouds of gas and dust. The Pfhor turned the $Itrih xeem$i loose on them en masse, and though it cost them greatly in numbers and resources, that war still does not hold a candle to the one that's about to begin.
+　彼らの戦争はさらに進みプフォール軍のかなりの部分を倒しました。何十ものプフォールの世界が彼らに対抗するのにナクが使った武器の使用により破壊されました。しかしいまナクや彼らの世界で残っているものはガスとちりの広がった雲だけです。プフォールはそれら集団で$Iタリ・ジーム$iを解放して、それは彼らにかなりの数と資源をかけましたが、その戦争は始まろうとしているものとまだ比べものになっていません。
 #PICT 401
 
 
-Even the Nahk revolt was tame compared to the revolution that brought the once-unchallenged Pfhor empire to its knees for the first time in their history.
+　ナクの反乱でさえ彼らの歴史の中で初めてで一度も挑戦を受けていないプフォール帝国を屈辱させた反乱と比べたら単調でした。
 
-In this time when we now stand, thousands of years in your subjective past, history records that a ship manned by Drinniol piloted its way out from this system and began to show their kind what they were truly capable of. The Drinniol are an intelligent but highly timid race, easily subjugated by fear and show of power, and so the Pfhor have held them in bondage not by chains or by more advanced controls, but simply by holding their minds in fear.
+　私たちが立っているこの時代、あなたが過去と言う何千年前に、歴史はドリニオルによって配置された船がこのシステムからはずれて運航し、彼らの種族が本当には何ができるのかを示し始めました。ドリニオルは賢いがかなり臆病な種族で、容易に恐れて力の見せしめによって支配されるので、プフォールは鎖やもっと進歩した制御によってではなく、単に彼らの心に恐れを保持させてのパイロットによって束縛していました。
 #INFORMATION
-Drinniol roam freely in Pfhor society on all their thousands of worlds, unrestrained, unchecked, doing as they are told only because they fear to do otherwise. The Drinniol in this system have learned that they have nothing to fear, from the Pfhor or otherwise, and you have seen what that has done. When they leave here, with our help, they will go to other Pfhor worlds and pull the rug out from under their society. There are no safeguards in place at all, other than simple conditioning. If the Drinniol should choose to rise up against their masters, nothing but utter annihilation will stand in their way.
+　ドリンニオルはプフォール社会での全ての何千もの世界を自由に放浪し、抑制されず、検査されず、言われたことを単に彼らが他のことするのを恐れるという理由だけで行っていました。このシステムのドリニオルはプフォールや他のものから恐れるものが何もないことを学び、何が起こったかをあなたは見ています。彼らが私たちの助けでここを離れるとき、彼らは他のプフォール世界に行って、彼らの社会が当てにしているものを取り払うでしょう。簡単な条件の他には、この場所には安全装置は全くありません。ドリニオルが彼らの主人に対して立ち上がるのを選べば、全くの全滅だけが邪魔をするでしょう。
 
-And that is what it will come to. The Pfhor, mortified by the Drinniol's unfettered progress, will deplete nearly every resource in their army trying to stop them, on the ground and in the sky. The Drinniol will capture whole worlds and all of the ships on them, and fight until every last fighter is destroyed.
+　そしてそれが来るべきものです。 ドリンニオルの束縛のない進歩によって屈辱を与えられ、プフォールは空や地面で彼らを止めようとしてその軍隊のほぼ全資源を使い果たすでしょう。ドリニオルは彼らの全世界と全船を捕らえ、全ての最後の戦闘機が滅ぼされるまで戦うでしょう。
 
-Then, in utter desperation, the Pfhor will turn their greatest weapons against their own worlds, now held by the Drinniol. Whole planets will be glassed, nearly a third of the Pfhor's great empire decimated. Dozens of stars will be destroyed. All because one ship with a slave crew escaped from this system.
+　そして、全くの自暴自棄で、プフォールは彼らの最も偉大な兵器を、彼ら自身の、今ドリンニオルによって保持されている世界に対して向けるでしょう。全惑星が写され、 プフォールの大帝国のほぼ３分の１は殺されるでしょう。何十もの星が破壊されるでしょう。すべては奴隷乗組員がいるある船がこのシステムから脱出したからです。
 #PICT 401 RIGHT
 
-So I am going to beam us and the Drinniol onto the Pfhor flagship. It has returned from its safe distance, to see that all has been destroyed. While we cannot hand this Jjaro technology over to anyone here in the past, the Pfhor's flagship is the perfect vessel for the Drinniol's escape. If you would aid them in its capture, we can then be on our way.
+　だから私は私たちとドリンニオルをプフォールの旗艦に送るつもりです。それは安全な距離から、全てが破壊されたかどうかを見るために戻ってきました。私たちはこのジャロ技術をここの過去の誰にも渡すことはできませんが、プフォール旗艦はドリニオルの脱出には完璧な船です。もしあなたが彼らの捕獲を助けるなら、私たちは途中にいることができます。
 
-Find a terminal when you arrive there and I'll figure out some further logistics.
+　そこに到着したらターミナルを探してください、そうすればいっそうの論理を説明します。
 
-Now just give me a moment to transfer...
+　転送をするので待ってください…。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 15
 #LOGON 430
@@ -129,13 +129,13 @@ $C1\\ Message ends //
 
 
 
-$C1// Decoding message from host "Leela" [internal process] \\
+$C1／／ホスト "Leela" @ [内部プロセスし]からのメッセージをデコード＼＼
 $C0
 
-All set. Prepare for transport.
+終わりました。転送の準備をしてください。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 35
 #END
@@ -143,36 +143,36 @@ $C1\\ Message ends //
 #LOGON 430
 #LOGON 400
 #INFORMATION
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-Good work. The ship's self-destruct mechanism has been set, and destroying its Junction just in case wasn't a bad idea either. We will now see to the escape of the Drinniol on this ship, and the dawning of a revolution.
+　いい仕事です。自壊メカニズムがセットされ、万一に備えてその連結を破壊したのは悪い考えでもないでしょう。私たちは今この船のドリニオルが脱出して、反乱が始まるのを見ましょう。
 
-Thousands of years before your time, before the S'pht were ever enslaved, the Pfhor encountered another Jjaro client race, the Nahk. The Nahk fought tooth and nail against Pfhor enslavement, and though conquered for a while, they eventually threw off their yolks and freed their few small worlds from Pfhor rule.
+　あなたの時代の何千年も前、スフトが奴隷化される前に、プフォールは他のジャロの類族（配下種族）、ナクに出会いました。ナクはプフォールの奴隷化に全力で戦い、しばらくは征服されましたが、彼らはついにくびきを捨て、プフォールの規則から彼らのいくつかの小さな世界に逃げました。
 
-Their war pushed further and defeated a good portion of the Pfhor navy. Several dozen Pfhor worlds were destroyed by the Nahk's use of their own weapons against them. But all that now remains of the Nahk or their worlds are ever-expanding clouds of gas and dust. The Pfhor turned the $Itrih xeem$i loose on them en masse, and though it cost them greatly in numbers and resources, that war still does not hold a candle to the one that's about to begin.
+　彼らの戦争はさらに進みプフォール軍のかなりの部分を倒しました。何十ものプフォールの世界が彼らに対抗するのにナクが使った武器の使用により破壊されました。しかしいまナクや彼らの世界で残っているものはガスとちりの広がった雲だけです。プフォールはそれら集団で$Iタリ・ジーム$iを解放して、それは彼らにかなりの数と資源をかけましたが、その戦争は始まろうとしているものとまだ比べものになっていません。
 #PICT 401
 
 
-Even the Nahk revolt was tame compared to the revolution that brought the once-unchallenged Pfhor empire to its knees for the first time in their history.
+　ナクの反乱でさえ、彼らの歴史の中で初めてで一度も挑戦を受けていないプフォール帝国を屈辱させた反乱と比べたら単調でした。
 
-In this time when we now stand, thousands of years in your subjective past, history records that a ship manned by Drinniol piloted its way out from this system and began to show their kind what they were truly capable of. The Drinniol are an intelligent but highly timid race, easily subjugated by fear and show of power, and so the Pfhor have held them in bondage not by chains or by more advanced controls, but simply by holding their minds in fear.
+　私たちが立っているこの時代、あなたが過去と言う何千年前に、歴史はドリンニオルによって配置された船がこのシステムからはずれて運航し、彼らの種族が本当には何ができるのかを示し始めました。ドリンニオルは賢いがかなり臆病な種族で、容易に恐れて力の見せしめによって支配されるので、プフォールは鎖やもっと進歩した制御によってではなく、単に彼らの心に恐れを保持させてのパイロットによって束縛していました。
 #INFORMATION
-Drinniol roam freely in Pfhor society on all their thousands of worlds, unrestrained, unchecked, doing as they are told only because they fear to do otherwise. The Drinniol in this system have learned that they have nothing to fear, from the Pfhor or otherwise, and you have seen what that has done. When they leave here, with our help, they will go to other Pfhor worlds and pull the rug out from under their society. There are no safeguards in place at all, other than simple socialization. If the Drinniol should choose to rise up against their masters, nothing but utter annihilation will stand in their way.
+　ドリンニオルはプフォール社会での全ての何千もの世界を自由に放浪し、抑制されず、検査されず、言われたことを単に彼らが他のことするのを恐れるという理由だけで行っていました。このシステムのドリニオルはプフォールや他のものから恐れるものが何もないことを学び、何が起こったかをあなたは見ています。彼らが私たちの助けでここを離れるとき、彼らは他のプフォール世界に行って、彼らの社会が当てにしているものを取り払うでしょう。簡単な条件の他には、この場所には安全装置は全くありません。ドリニオルが彼らの主人に対して立ち上がるのを選べば、全くの全滅だけが邪魔をするでしょう。
 
-And that is what it will come to. The Pfhor, mortified by the Drinniol's unfettered progress, will deplete nearly every resource in their army trying to stop them, on the ground and in the sky. The Drinniol will capture whole worlds and all of the ships on them, and fight until every last fighter is destroyed.
+　そしてそれが来るべきものです。ドリンニオルの束縛のない進歩によって屈辱を与えられ、プフォールは空や地面で彼らを止めようとしてその軍隊のほぼ全資源を使い果たすでしょう。ドリンニオルは彼らの全世界と全船を捕らえ、全ての最後の戦闘機が滅ぼされるまで戦うでしょう。
 
-Then, in utter desperation, the Pfhor will turn their greatest weapons against their own worlds, now held by the Drinniol. Whole planets will be glassed, nearly a third of the Pfhor's great empire decimated. Dozens of stars will be destroyed. All because one ship with a slave crew escaped from this system.
+　そして、全くの自暴自棄で、プフォールは彼らの最も偉大な兵器を、彼ら自身の、今ドリンニオルによって保持されている世界に対して向けるでしょう。全惑星が写され、プフォールの大帝国のほぼ３分の１は殺されるでしょう。何十もの星が破壊されるでしょう。すべては奴隷乗組員がいるある船がこのシステムから脱出したからです。
 #PICT 401 RIGHT
 
-So I am going to beam us and the Drinniol onto the Pfhor flagship. It has returned from its safe distance, to see that all has been destroyed. While we cannot hand this Jjaro technology over to anyone here in the past, the Pfhor's flagship is the perfect vessel for the Drinniol's escape. If you would aid them in its capture, we can then be on our way.
+　だから私は私たちとドリンニオルをプフォールの旗艦に送るつもりです。それは安全な距離から、全てが破壊されたかどうかを見るために戻ってきました。私たちはこのジャロ技術をここの過去の誰にも渡すことはできませんが、プフォール旗艦はドリンニオルの脱出には完璧な船です。もしあなたが彼らの捕獲を助けるなら、私たちは途中にいることができます。
 
-Find a terminal when you arrive there and I'll figure out some further logistics.
+　そこに到着したらターミナルを探してください、そうすればいっそうの論理を説明します。
 
-Now just give me a moment to transfer...
+　転送をするので待ってください…。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 15
 #LOGON 430
@@ -185,13 +185,13 @@ $C1\\ Message ends //
 
 
 
-$C1// Decoding message from host "Leela" [internal process] \\
+$C1／／ホスト "Leela" @ [内部プロセスし]からのメッセージをデコード＼＼
 $C0
 
-All set. Prepare for transport.
+終わりました。転送の準備をしてください。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 38
 #END
@@ -201,18 +201,18 @@ $C1\\ Message ends //
 #UNFINISHED
 #LOGON 430
 #PICT 431
-$C1// Jjaro translator active \\
+$C1／／ジャロ翻訳機起動＼＼
 
-*** CAUTION: SELF-DESTRUCT MECHANISM ***
-******* For emergency use only!! *******
+*** $B注意: 自壊メカニズム$b ***
+******* 緊急時のみ使うこと！！ *******
 
-The trigger mechanisms in this room will activate a self-contained, timed destruct mechanism on board this vessel. DO NOT activate these trigger mechanisms without explicit legal consent, threat of mortal danger to an innocent entity, or the request of this vessel's host persona.
+この部屋のトリガーメカニズムはこの船に載った自己型時限式破壊メカニズムを起動します。明示的な合法の同意、悪意のない侵入に対する致命的な危険の脅威、この船のホスト個性の要求がない限り起動$Bしないでください$b。
 
-Failure to comply with these regulations will be considered an act of murder committed upon the vessel's host persona, punishable by appropriate legal measures.
+これらの規則に従わないと、船のホスト人格で遂行された殺人行為であるとみなされ、適切な法的措置で罰せられます。
 
-*** CAUTION: SELF-DESTRUCT MECHANISM ***
+*** $B注意：自壊メカニズム$b ***
 
-\\ End translation //
+＼＼翻訳終了／／
 #LOGOFF 430
 #END
 #ENDTERMINAL 4

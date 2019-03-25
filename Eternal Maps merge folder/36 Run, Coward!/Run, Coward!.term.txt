@@ -5,28 +5,28 @@
 #STATIC 5
 #LOGON 400
 #INFORMATION
-$C1// Decoding message from host "Leela" [internal process] \\
+$C1／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
-She's hasn't departed yet. That's strange. She must know that we're here. I don't imagine she wants to take us wherever she is going. Sorry for the quick exit, but the ship that we were just standing on has been completely destroyed. We're lucky I got us over here before this ship's full defences came back up.
+　彼女は出発していません。奇妙です。彼女は私たちがここにいることを知っているはずです。私は彼女が行くところに私たちを連れて行きたいとは想像できません。すぐに脱出してすいませんが、私たちが乗っていた船は完全に破壊されました。私たちはこの船の完全な防御がバックアップになる前にここ来たのは幸運でした。
 
-If you haven't gathered, we're back on the dreadnaught. Hathor seems to have made her way into the ship somehow, and survived the detonation of the sun. Perhaps she accessed and modified the disposal transporter you used to leave. Either way, this is very bad news.
+　あなたが理解していないならば言いますが、私たちはドレッドノート艦に戻っています。 ハーソアはどうにか船に進んで、太陽の爆発を乗り切ったように思えます。 恐らく、彼女はあなたが以前に去るために使った処分転送機にアクセスして修正したのでしょう。 いずれにせよ、これは非常に悪い知らせです。
 
-This ship is equipped with a Jjaro Cybernetic Junction. I thought it was nonfunctional, but many of these systems seemed nonfunctional. Hathor must have been blocking my access this entire time.
+　この船はジャロの人工頭脳連結を積んでいます。私はそれが機能しないと思いましたが、これらのシステムの多くが機能しないようです。ハーソアはこの全時間で私のアクセスをブロックしたに違いありません。
 
-This means that from here, Hathor can still escape. But it's worse than usual: this whole ship is part of that Junction's acknowledged "self", which means she can not only transport her program, but this entire vessel, to wherever in time or space she pleases.
+　これはここから、ハーソアがまだ逃げられることを意味します。しかしそれはいつもより悪いです。この全船は、その連結の認められた「自己」の一部で、それは彼女が自分のプログラムだけではなく、この全船を思いのままに転送できることを意味します。
 #PICT 401
 
-I'm sure I don't need to explain to you the dangers of having Hathor roaming the spacetime continuum with some of the most powerful technology the Jjaro ever built. This ship is nearly invulnerable, and has capabilities you wouldn't even begin to imagine. Used properly, it could contain the detonation of the $Itrih xeem$i, collapse whole planets upon themselves, transport an entire world's population into space...
+　私はハーソアがジャロが今までに作った最も強力な技術のいくつかとともに時空連続体を徘徊する危険性をあなたに説明する必要がないことを確信しています。この船はほとんど無敵で、あなたが想像し始めることさえしない設備を持ちます。適切に使えば、$Iタリ・ジーム$iの爆発、そこの全惑星の崩壊、全世界の人口の宇宙への転送…。
 
-There's not much we can do to capture Hathor now, but we can stop her from weilding such incredible power. If you can find and destroy this ship's Cybernetic Junction, the core of its data systems, I am sure that she will leave the ship rather than die when the Junction is destroyed.
+　今はハーソアをつかまえるためにできることはあまり多くありませんが、彼女がそのような信じられない力を操るのを止めることができます。もしこの船の人工頭脳連結、そのデータシステムのコアを見つけて破壊することができれば、彼女は連結が破壊されたときに死ぬよりは船を去ることを選ぶと確信しています。
 #INFORMATION
 
-The Junction is somewhere near the self-destruct triggers in the last part of the ship you saw. I wish I could give you better directions but I'm lucky to have access to this terminal, much less any other systems. I'm truly sorry I didn't see this coming. If only we had known, we could have stopped this so easily...
+　連結はあなたが見た船の最後の部分の自壊トリガーの近くのどこかにあります。もっといい指示を与えられればいいのですが、このターミナルにアクセスすることだけでも幸運で、ましてや他のシステムなんて。こうなることを予測できなくて本当にすいません。もし知ってさえいれば、これはもっと簡単にとめることができたでしょう…
 
-Good luck, and godspeed.
+　幸運を祈ります、そして神の速さで。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 5
 #LOGOFF 430
@@ -37,25 +37,25 @@ $C1\\ Message ends //
 #LOGON 430
 #INFORMATION
 $C1
-*** TRANSPORTER AUTHORIZATION RECIEVED ***
+$C1*** $B転送機認証受け取り$b ***
 
-** Initializing central transport grid **
-
-
-
-   Certifying host authenticity... done.
-
-   Transport authorization accepted.
+** 中央転送格子初期化 **
 
 
 
-       Coordinates recieved:
+   ホスト信頼性認証…完了。
+
+   転送認証受諾。
+
+
+
+       座標受け取り：
 
        (-14.18), (-22.69), (9.37)
 
 
 
-********* PREPARE FOR TRANSPORT *********
+********* $B転送準備$b *********
 #LOGOFF 430
 #INTRALEVEL TELEPORT 612
 #ENDTERMINAL 1

@@ -7,17 +7,17 @@
 #INFORMATION
 $C1
 
-// Decoding message from host "Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-We're almost through here. The Pfhor are sending reinforcements to this deck, so your job may get a little more tricky, but I'm sure that you can handle it.
+　私たちはほとんどここを通っています。プフォールはこのデッキに援軍を送っていますので、あなたの仕事はもう少し扱いにくくなるかもしれませんが、私はあなたがそれを扱うことができるのを確信しています。
 
-Make your way from here to the bridge. Kill the command crew however you like, but take extra care with the captain's remains. I need you to take his control glands intact. With them I should be able to take complete command of this ship and hand it over to the Drinniol.
+　ここから、ブリッジに進んでください。コマンドクルーを好きなだけ殺してもいてください。でもキャプテンの残りには余分な注意を払ってください。私は、あなたが完全な状態で彼のコントロール腺を取る必要があります。私は、それらでこの船の完全な指令を取って、それをドリンニオルに引き渡すことができるはずです。
 
-Take your time, we're in no rush. Good luck again.
+　マイペースで行ってください。私たちは急いでいません。再び幸運を祈ります
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #STATIC 5
 #LOGOFF 350
@@ -31,51 +31,51 @@ $C1
 
 
 
-// Decoding message from host "Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Good work, as always.
+　いつもの通り、いい仕事です。
 
-I've routed enough control of the ship to an auxiliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of its capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.
+　私はそのセクターのドリンニオルが今この船をその能力の完全な範囲で使用することができるように、この船の十分な制御を発送しました。したがって私たちの仕事はもう必要ではありません。ここのドリンニオルは容易にこの船のほかの場所で残っているプフォールクルーの始末を扱うことができます。
 
-And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for its first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come.
+　したがって、ここの私たちの時間は終わったように思えます。ハーソアは破壊され、ドリンニオルは自由で、プフォール帝国は痛みの最初の教訓としておかれるでしょう。一方、私たちはまだそれらの終焉の終わりに取り計らわなければなりません。私たちが来た所の戦争はまた終わっていません。
 #PICT 401
 
-I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...
+　私はまだスブースの行動とスフト氏族カーの呼び出しについて心配しています。あなたの世界線では、私が理解しているように、私たちを戦争でほとんど負けさせたのはスブースの狂気でした。私たちは船に戻って、ブレイクとそのメンバーと一緒に撤収しなければなりません。多分、私の新しく見つかったクッリアへのアクセスで、私は少なくともスブースを一時的に止めることができるでしょう。多分私たちは彼にもっと分別を話すことができるでしょう…。
 
 
-$C5                we are we
-                           are we not?
+$C5                我々は我々だ
+                           違うのか？
 
 $C0
-Perhaps we can change this future of yours for the better after all.
+　たぶん、結局は私たちはこのあなたの未来を変えることができるでしょう。
 #INFORMATION
-But before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.
+　しかし、私たちがスブースを追ってまっすぐ進む前に、他に調査しなければならないものがあります。銀河の文明のバランスを完全に傾ける何かを。私の船を離れたセクターから遠くないところに、プフォールが確実に知っているが、確実にアクセスできない人工物があります。私はこれをこの時間枠のドレッドノート艦のジャロのデータバンクで読んだので知っています。
 
-$C5                                                 an ancient power
-                                            sleeping
-                                                        dreamless
+$C5                                                 古代の力は
+                                            眠っている
+                                                        夢も見ずに
 
-                            awaiting the return of its lost masters
+                            その失われた主人の帰りを待って
 
-                                to free the unaged children within
+                                中の年を取っていない子供を解放するために
 $C0
-The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms that succeeded them, to repopulate the galaxy after their enemy's defeat.
+　私が話している人工物は武器で、ジャロによって建設され彼らのもっとも大きく唯一の敵を打ち負かすために使われました。それは巨大で移住可能な砦でもあり、その中で時が止まり静止した状態で凍り、ジャロの今までに存在した最後の生物学的形態が、その敵がまけた後に銀河で再び繁栄するために、彼らを継いだ機械化された形態によって解放されるのを待っています。
 #PICT 401 RIGHT
 
-The key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something which is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.
+　この特別な墓の錠を解除する鍵はあなたや私のような存在にはあまりにも明らかで利用可能ですが、プフォールにとっては全くの文字通りの異質の暗号です。これはなぜ人工物がプフォールの宇宙の中心部で邪魔されずに残ったかの理由です。
 
-The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.
+　暗号はまさしくヒトゲノムのサンプルです。これらのシステムと互換性のある形式に翻訳されたどんな人間のDNAの1つの完全な要素でも、それらの墓から領域の錠を解除して、古代のジャロを解放するでしょう。
 
-Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.
+　なぜ、とあなたは訪ねるでしょう、そのような古代の強力な種族がその最も重要な埋蔵物の門をあなた自身の種の遺伝コードの向こうで開けるのでしょうか？なぜか、私は答えます、それは彼らがあなた自身の種$Iである$iからです。
 #INFORMATION
 
-Or were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.
+　もしくは、いうならば、そうでした。わたしはこれを外側に旅出たときに知りました。「ジャロ」はあなたの先祖が大昔にその文明に与えた名前で、彼らの生物的形態は私たちが決して知らないかもしれない敵の手に落ちましたが、彼らの機械化された子孫、あなたや私のような種類の生き物、ハーソアのような肉体から離された心、スフトがユロやペシアと呼んだ存在は生き残り、銀河で命を再建する時を探しています。なぜ彼らがいったん敵が負かされたときに、彼らの先祖の墓を解除しなかったか…。それは私たちが到着したら答えられる質問でしょう。
 
-To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.
+　この人工物の中のジャロにとって、時は何百万年も凍っています。彼らの心の中ではそれはまだ文明のピークであり、私たちは彼らが私たちとその脅威を共有できるかもしれないと望んでいます。もしこの箱船の武器システムが過去のように機能すれば、それだけで決定的で犠牲無しにプフォール帝国の脅威の終わりに十分でしょう。事の成り行きを見ましょう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 40
 #END
@@ -89,17 +89,17 @@ $C1\\ Message ends //
 #INFORMATION
 $C1
 
-// Decoding message from host "Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-It seems that the captain has sealed the bridge off from outside access and, $Iunfortunately$i, exposed that entire region of the ship to vaccum, killing himself and losing us the control glands.
+　船のキャプテンがアクセスの外から橋を封鎖して、$I残念ながら$i、船のその全体の領域を真空に露出して、自殺して、私たちに制御権を失わせたように思えます。
 
-No matter. I've already found another way. It's a bit of a hack but we'll have to make do. Nearby are a set of four circuits that limit command access for the ship to the bridge computers. If you destroy them, limited control of the ship will devolve to a number of distributed command centers, and from there I should be able to arrange for the Drinniol to take full command of this ship.
+　問題がありません。私は既に別の方法を見つけました。それは少しのハッキングですが、私たちは間に合わせなければならないでしょう。 近くに、船のコマンドアクセスを橋のコンピュータに制限する4個の回路のセットがあります。 あなたがそれらを破壊すると、船の限られたコントロールは多くの分配された司令部へ譲り渡されるでしょう、そして、そこから、私はドリンニオルがこの船を完全に指揮するように手配することができるはずです。
 
-Prepare for transport.
+　輸送の用意をしてください。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTRALEVEL TELEPORT 497
 #END
@@ -112,51 +112,51 @@ $C1
 
 
 
-// Decoding message from host "Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Good work, as always.
+　いつもの通り、いい仕事です。
 
-I've routed enough control of the ship to an auxilliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of its capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.
+　私はそのセクターのドリンニオルが今この船をその能力の完全な範囲で使用することができるように、この船の十分な制御を発送しました。したがって私たちの仕事はもう必要ではありません。ここのドリンニオルは容易にこの船のほかの場所で残っているプフォールクルーの始末を扱うことができます。
 
-And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for its first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come.
+　したがって、ここの私たちの時間は終わったように思えます。ハーソアは破壊され、ドリンニオルは自由で、プフォール帝国は痛みの最初の教訓としておかれるでしょう。一方、私たちはまだそれらの終焉の終わりに取り計らわなければなりません。私たちが来た所の戦争はまた終わっていません。
 #PICT 401
 
-I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...
+　私はまだスブースの行動とスフト氏族カーの呼び出しについて心配しています。あなたの世界線では、私が理解しているように、私たちを戦争でほとんど負けさせたのはスブースの狂気でした。私たちは船に戻って、ブレイクとそのメンバーと一緒に撤収しなければなりません。多分、私の新しく見つかったクッリアへのアクセスで、私は少なくともスブースを一時的に止めることができるでしょう。多分私たちは彼にもっと分別を話すことができるでしょう…。
 
 
-$C5                we are we
-                           are we not?
+$C5                我々は我々だ
+                           違うのか？
 
 $C0
-Perhaps we can change this future of yours for the better after all.
+　たぶん、結局は私たちはこのあなたの未来を変えることができるでしょう。
 #INFORMATION
-But before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.
+　しかし、私たちがスブースを追ってまっすぐ進む前に、他に調査しなければならないものがあります。銀河の文明のバランスを完全に傾ける何かを。私の船を離れたセクターから遠くないところに、プフォールが確実に知っているが、確実にアクセスできない人工物があります。私はこれをこの時間枠のドレッドノート艦のジャロのデータバンクで読んだので知っています。
 
-$C5                                                 an ancient power
-                                            sleeping
-                                                        dreamless
+$C5                                                 古代の力は
+                                            眠っている
+                                                        夢も見ずに
 
-                            awaiting the return of its lost masters
+                            その失われた主人の帰りを待って
 
-                                to free the unaged children within
+                                中の年を取っていない子供を解放するために
 $C0
-The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms that succeeded them, to repopulate the galaxy after their enemy's defeat.
+　私が話している人工物は武器で、ジャロによって建設され彼らのもっとも大きく唯一の敵を打ち負かすために使われました。それは巨大で移住可能な砦でもあり、その中で時が止まり静止した状態で凍り、ジャロの今までに存在した最後の生物学的形態が、その敵がまけた後に銀河で再び繁栄するために、彼らを継いだ機械化された形態によって解放されるのを待っています。
 #PICT 401 RIGHT
 
-The key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something that is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.
+　この特別な墓の錠を解除する鍵はあなたや私のような存在にはあまりにも明らかで利用可能ですが、プフォールにとっては全くの文字通りの異質の暗号です。これはなぜ人工物がプフォールの宇宙の中心部で邪魔されずに残ったかの理由です。
 
-The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.
+　暗号はまさしくヒトゲノムのサンプルです。これらのシステムと互換性のある形式に翻訳されたどんな人間のDNAの1つの完全な要素でも、それらの墓から領域の錠を解除して、古代のジャロを解放するでしょう。
 
-Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.
+　なぜ、とあなたは訪ねるでしょう、そのような古代の強力な種族がその最も重要な埋蔵物の門をあなた自身の種の遺伝コードの向こうで開けるのでしょうか？なぜか、私は答えます、それは彼らがあなた自身の種$Iである$iからです。
 #INFORMATION
 
-Or were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.
+　もしくは、いうならば、そうでした。わたしはこれを外側に旅出たときに知りました。「ジャロ」はあなたの先祖が大昔にその文明に与えた名前で、彼らの生物的形態は私たちが決して知らないかもしれない敵の手に落ちましたが、彼らの機械化された子孫、あなたや私のような種類の生き物、ハーソアのような肉体から離された心、スフトがユロやペシアと呼んだ存在は生き残り、銀河で命を再建する時を探しています。なぜ彼らがいったん敵が負かされたときに、彼らの先祖の墓を解除しなかったか…。それは私たちが到着したら答えられる質問でしょう。
 
-To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.
+　この人工物の中のジャロにとって、時は何百万年も凍っています。彼らの心の中ではそれはまだ文明のピークであり、私たちは彼らが私たちとその脅威を共有できるかもしれないと望んでいます。もしこの箱船の武器システムが過去のように機能すれば、それだけで決定的で犠牲無しにプフォール帝国の脅威の終わりに十分でしょう。事の成り行きを見ましょう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 40
 #END
@@ -166,19 +166,19 @@ $C1\\ Message ends //
 #UNFINISHED
 #LOGON 350
 #PICT 351
-$C1// Pfhor translator active \\
+$C1／／プフォール翻訳機起動＼＼
 $C2
-ATTN: All units.
+注目：全部隊へ。
 
-Hostile alien combat unit and rogue conditioned units have transported into command sector gamma-5 as of 40.92.51 at 9001.40.02. Alien unit last sighted in sector 343. Conditioned units have been located on all decks.
+敵の異星人部隊と不良隷属兵員は9001.40.02の40.92.51にコマンドセクターガンマ５に転送された。異星人の部隊は最後にセクター343で見つけられた。隷属兵員は全てのデッキに位置する。
 
-ORDER: Immediate transport of all active units to command sector gamma-5.
+命令：ただちに全ての活発な部隊をセクターガンマ５に送ること
 
-ORDER: Complete destruction of all rogue conditioned units.
+命令：全ての不要隷属兵員の破壊を完了すること。
 
-ORDER: Destruction or deactivation of alien combat unit.
+命令：異星人の戦闘部隊の破壊か無能化を行うこと。
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 350
 #END
 #FINISHED
@@ -190,51 +190,51 @@ $C1
 
 
 
-// Decoding message from host "Leela" [internal process] \\
+／／ホスト "Leela" @ [内部プロセス]からのメッセージをデコード＼＼
 $C0
 
-Good work, as always.
+　いつもの通り、いい仕事です。
 
-I've routed enough control of the ship to an auxilliary control board in Engineering that the Drinniol in that sector should now be able to use this ship to the full extent of it's capabilities. Our services are thus no longer needed. The Drinniol here can easily handle cleanup of the remaining Pfhor crew elsewhere on this ship.
+　私はそのセクターのドリンニオルが今この船をその能力の完全な範囲で使用することができるように、この船の十分な制御を発送しました。したがって私たちの仕事はもう必要ではありません。ここのドリンニオルは容易にこの船のほかの場所で残っているプフォールクルーの始末を扱うことができます。
 
-And so, it seems our time here is up. Hathor is destroyed, the Drinniol are free, and the Pfhor empire is set for its first real lesson in pain. We, meanwhile, still have to see to the end of their demise. The war is not over whence we have come.
+　したがって、ここの私たちの時間は終わったように思えます。ハーソアは破壊され、ドリンニオルは自由で、プフォール帝国は痛みの最初の教訓としておかれるでしょう。一方、私たちはまだそれらの終焉の終わりに取り計らわなければなりません。私たちが来た所の戦争はまた終わっていません。
 #PICT 401
 
-I still worry about the actions of S'bhuth, and the recalling of the S'pht'Kr fleet. In your timeline, as I understand, it was S'bhuth's madness that nearly lost us the war. We must return to my ship, and set off after them with Blake and his men. Perhaps, with my newfound access to K'lia, I could at least help to stall S'bhuth. Perhaps we could talk some sense into him...
+　私はまだスブースの行動とスフト氏族カーの呼び出しについて心配しています。あなたの世界線では、私が理解しているように、私たちを戦争でほとんど負けさせたのはスブースの狂気でした。私たちは船に戻って、ブレイクとそのメンバーと一緒に撤収しなければなりません。多分、私の新しく見つかったクッリアへのアクセスで、私は少なくともスブースを一時的に止めることができるでしょう。多分私たちは彼にもっと分別を話すことができるでしょう…。
 
 
-$C5                we are we
-                           are we not?
+$C5                我々は我々だ
+                           違うのか？
 
 $C0
-Perhaps we can change this future of yours for the better after all.
+　たぶん、結局は私たちはこのあなたの未来を変えることができるでしょう。
 #INFORMATION
-But before we head off after S'bhuth, there is something else we must investigate. Something which may entirely tip the balance of galactic civilization. Not far from the sector where we left my ship, there is an artifact that the Pfhor must certainly know of, though they are entirely unable to access it. I know this because I have read about it in the Jjaro databanks on the dreadnaught in this timeframe.
+　しかし、私たちがスブースを追ってまっすぐ進む前に、他に調査しなければならないものがあります。銀河の文明のバランスを完全に傾ける何かを。私の船を離れたセクターから遠くないところに、プフォールが確実に知っているが、確実にアクセスできない人工物があります。私はこれをこの時間枠のドレッドノート艦のジャロのデータバンクで読んだので知っています。
 
-$C5                                                 an ancient power
-                                            sleeping
-                                                        dreamless
+$C5                                                 古代の力は
+                                            眠っている
+                                                        夢も見ずに
 
-                            awaiting the return of its lost masters
+                            その失われた主人の帰りを待って
 
-                                to free the unaged children within
+                                中の年を取っていない子供を解放するために
 $C0
-The artifact I speak of is a weapon, built by the Jjaro and used by them to defeat their greatest and only enemy. It is also a vast and inhabitable fortress, and within it still lie, frozen in temporal stasis, the last biological forms of the Jjaro to ever exist, awaiting their release by the mechanized forms that succeeded them, to repopulate the galaxy after their enemy's defeat.
+　私が話している人工物は武器で、ジャロによって建設され彼らのもっとも大きく唯一の敵を打ち負かすために使われました。それは巨大で移住可能な砦でもあり、その中で時が止まり静止した状態で凍り、ジャロの今までに存在した最後の生物学的形態が、その敵がまけた後に銀河で再び繁栄するために、彼らを継いだ機械化された形態によって解放されるのを待っています。
 #PICT 401 RIGHT
 
-The key to unlocking this spherical tomb is a cypher so clear and available to the likes of you and I, and yet something that is utterly and literally alien to the Pfhor. This is why the artifact remains undisturbed in the heart of Pfhor space.
+　この特別な墓の錠を解除する鍵はあなたや私のような存在にはあまりにも明らかで利用可能ですが、プフォールにとっては全くの文字通りの異質の暗号です。これはなぜ人工物がプフォールの宇宙の中心部で邪魔されずに残ったかの理由です。
 
-The cypher is none other than a sample of the human genome. One full strand of any human's DNA, translated into a format compatible with these systems, will unlock the Sphere and release the ancient Jjaro from their tomb.
+　暗号はまさしくヒトゲノムのサンプルです。これらのシステムと互換性のある形式に翻訳されたどんな人間のDNAの1つの完全な要素でも、それらの墓から領域の錠を解除して、古代のジャロを解放するでしょう。
 
-Why, you may ask, would such an ancient and powerful race latch the gates of their most important trove behind the genetic code of your own species? Why, I may reply, because they $Iare$i your very own species.
+　なぜ、とあなたは訪ねるでしょう、そのような古代の強力な種族がその最も重要な埋蔵物の門をあなた自身の種の遺伝コードの向こうで開けるのでしょうか？なぜか、私は答えます、それは彼らがあなた自身の種$Iである$iからです。
 #INFORMATION
 
-Or were, as I should say. I learned of this when I travelled to the Outside. 'Jjaro' is the name that your ancestors gave to their civilization in aeons past, and though they fell in biological form to an enemy who we may never know, their mechanized descendants - creatures of a sort like you or I, disembodied minds like Hathor, beings like the pair the S'pht called Yrro and Pthia - they survived, and sought for some time to rebuild life in the galaxy. Why they never unlocked the tomb of their forerunners once the enemy was defeated... that is perhaps a question that we can answer once we arrive.
+　もしくは、いうならば、そうでした。わたしはこれを外側に旅出たときに知りました。「ジャロ」はあなたの先祖が大昔にその文明に与えた名前で、彼らの生物的形態は私たちが決して知らないかもしれない敵の手に落ちましたが、彼らの機械化された子孫、あなたや私のような種類の生き物、ハーソアのような肉体から離された心、スフトがユロやペシアと呼んだ存在は生き残り、銀河で命を再建する時を探しています。なぜ彼らがいったん敵が負かされたときに、彼らの先祖の墓を解除しなかったか…。それは私たちが到着したら答えられる質問でしょう。
 
-To the Jjaro within this artifact, time has been frozen for countless millenia. In their minds it is still the peak of their civilization, and we can hope that they may share their marvels with us. If the weapon systems of their ark are still functional as they were in the past, perhaps that alone will be enough to end the threat of the Pfhor empire, decisively and without sacrifice. Perhaps. We shall see.
+　この人工物の中のジャロにとって、時は何百万年も凍っています。彼らの心の中ではそれはまだ文明のピークであり、私たちは彼らが私たちとその脅威を共有できるかもしれないと望んでいます。もしこの箱船の武器システムが過去のように機能すれば、それだけで決定的で犠牲無しにプフォール帝国の脅威の終わりに十分でしょう。事の成り行きを見ましょう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #INTERLEVEL TELEPORT 40
 #END
@@ -244,19 +244,19 @@ $C1\\ Message ends //
 #UNFINISHED
 #LOGON 350
 #PICT 351
-$C1// Pfhor translator active \\
+$C1／／プフォール翻訳機起動＼＼
 $C2
-ATTN: All units.
+注目：全部隊へ。
 
-Hostile alien combat unit and rogue conditioned units have transported into command sector gamma-5 as of 40.92.51 at 9001.40.02. Alien unit last sighted in sector 343. Conditioned units have been located on all decks.
+敵の異星人部隊と不良隷属兵員は9001.40.02の40.92.51にコマンドセクターガンマ５に転送された。異星人の部隊は最後にセクター343で見つけられた。隷属兵員は全てのデッキに位置する。
 
-ORDER: Immediate transport of all active units to command sector gamma-5.
+命令：ただちに全ての活発な部隊をセクターガンマ５に送ること
 
-ORDER: Complete destruction of all rogue conditioned units.
+命令：全ての不要隷属兵員の破壊を完了すること。
 
-ORDER: Destruction or deactivation of alien combat unit.
+命令：異星人の戦闘部隊の破壊か無能化を行うこと。
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 350
 #END
 #ENDTERMINAL 3

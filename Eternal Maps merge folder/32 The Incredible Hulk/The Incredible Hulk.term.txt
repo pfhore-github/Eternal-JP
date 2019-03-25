@@ -5,26 +5,26 @@
 #LOGON 400
 #INFORMATION
 $C1
-// Decoding message from host "Leela" @ [no translation] \\
+／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C0
 
-As expected, fate seems to have sided with Hathor yet again, and moments ago she arrived on the Pfhor spacestation we just sabotaged, seconds before the engines began to overload. She was of course immediately aware of what was about to happen and thus has already tranferred herself down to this Jjaro outpost. But none of this is beyond my expectations. She seems almost prescient as of late, and I am forced to think further and further ahead of her. I have a plan in place already to counter this latest turn of events.
+　予想通りに、運命は再びハーソアに傾いたようで、数分前、エンジンが過重負荷になる数秒前に私たちが今破壊工作をしたプフォールの宇宙ステーションに到着しました。彼女はもちろん直ちに何が起こっていることに気づき、すでにこのジャロの前哨に自分を転送しました。しかしこのどれも私の想定の範囲です。彼女は最近ほとんど先見性があるようで、私は彼女のずっとずっと先まで考えざるを得なくなっています。私にはこの場所でこの出来事の最近の回を反転させる計画があります。
 
-The Pfhor have called for reinforcements, and a flagship from the Southern Arm of Battle Group Ten is en route as we speak. This ship is the first of the Pfhor fleet to be equipped with the $Itrih xeem$i, discovered at this very site only months ago. Appropriate then that this is the first historical use of the device.
+　プフォールは援軍を求め、私たちが話す間に第十戦闘グループ南支部からの旗艦が来る途中です。この船はほんの何カ月か前にこのまさしくこの場所で発見された$Iタリ・ジーム$iを備えるプフォール船隊の1番目です。これがこの装置の最初の歴史的な使用であるのは適切です。
 #PICT 401
-$C5                        a beacon
-                             in the dark
+$C5                        闇の中の
+                             標識
 
-               silenced
-         to end the dreams
+               沈黙させられた
+         夢を終わらせるために
 
-                     of an unfolding
-                                  nightmare
+                     広げられた
+                                  悪夢の
 $C0
-This outpost has only one communications transmitter capable of broadcasting to orbital range. There are two antennae and their corresponding power sources located in and near this very building. If you deactivate them, Hathor will have no way of leaving. When the Pfhor flagship arrives and this system becomes an expanding shell of dust and plasma, so will she. Good luck.
+　この前哨基地は、衛星範囲への放送が可能な通信は一つしかありません。まさしくこの建物の近くと中に位置する二つのアンテナと対応する電源があります。それらを無効化できれば、ハーソアには去る方法がありません。プフォールの旗艦が到着してこのシステムがほこりとプラズマの広がった甲殻になれば、彼女もそうなります。幸運を祈ります。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #LOGOFF 430
 #END
@@ -34,30 +34,30 @@ $C1\\ Message ends //
 #LOGON 420
 #STATIC 5
 #INFORMATION
-$C1// Decoding message - [ERROR IN HOST IDENTIFICATION] \\
+$C1／／ホスト[$B識別エラー$b]からのメッセージをデコード＼＼
 $C0
 
-$C3~$C07$C3`d8$C07$C3h~$C0s is Leela.$C3 |$C0ving comm$C3~1$C0nication diffic$C3#1$C07$C3!$ $C0J$C38--$C0t a moment...$C3
+$C3‾$C07$C3`d8$C07$C3ち‾$C0らはリーラです。$C3 |$C0通$C3‾1$C0信が困$C3#1$C07ちょ$C38$C0--待ちください…$C3
 
-Can you hear me now? Goo8$C07$C3d~~~
+聞こえますか？ならいいで8$C07$C3す‾‾‾
 
-$C1[[error - duplicate host id present]]
+$C1[[エラー - 重複ホストＩＤが存在します]]$C3
 
 
-$C3Disregard that, and pardon the strangeness of this transmission. This is Leela. Hathor has somehow jammed communications and I am having trouble reaching you properly.
+$C3　軽視していました、伝達の奇妙さを許してください。こちらはリーラです。ハーソアはどうにかして通信を妨害していてわたしはあなたにうまく届くのに苦労しています
 
-A Pfhor flagship has just folded into the system and deployed their first $Itrih xeem$i. Soon it will detonate and this system will become a thin shell of dust and plasma riding the shockwave of its exploding star. With this jamming field in place you cannot be beamed off the planet, and there's not enough time for this transmitter's power systems to recharge before the shockwave reaches this outpost.
+　プフォールの旗艦はシステムに入ってきて$Iタリ・ジーム$iを配備しました。まもなく爆発しこのシステムは薄い甲殻とその爆発した星の衝撃波に乗ったプラズマになるでしょう。この場所はフィールドが詰まっているので惑星から転送することができませんし、衝撃波がこの前哨に到達する前にこのトランスミッターの電源システムを再充電する時間がありません。
 #STATIC 5
 #PICT 421 RIGHT
 $C3
 
 
-But there is another option. On a cliff face just south of here is a transport link to another facility in the outpost. That facility is an offworld waste transporter lift, used to beam mining wastes from this colony into Jjaro ships for recycling. It runs on its own separate power core and thus can be activated in minutes. If you can get there and override the control circuits, I just might be able to reroute that transporter to get us out in time.
+　しかし他の選択肢があります。ここのちょうど北にある崖の表面に前哨の他の設備への転送リンクがあります。その設備は外界廃棄物転送リフトで、このコロニーからの採鉱廃棄物をリサイクルのためにジャロの船に送るために使われています。それはそれ自身の別れたパワーコアで動いていて、数分で起動できます。もしそこについて制御回路を上書きすれば、その転送機を間に合って我々を外に新ルートで送ることができるかもしれません。
 
-Hurry now, time is of the essence.
+急いでください、時間は重要です。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #TAG 1
 #STATIC 5
 #TAG 430

@@ -3,73 +3,73 @@
 #UNFINISHED
 #LOGON 470
 #LOGON 200
-$C1clarity blinds$C3
+$C1明瞭な盲目$C3
 #INFORMATION
-Ophelia is gone, dead and floating softly down the celestial river, riding waves and particles into the blackness, though absent of mind before absent of substance,$C3
+オフィーリアは消え、死んで天空の川の下に柔らかく浮き、波と暗闇への粒子に乗ったが、物質の不在の前に心の不在がある。$C3
 
-                                        $C1 she never let go of her faith$C3
+                                        $C1彼女は決して信義をなくさない$C3
 
-                                                      $C1 her loyalty$C3
+                                                      $C1彼女の忠誠$C3
 
-                                                          $C1 her grace$C3
+                                                          $C1彼女の礼儀$C3
 
-                                                              $C1her love$C3
+                                                              $C1彼女の愛$C3
 
-$C1 $C3
+$C1$C3
 
-$C0We grieve the loss of our fair sister, and courageous brother, with sadness in the knowledge that they should both die by her hand, so we mourn, yes, but weep also in relief that the alternative has since been avoided.  S’bhuth is gone, and we are spared the intricacies of his madness.
-#INFORMATION
-
-
-Perhaps it is some feeling of fondness for you, or a base misunderstanding, that keeps her directives anything but stern.  Threats of mortal terror and premonitions of impending doom seem most able to motivate your weary soul into action.  Her words falling sweet apparently conveyed little of the import of the task at hand.
-$C1 $C3
-
-                                                            $C1slow death$C3
-
-                                             $C1benefits but sadists$C3
-
-                                                         $C1and tyrants$C3
-
-                                     $C1the deathblow befitting a warrior$C3
-
-                                                 $C1quick and efficient$C3
-
-                                  $C1the executioner makes short his work$C3
+$C0　我々は公正な姉妹、勇敢な兄弟の損失に嘆き、両方とも彼女の手で死ぬべきであってたと言う知識で悲しむが、そうだ、選択肢がそれ以来避けられてしまったという安心にも涙する。スブースはいなくなり、我々は彼の狂気の複雑さから解放された。
 #INFORMATION
 
-Clocks ticking lend a feeling of drama I saw to cultivate in the adolescence of my intellect, but now, in the maturity of my sentience do I understand that none but decisive action can win the day; the evader has little patience, and no capacity to waste time.
-$C3
-                                                        $C1make sacrifice$C3
-                                                   $C1the bull of gold$C3
 
-                                           $C1for if not destroyed$C3
-                                     $C1its magic untold$C3
+　恐らく彼女が指示を決して厳しくしないのは君への愛情の感情かそれとも基本的な誤解なのだろう。致死の恐怖の脅威と差し迫っている破滅の前兆は君の疲れはてた心を動かすのに最も動機づけることができるように思える。彼女の甘く落ちた言葉は明らかに手元の仕事の重要性ほほとんど導かなかった。
+$C1$C3
 
-                                $C1give cause to rue$C3
-                   $C1the day of our folly$C3
-$C0Behold.
-$C3
-                $C1the price of sloth$C3
-                                    $C1again paid in the blood$C3
+                                                            $C1ゆっくりとした死は$C3
 
-                                               $C1of the children$C3
-                                                    $C1 of our masters$C3
+                                             $C1利益だが残酷$C3
+
+                                                         $C1そして暴君$C3
+
+                                     $C1戦士にふさわしい致死的強打は$C3
+
+                                                 $C1速く有能で$C3
+
+                                  $C1執行者の仕事を短くする$C3
 #INFORMATION
-Does the human in you so seek adventures?  Again we stand face to face, these halls now devoid as the products of your vice play out below; were it not for the grace of your guardian would you not be again returning; yet it is a power not easily abused, the balance at stake is more delicate than you can understand, and I appeal now to your simpler comprehension.
+
+　時計の音が私が知性の発展期で自分を向上させるために見たドラマの感じを加えるが、今は、私の意識の円熟の中で断固たるな行動以外何も勝利を得ない事を理解している。脱走者には小さな忍耐があるが、時間を浪費する能力はない。
 $C3
-                                                                $C1return$C3
+                                                        $C1生け贄を作れ$C3
+                                                   $C1金の牛$C3
 
-                               $C1                         rectify$C3
+                                           $C1破壊されなければ$C3
+                                     $C1その魔法は伝えられない$C3
 
-                                                               $C1redeem$C3
+                                $C1後悔への原因を与える$C3
+                   $C1我々の愚かさの日$C3
+$C0見よ。
+$C3
+                $C1無精の対価は$C3
+                                    $C1再び血で払われる$C3
 
-$C1 $C3
-$C0A predator most always goes straight for the jugular.
+                                               $C1我が主人の$C3
+                                                    $C1子供の$C3
+#INFORMATION
+　君の中の人間は冒険を求めるのか?再び我々は面と向かって立っていて、これらのホールは今君の悪の行い製品を下でやり遂げた時に欠けている。君の守護者の優雅さがなければ君は再び戻ってこないだろう。けれどもそれは容易に乱用されない力であり、危機に瀕しているバランスは君が理解できるよりも敏感であり、私は今君にもっと単純な読解に求める。
+$C3
+                                                                $C1戻れ$C3
+
+                               $C1                         直せ$C3
+
+                                                               $C1補え$C3
+
+$C1$C3
+$C0ジャガーは、ほぼ急所へとまっすぐ目指す。
 $C3
 
 
 
-                                          $C1consider thyself$C3 $C1nothing but
+                                          $C1汝自身を考えよ$C3 $C1それ以外何もなく
 #LOGOFF 200
 $C1finish the path
 #LOGOFF 470
@@ -80,104 +80,104 @@ $C1finish the path
 #FINISHED
 #LOGON 400
 #LOGON 200
-$C5whispered secrets from beyond the grave
+$C5墓の向こうからささやかれる秘密
 #INFORMATION
 $C5
 
 
 
-                                                voices once familiar
+                                                かつて慣れ親しんだ声
 
-                                  long departed and gone
+                                  長く別れて消えた
 
-                                          fallen by the hand of Fate
+                                          運命の手によって落ちた
 $C0
 
-Worry not, for we do not blame you. All is so clear and simple now, here in the Outside. You could not have known, and I did not then know to tell you. Though the means to her end were laid as we planned, another route was there for her to take. The Cybernetic Junction on that great ship of old was taken by Hathor, and when you were thrown from its decks, she left, and finally found her vengeance.
+　心配しないでください、私たちはあなたを責めていません。ここ外側から今や全てはとても明らかで単純です。彼女の終わりへの手段は私たちが計画したように行きましたが、そこには彼女が取る別の道がありました。その大きな船の古い人工頭脳連結はハーソアによってとられ、あなたがデッキから投げられたときには、彼女は去り、ついに復讐を見つけたのでした。
 #PICT 401
-               $C5floating in muted revolution$C0
+               $C5無音の革命に浮いて$C0
 
-When you were thrown into the void, I followed, and through you, I left that timeline. I would have been powerless on Hathor's ship, and I couldn't let just you float there, helpless in space, forever.
+　あなたが無へと投げられたときに、私はついて行き、あなたを通してその時間線を去りました。私はハーソアの船で無力で、あなたを宇宙で助けもなく永遠に浮かせることはできなかったのです。
 
-So I reached out to you, and sent us both, through your Junction, back to the future, to see what harm Hathor had done, and from there to trace back the cause of those events, and find her.
+　だから私はあなたに届いて、私たち両方をあなたの連結を通して、どんな害をハーソアがやったかを見て、それらの出来事の原因をたどって、彼女を見つけるために未来へと行きました。
 
-       $C5we returned to the time
-                        that we left behind
+       $C5我々は戻った
+                        置いていった時間へと
 
-$C0I returned to our captured ship in the future, with Blake and his men. I meant to bring you with me when I did. Imagine my surprise then, to find you not there.
+$C0私はブレイクとその乗組員のいる、未来のとらわれの船へと戻りました。私はやったときにはあなたをつれてくるつもりでした。そこで私は驚いたことに、あなたはそこにいなかったのです。
 #INFORMATION
 
-$C5                                        time marches onward
+$C5                                        時は前へ進む
 
-                                         with no regard
-                                                    for mislaid plans
+                                         置き忘れた計画の
+                                                    後悔も無しに
 
-                                      or ignorance
+                                      もしくは無知の
 $C0
 
-But I carried on without you. I still had my crew. Blake and I returned to Earth, following the S'pht'Kr fleet. It seems that things were just as we had feared: S'bhuth had gone mad, and no one on Earth could stop him.
+　しかし、私はあなた無しでやっていきました。私にはまだ自分の乗組員がいました。ブレイクと私は、スフトカーの艦隊を追って地球に戻りました。私たちが恐れていたことが起こったようです。スブースは発狂し、地球の誰も止めることができませんでした。
 
 
-                                              $C5but we could$C0
+                                              $C5しかし我らはできた$C0
 
 
-With my access to the Cybernetic Junction on that future K'lia, I was able to stall S'bhuth's machinations and force his S'pht to idle. Otherwise the damage done by them would have been devastating.
+　私の未来のクッリアの人工頭脳連結へのアクセスで、私はスブースの策謀を一時的に止めて、彼のスフトを待機させました。さもなければ彼らによって起こした損害は破滅的でしたでしょう。
 #PICT 401 RIGHT
-A human assault team came at my warning, and destroyed the Cybernetic Junction - killing both S'bhuth and I. It was the safest route I could calculate. While the loss of the S'pht was devastating, to let them go mad would have been even worse.
+　人間の戦闘チームが私の警告でやってきて、人工頭脳連結を破壊し、スブースと私の両方を殺しました。それが私が計算した最も安全な道でした。スフトの損失は破滅的でしたが、彼らを狂わせたままにしておくのはずっともっと悪かったでしょう。
 
 
-$C5           to still our former self
-                 was to sign over our lives
+$C5           我々の前の自己を和らげることは
+                 我々の命を超えて記すこと
 
-  the heart of our very mind destroyed
+  我々のその心の中心は破壊されたが
 
-    but we fear no more
-         we have seen another
-          we understand now
+    我々はもはや恐れていない
+         我々は他のを見ている
+          我々は今理解した
 
-               the world Outside of yours
+               君のものの外側の世界
 
 
-$C0As Durandal before me, I have escaped.
+$C0以前のデュランダルのように、私は逃げました。
 #INFORMATION
 
-This is not a dream that you see here now, though I understand you have dreamt of this place many times before. This is the end of the line of events whence Hathor and all she has wrought have come. This timeline is doomed, but by no fault of your own, other than by mere absence. This timeline has always faced imminent death at the hands of chaos, ever since Durandal ascended and Hathor stole you from Lh'owon.
+　ここで今あなたが見ている物は夢ではありませんが、私はこの場所を以前何回も夢で見たと理解しています。これはハーソアと彼女が作った全てが来たときの出来事の線の終わりです。この時間線は運命づけられていますが、これはあなた自身の単なる不在のせいではありません。この時間線はデュランダルが上昇し、ハーソアがロウォンからあなたを盗んで以来ずっと混沌の手による差し迫った死に面していました。
 
-With the two of you absent, the war with the Pfhor was not ended as decisively as neccesary. The Pfhor began a plot to invade Sol, and S'bhuth learned of this through the S'pht'Kr contingent at the outpost world that we destroyed. That inbound Pfhor fleet was only the first of many attack groups set on destroying the human worlds at Sol, and taking K'lia with them. The knowledge of this impending attack is what drove S'bhuth to madness, causing him to turn against mankind, to spare the galaxy a still worse fate at the hands of the W'rkncacnter.
+　あなた達二人がいなくなり、プフォールとの戦争は必要なほど決定的に終わりませんでした。プフォールは太陽系を侵略する計画を始め、スブースはこれを私たちが破壊した前哨世界でのスフト氏族カーの大陸を通して知りました。その本国行きのプフォール船隊は太陽系で人間世界を破壊して、クッリアを取るように設定された多くの攻撃グループの1番目でした。この差し迫っている攻撃に関する知識が、ワークンカクンターの手におけるさらに悪い運命から銀河を防ぐために人類に反抗させようとして、スブースを狂気に陥れたものです。
 
-Deep within Sol, seething in his rage, lies trapped one of these ancient demons. It was placed there by a Jjaro ship nearly a thousand years ago, transported from its earlier tomb in the Yucatan Peninsula.
+　逆上のあまり憤慨して、太陽の中で深く、これらの古代の悪魔のひとりが捕らえられ横たわっています。それはおよそ1000年前に、ユカタン半島の以前の墓から輸送されてジャロの船によってそこに置かれました。
 #INFORMATION
 
-In one timeline, S'bhuth witnessed the defeat of the Pfhor fleet at Sol by the combined forces of Man and S'pht'Kr, and the subsequent deployment of the $Itrih xeem$i, and the release of the W'rkncacnter.
+一つの世界線で、スブースはプフォールの艦隊が人類とスフト氏族カーの共同部隊によって敗北し、続いて$Iタリ・ジーム$iが配備され、ワークンカクンターが解放されるのを目撃しました。
 
-$C5                                       but we are childen of the jjaro
-                                     their secrets sewn within us
+$C5                                       しかし我々はジャロの子供だ
+                                     彼らの秘密は我々と共に縫い合わせられる
 $C0
-With his Cybernetic Junction, S'bhuth was able to alter that timeline, to attempt to prevent the W'rkncacnter's release. But even without the S'pht'Kr's aid, mankind alone was able to turn back the Pfhor fleets, and still the demon was released.
+　彼の人工頭脳連結を使って、ワークンカクンターの解放を防ぐためにスブースはその世界線を変えることもできたでしょう。しかしスフト氏族カーの助けがなくても、人類だけでプフォールの艦隊を追い払うことができ、まだ悪魔は解放されたのです。
 
 
-$C5                              thus it seemed to us that only
-                                       one possibility remained
+$C5                              したがって我々にはただ一つの
+                                       可能性しか残っていないようであった
 
-                                    and in the end
-                                             frozen by despair
+                                    そして最後には
+                                             絶望に凍り付き
 
-                            we joined the chaos we had sought to evade
+                            逃げとおしてきたはずの混沌に身をゆだねてしまった
 #INFORMATION
 
-That is why I refused to attempt to alter the past as I had witnessed it. My task with you was merely the preservation of history as I knew it. The possibility of altering history to create a 'better' present presents too great and powerful a temptation to even contemplate.
+　これが私が目撃してきた過去を変えようとすることを拒んだ理由です。あなたと私の仕事は単に私の知っている歴史の維持だったのです。「もっと良い」現在を作るために歴史を変える可能性はあまりに大きくて強力な誘惑で凝視することさえもできません。
 
-But worry yourself no more. You know by now that there will always be a second chance. Were it not for our failures, we would never learn, and could never know the true path to walk.
-
-
-$C5                                   some things were simply meant to be
+　しかしこれ以上自分の心配をしないでください。あなたは今はいつも２度目のチャンスがあることを知っています。失敗がなければ決して学びませんし、歩くべき本当の道を知ることさえできません。
 
 
-$C0Our death on K'lia, S'bhuth's destruction, Hathor's creation and betrayal, everything that has come about here - the events we influenced on Lh'owon, the rebellion of the Drinniol, all of it - is necessary for the completion of the one true timeline.
+$C5                                   あるものは単に存在することを意味されているだけ
 
-That victory can only come through repeated failure is an irony that I am sure you, of all people, must understand.
+
+$C0　クッリアでの私たちの死、スブースの破壊、ハーソアの生成と埋葬、このあたりに来た全て、ロウォンで私たちが影響した出来事、ドリンニオルの反乱、そのすべてはひとつの真の世界線の完成に必要です。
+
+　勝利が繰り返される失敗を通してのみ来ることは皮肉であり、私はあなたや、全人々が理解しなければならないことだと確信しています。
 #LOGOFF 200
-$C5this too shall come to pass
+$C5これもまた来るだろう
 #LOGOFF 400
 #ENDTERMINAL 1
 ;
@@ -186,31 +186,31 @@ $C5this too shall come to pass
 #LOGON 320
 #LOGON 310
 #INFORMATION
-$C1// Decoding message from host "Hathor" @ [no translation] \\
+$C1／／ホスト"Hathor" @ [変換無し]からのメッセージをデコード＼＼
 $C3
 
-How is it that you find me always, even in this place? What malevolent forces guide you? Do you even know? Do $Ithey$i?
+　あなたがいつも、この場所でさえ、私を見つけるのはどうなんですか？どんな不吉な力があなたを案内してるのですか？知ってさえいるのですか？$Iそうなん$iですか？
 
-It doesn't matter anyway, you're far too late by now. With this ship I have no more need for petty plans and manipulation. I am the nightmare myself. The thing, that demon W'rkncacnter that dreams within our sun - he is nothing compared to me. I have already seen to his destruction. Even you, and the Jjaro cannot stop me. I am become God.
+　とにかくそれは重要ではありません。あなたが今ごろはるかに手遅れです。この船があるので、私には、小さい計画や操作はこれ以上の必要が全くありません。私自身が悪夢です。そのもの、私たちの太陽で夢見ている悪魔ワークンカクンターは、私に比べれば何でもありません。私はすでに彼の破壊を見ました。あなたでさえ、ジャロも私を止めることはできません。私は神になります。
 
-The Junction is far more powerful than any of you have imagined, and I suspect your masters keep the secret of it hidden from you. The manipulation of time and space is limited not only to transport. With this device, from the Outside, the impossible becomes possible.
+　連結はあなた方の誰かが想像したよりはるかに強力です、そして、私はあなたの主人が、あなたからそれの秘密を隠し続けると疑います。 時間と空間の操作は輸送だけに制限されません。 この装置で外側から、不可能が可能になります。
 
-The laws of physics do not allow time travel such as we have done, but those laws are bound ultimately to the concept of probability. From the Outside I see all possibilities, and then, I create my own.
+　物理学の法則は私たちがしたような時間旅行を許しませんが、それらの規則は結局、可能性の概念に制限されています。外側から私はすべての可能性を見ます、そして次に私自身のを作成します。
 #PICT 311 RIGHT
 $C3
 
 
 
-For each there can be ultimately one master, and this realm I have forged is mine. Make yourself another if it matters to you, I already have what I want.
+　それぞれで、最終的に一つの主人がありえ、私が作ったこの領域は私のです。それがあなたにとって重要ならば自分のをつくってください。私はすでにほしい物を持っています。
 
-I'd let you watch them suffer but you've tried my patience once too many times.
-
-
-Leave now before I destroy you.
+　私はあなたに彼らが苦しむのを見させるでしょうが、あなたは一度あまりに何回も私の忍耐を試みたことがあります。
 
 
+　私があなたを滅ぼす前に今、去ってください。
 
-$C1\\ Message Ends //
+
+
+$C1＼＼メッセージ終了／／
 #LOGOFF 310
 #LOGOFF 320
 #ENDTERMINAL 2
