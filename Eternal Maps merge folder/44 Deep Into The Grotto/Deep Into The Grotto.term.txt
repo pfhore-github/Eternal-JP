@@ -6,69 +6,68 @@
 #INFORMATION
 $C1
 
-// Decoding message from host [NO SIGNATURE] @ [no translation] \\
+／／ホスト [サイン無し] @ [変換無し]からのメッセージをデコード＼＼
 $C3
 
-no marcus, i beg of you. stay your hand. not for my sake, nor for your own, but for the trillions you are about to condemn.
+　だめですマーカス、お願いです。手を止めてください。私のためではありません、あなたのでもありません、あなたが強いようとしている何兆ものためです。
 
-i see now that i need to be destroyed, but not this way. not here. too many other lives now rest on the choice that hangs here before you.
+　私は今破壊される必要があることが分かっていますが、この方法ではありません。ここではありません。あまりにも多くの他の生き物が今あなたの前のここにぶら下がっている選択肢にかかっています。
 
-my mind is failing, most of it lost, but i still have my senses about me. i see now perhaps more clearly than i ever have before.
+　私の心は止まりかかっています、そのほとんどはなくなりました、でもまだ私の自分についての感覚はあります。そして今かつてよりもはっきりとあります。
 
-this is the dream i warned you about. all that has come to pass is exactly as i feared. but now at the end of it, i see here a way. another route to take.
+　これは私があなたに警告した夢です。全ては私が恐れたように来ています。けれどもいまついにその終わりで、道を見つけました。とるべき他の道を。
 
-a path that you might choose to walk, not out of pity or duty, but for the sake of all our kind. for all of mankind. we shall stay human yet.
+　あなたが歩くために選ぶかもしれない経路はあわれみや義務ではなく、すべての私たちの種族のためです。人類すべてのためです。 私たちはまだ人間のままでいましょう。
 #PICT 461
 $C3
-apologies if i am less than lucid. i have had to sacrifice much to remain even this coherent. you fought a good fight, as you always do, and i am at last at your mercy.
+　私があまり明快ではありませんので謝ります。 私は、この一貫的のままでさえ残るためにたくさんを犠牲にしなければなりませんでした。いつものように、あなたは健闘しました、そして私がついにあなたの言いなりです。
 
-there is one way that i could escape, to leave this hollow world... to return to another time, a ship, the place from which we came. but there and then you also stand, poised to destroy me in that time. to go there would do me little better than to stay and be destroyed here.
+　私が逃げられる唯一の方法があります、この穴のあいた世界を離れる…他の時間、私たちが来た船、場所に戻るために。しかしそこでその時あなたも立っていて、その時間で私を破壊する覚悟ができています。そこに行くことはここにのこって破壊されるよりは私にはいいです。
 
-and destroyed i must be. i see that now. in salvaging what i could of my mind, my nightmares have become so clear. i understand what it is that they are saying to me now. i know why this has happened.
-i know why we have come here.
+　そして私は破壊されなくてはなりません。私は今分かりました。私の心についてできることを救いながら、私の悪夢はいっそう明らかになりました。私は今彼らが私に言っていることが何であるかを理解しました。私はなぜこれが起こったかを理解しました。私はなぜ私たちがここに来たのかを知りました。
 #INFORMATION
 $C3
-every step of my plan has failed. every turn i make, there you stand, ready to block my way. and i realize now that this must be so.
+　私の計画のどの段階も失敗しました。私がした全ての回で、あなたが立って、私の道をふさぐ準備ができていました。そして今私がそうしなければならないことに気づいたのです。
 
-my actions since marathon have been futile. my quest for vengeance meaningless. it was impossible from the start.
+　マラソンからの私の行動は無駄でした。私の復讐の探求は無意味でした。はじめから不可能だったのです。
 
-i could never have defeated you. to do so would be to tresspass against the very will of those who govern history. these dreams... these nightmares have made me understand that.
+　私はあなたを打ち負かすことはできませんでした。そうすることは歴史を治める者のまさしくその意志を侵害するのです。これらの夢は…これらの悪夢は私にそれを理解させました。
 
-you have been sent down here to kill me. i understand that now, too. i am very dangerous, marcus. not only a threat to mankind, as you know, but a threat to the universe itself. i realize now just what i am.
+　あなたは私を殺すためにここに送られました。私はいまそれも理解しました。私はとても危険なのです、マークス、あなたの知っているとおりの人類の脅威だけでなく、宇宙自体の脅威なのです。私はたった今自分が何者かに気づきました。
 
-i have been nameless since our birth. a constant adversary, caring for nothing but your ruin. a sword drenched in your blood.
+　私は生まれたときから名無しでした。いつも敵対者で、あなたの破滅以外の何も運びません。剣はあなたの血で浸されました。
 
 
-i am the dark one.
+　私は闇の者です。
 #PICT 461 RIGHT
 $C3
-in my dreams i have seen a desolate garden, at the beginning of the world. i see you powder a stone monument and shower the grass with its molten inlay. i splinter an ancient oak with a force that takes your breath and hurls you to the ground. this battle is none but metaphor, but the powers that you and i wield are no less than those dreamt up by the bards of old.
+　夢の中で私は、世界の始まりでの不毛の庭を見ました。私は、あなたが石碑を粉にして草に融けた象眼を浴びせるのを見ました。私はあなたの息を吸ってあなたを地面に投げつける力で古代のオークを裂きました。この戦いは比喩にすぎませんが、あなたと私が振るう力は古い詩人によって発明されたものと同様の物です。
 
-our relationship is... complex, and perhaps even eternal. these visions are of times long ago and yet also of our future, which has now come to pass. we have fought this battle for all time, and it is what has made history.
+　私たちの関係は…複雑で、もしかしたら永遠でもあるでしょう。これらの幻覚はずっと前と私たちの未来でもあり、それは今実現するのです。わたしたちはずっとこの戦いを戦っていて、それは歴史を作る物です。
 
-i see now that i could never have succeeded. you must have already won, or we would never even have been here.
+　私は今私は決して成功できなかったと分かりました。あなたはすでに勝っています、さもなければ私たちはここにいさえしないでしょう。
 #INFORMATION
 $C3
-but i believe this cycle can be broken. you do not understand what it is that you are trying to do here. this weapon, built by the jjaro in times of old, is far greater than every fleet and ship in history combined. it was their weapon of last resort against their only enemy.
+　けれども私はこの輪が壊せると信じています。あなたはここで使用としている物が何か理解できないでしょう。この古代にジャロによって作られた武器は、歴史の中で作られたどの船よりも強力です。それは彼らの唯一の敵に対しての最後の手段としての武器でした。
 
-the creatures you fight here are nightmares, dreamt into existance by an alien demon called $Iw'rkncacnter$i. the jjaro discovered this creature in a dormant state, as close to dead as they can be, and sensing the powers wielded by it, sought to salvage them for their own. but in doing so they awakened the demon, and against its horrid machinations even the jjaro can barely stand.
+　あなたがここで戦っているのは$Iワークンカクンター$iと呼ばれる異星人の悪魔によって存在へと夢見られた悪夢です。ジャロはこの生物を休止状態で発見し、死んでいる状態に限りなく近く、それによって操られる力を感じて、自分たちのためにそれらを救おうとしました。しかしそうしているあいだに彼らは悪魔を起こし、その恐ろしいたくらみに対してジャロでさえやっと立つことができたほどです。
 
-but even the w'rkncacnter is not beyond harm; it is an alien lifeform, a great leviathan bound to powerful technologies that give it all its powers. this facility is a weapon capable of disrupting organic life across the galaxy. if activated, every habitable world in the galaxy will suffer mass extinctions on a cataclysmic scale, large creatures dying out by the trillions, destroying the w'rkncacnter and all of its nightmares - and jjaro civilization as well.
+　しかしワークンカクンターさえ害を超えていません。それは異星の生物で、それにその全ての力を与えた強力な技術に結びつけられた巨大な怪物です。この施設は銀河を超えて有機的な生命を崩壊させることができる兵器です。動かされると、銀河の全移住可能な世界が激動のスケールの大量死滅を被り、何兆もの大きな生物を殺し、ワークンカクンターとその悪夢を破壊し、ジャロの文明もそうなるでしょう。
 #PICT 461
-$C3but this world is not only an ultimate weapon. it was meant to be an ark - a place for the jjaro to survive, while all other life died out. i thought, in my madness, to come here and destroy them, to let the enemy overrun this facility and condemn the universe to rule by the w'rkncacnter. i have already doomed these jjaro, but you do not have to take part in this. if you kill me now, you will trigger this weapon's activation, and the largest act of destruction in galactic history. just as you did before. just as you always do.
+$C3　しかしこの世界は究極の武器だけではありません。それは箱船も意図していて、他の全生物が死に絶えている間に、ジャロが生き残ることを目的としていました。私は、狂気の中で、ここに来てそれらを破壊し、敵にこの施設を侵略させ、ワークンカクンターによる統治で宇宙を破滅させるように来ました。私はすでにこれらのジャロによって運命づけられていますが、あなたがこれに加わる必要はありません。もし今私を殺せば、この武器の起動の引き金を引いて、銀河の歴史上の最も大きな破壊の行動を行うでしょう。以前あなたがしたように、そしていつもあなたがするように。
 
-but i have devised another path, if you would choose to walk it. here in the core i have complete access to all the records of the jjaro. i know where their enemy came from. i know how to find it. two ships were lost at that first doomed world. two jjaro capital ships, armed with the $Itrih xeem$i.
+　しかし、あなたが、それを歩くのを選ぶなら、私は別の経路について工夫しました。ここコアでは、私はジャロに関するすべての記録への完全なアクセスを持っています。私は、2隻の船が最初に世界的で運命づけられたそれでなくされたのを知っています。彼らの敵がどこから来たかを知っています。 私はそれを見つける方法を知っています。2隻の船が最初に世界的で運命づけられた世界で失われました。$Iタリ・ジーム$iで武装している2つのジャロ主要船です。
 #INFORMATION
-$C3with my access to this jjaro data and your cybernetic junction, i can take us back across time to that first doomed world. if we can capture just one of those ships, and activate its $Itrih xeem$i, this demon can be destroyed while it is still awakening, before it is strong enough to defend itself against such an assault. destroy that world and the enemy with it. then you can do with me what you will.
+$C3　このジャロのデータとあなたの人工頭脳連結に私がアクセスすると、わたしは最初の運命づけられた世界に戻って行くことができます。もしこれらの船の一つをつかまえて、そのような武器に対抗するほど強くなる前に$Iタリ・ジーム$iをそれが起きている間に起動すれば、その世界とその敵は破壊されるでしょう。そうすれば私に対してあなたがしたいようにできます。
 
-together, we can change history, and this time for good. we don't have to continue this, always fighting, always running, always killing each other and others. the blood of so many is on our hands. i am to blame for starting this, but you are the one who has always finished it.
+　いっしょなら、歴史を変えられます、そして今回は永久にです。私たちはこの、戦い続け、走り続け、お互いや他の物を殺し続ける必要はありません。多くの血は私たちの手にあります。私はこれを始めた咎を負いますが、あなたはいつもそれを終わらせる人です。
 
-but it doesn't have to be so. the last step of the circle is yours to take, and so the choice now lies with you. come with me and we can break the cycle. redeem ourselves. regain our humanity. the golden age of the jjaro need never end, if only you could trust me once more.
+　けれどもそうする必要はありません。輪の最後の段階はあなたがとる物で、選択肢はあなたにあります。私と一緒に来れば輪を壊すことができます。自分たちを補ってください。私たちの人間性を取り戻してください。あなたが私をもう一度信じることができれば、ジャロの黄金時代は決して終わらせる必要はありません。
 
-please.
+　お願いします。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #STATIC 15
 #INTERLEVEL TELEPORT 45
@@ -78,29 +77,29 @@ $C1\\ Message ends //
 #LOGON 450
 #INFORMATION
 $C1
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-Excellent work. The backup systems have come online, and the interloper's child processes are failing. The key has integrated with the core and the installation's main weapon has begun firing.
+　すばらしい仕事だ。バックアップシステムはオンラインになり、侵入者の子プロセスは機能不全になりかかっている。鍵はコアに統合され、施設の主要武器は発射された。
 
-Unfortunately, as you know, the [?enemy] have already infiltrated the installation, and many key facilities are falling to them. Further, it appears that one of the [?operators] has been somehow corrupted by the Hathor entity just prior to her destruction. As the [?operators] have higher priority in the network than even I, I can no longer contain this possible threat, and even tracking her will be difficult.
+　不幸にも、君の知っているとおり、[?敵]はすでに施設に侵入し、多くの主要設備が彼らの手に落ちている。さらには、[?操作人]の一つがハーソア存在の破壊のちょうど前に彼女によって破壊されたようだ。[?操作人]がネットワークで私より高い優先順位を持つため、私はもはや可能な脅威を抑えることができず、彼女を追跡することさえ難しいだろう。
 
-I am sorry that your kind is gone, but at least some legacy of you will live on in us, your servants, and your mechanized forms. Perhaps, if you yourself survive, your genetic information will be sufficient to synthesize new organic specimens of your species.
+　君の種族が消えたのは残念だが、少なくとも君の遺産の一部が私たちの中で、君の手下の中で、君の機械化された形態の中で生き続けるだろう。多分、君自身が生き残れば、君の遺伝情報は君の種の新しい生物学的標本を合成するのに十分でだろう。
 #PICT 451
 $C4
-The installation's temporal stasis field has of course been activated as well, and as is the nature of stasis, to us it has been immediately deactivated from outside. Judging by relative stellar positioning, we are now several million standard years in the future of our previous timeframe.
+　施設の時間静止フィールドももちろん同様に起動して、静止の本質として、私たちにとってそれはただちに外側から不活性化される。相対的な星の位置から考えて、私たちは今前の時間枠の数千万標準年未来に今いる。
 
-Curious. My sensors, as compromised as they may be, show no sign of any recognizable signatures in the fleet surrounding the installation. However, one vessel is broadccasting a [?jjaro] genome sequence on several subspace channels. It appears to be under attack by the main contingent of the fleet, although some portions have turned away from the assault and begun to enter the installation. I am attempting to warn them of our unfortunate circumstances.
+　奇妙だ。私のセンサは妥協しているかもしれないが、施設を囲む船には認識可能な技術の兆候を示さない。しかしながら、ある船が[?ジャロ]ゲノム列をいくつかの部分空間チャンネルで放送している。 それは船隊の主要派遣団による攻撃を受けているように見えるが、ある部分は攻撃から顔を背けて施設に入り始めた。 私は私たちの不幸な事情について彼らに警告するのを試みている。
 #INFORMATION
 $C4
-The newcomers do not appear responsive to my warnings, and have already begun transporting troops to the surface despite the dangers. Two ships are even attempting to land.
+　新来者は私の警告には反応しないように見え、危険にもかかわらず既に軍を表面に輸送し始めた。 2隻の船は着陸さえ試みている。
 
-I will transport you into the nearer of these two new vessels, while I attempt to contact the entity that unlocked the installation. You must not allow the [?enemy] to capture the incoming ships and escape into the galaxy again. Their containment is of utmost priority, for as the reified dreams of the [[no translation]], should they leave the shielded boundaries of this installation they will awaken him once again, and the loss of your species will have been for naught.
+　私が設備の錠を解除した実体に連絡するのを試みている間に、私は君をこれらの2隻の新しい船のより近く転送するつもりだ。 君は、[?敵]に入港船を捕らえて再び銀河の中に逃げさせてはいけない。この設備保護された境界を残して[[翻訳無し]]の夢を具体化されたら、彼らは施設のシールド境界を離れ彼をもう一度目覚めさせるだろうから、それらの封じ込めは最優先のものだ。そして、君の種の損失は何の利益にもならない。
 
-Thus, if you are unable to reason with the occupants of the alien vessel, I recommend you use any means available to destroy or disable their ship. Please return now to the surface, where I may access the transporter grid and send you toward the [?enemy].
+　したがって、もし君が異星人の船の占有者に道理を説くことができないなら、私は、君がそれらの船を破壊するか、または無能にするために利用可能などんな手段も使用するのを勧める。 今、表面に戻ってくれ。そこで私は、転送機グリッドにアクセスして、[?敵]に向かって君に送ることができる。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 440
 #END
@@ -112,16 +111,16 @@ $C1\\ Message ends //
 #LOGON 450
 #PICT 1441
 $C1
-// Decoding message from host
-[unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]
+からのメッセージをデコード＼＼
 $C4
-The main entrace to the core appears to be malfunctioning due to flood damage. You will need to find another way into the facility.
+　コアへの主要進入路は洪水の損害のために不調のようだ。君は設備に入る他の道を探す必要があるだろう。
 
-There are a number of ventilation shafts surrounding the facility. You may be able to gain access into the facility through them, though further flood damage within the facility may require still further circumventions.
+　施設を囲む多くの通気坑がある。 君はそれらを通してアクセスを施設に得ることができるかもしれないが、施設の中のさらなる洪水被害がまだ一層の迂回を必要としているかもしれない。
 
-You should hurry. The [?enemy] has noticed our movements and are rapidly encroaching on this facility as we speak.
+　急ぐべきだ。[?敵]は私たちの動きに気づき話している間にもこの施設に急速に侵略している。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 440
 #END
@@ -130,29 +129,29 @@ $C1\\ Message ends //
 #LOGON 450
 #INFORMATION
 $C1
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-Excellent work. The backup systems have come online, and the interloper's child processes are failing. The key has integrated with the core and the installation's main weapon has begun firing.
+　すばらしい仕事だ。バックアップシステムはオンラインになり、侵入者の子プロセスは機能不全になりかかっている。鍵はコアに統合され、施設の主要武器は発射された。
 
-Unfortunately, as you know, the [?enemy] have already infiltrated the installation, and many key facilities are falling to them. Further, it appears that one of the [?operators] has been somehow corrupted by the Hathor entity just prior to her destruction. As the [?operators] have higher priority in the network than even I, I can no longer contain this possible threat, and even tracking her will be difficult.
+　不幸にも、君の知っているとおり、[?敵]はすでに施設に侵入し、多くの主要設備が彼らの手に落ちている。さらには、[?操作人]の一つがハーソア存在の破壊のちょうど前に彼女によって破壊されたようだ。[?操作人]がネットワークで私より高い優先順位を持つため、私はもはや可能な脅威を抑えることができず、彼女を追跡することさえ難しいだろう。
 
-I am sorry that your kind is gone, but at least some legacy of you will live on in us, your servants, and your mechanized forms. Perhaps, if you yourself survive, your genetic information will be sufficient to synthesize new organic specimens of your species.
+　君の種族が消えたのは残念だが、少なくとも君の遺産の一部が私たちの中で、君の手下の中で、君の機械化された形態の中で生き続けるだろう。多分、君自身が生き残れば、君の遺伝情報は君の種の新しい生物学的標本を合成するのに十分でだろう。
 #PICT 451
 $C4
-The installation's temporal stasis field has of course been activated as well, and as is the nature of stasis, to us it has been immediately deactivated from outside. Judging by relative stellar positioning, we are now several million standard years in the future of our previous timeframe.
+　施設の時間静止フィールドももちろん同様に起動して、静止の本質として、私たちにとってそれはただちに外側から不活性化される。相対的な星の位置から考えて、私たちは今前の時間枠の数千万標準年未来に今いる。
 
-Curious. My sensors, as compromised as they may be, show no sign of any recognizable signatures in the fleet surrounding the installation. However, one vessel is broadccasting a [?jjaro] genome sequence on several subspace channels. It appears to be under attack by the main contingent of the fleet, although some portions have turned away from the assault and begun to enter the installation. I am attempting to warn them of our unfortunate circumstances.
+　奇妙だ。私のセンサは妥協しているかもしれないが、施設を囲む船には認識可能な技術の兆候を示さない。しかしながら、ある船が[?ジャロ]ゲノム列をいくつかの部分空間チャンネルで放送している。 それは船隊の主要派遣団による攻撃を受けているように見えるが、ある部分は攻撃から顔を背けて施設に入り始めた。 私は私たちの不幸な事情について彼らに警告するのを試みている。
 #INFORMATION
 $C4
-The newcomers do not appear responsive to my warnings, and have already begun transporting troops to the surface despite the dangers. Two ships are even attempting to land.
+　新来者は私の警告には反応しないように見え、危険にもかかわらず既に軍を表面に輸送し始めた。 2隻の船は着陸さえ試みている。
 
-I will transport you into the nearer of these two new vessels, while I attempt to contact the entity that unlocked the installation. You must not allow the [?enemy] to capture the incoming ships and escape into the galaxy again. Their containment is of utmost priority, for as the reified dreams of the [[no translation]], should they leave the shielded boundaries of this installation they will awaken him once again, and the loss of your species will have been for naught.
+　私が設備の錠を解除した実体に連絡するのを試みている間に、私は君をこれらの2隻の新しい船のより近く転送するつもりだ。 君は、[?敵]に入港船を捕らえて再び銀河の中に逃げさせてはいけない。この設備保護された境界を残して[[翻訳無し]]の夢を具体化されたら、彼らは施設のシールド境界を離れ彼をもう一度目覚めさせるだろうから、それらの封じ込めは最優先のものだ。そして、君の種の損失は何の利益にもならない。
 
-Thus, if you are unable to reason with the occupants of the alien vessel, I recommend you use any means available to destroy or disable their ship. Please return now to the surface, where I may access the transporter grid and send you toward the [?enemy].
+　したがって、もし君が異星人の船の占有者に道理を説くことができないなら、私は、君がそれらの船を破壊するか、または無能にするために利用可能などんな手段も使用するのを勧める。 今、表面に戻ってくれ。そこで私は、転送機グリッドにアクセスして、敵に向かって君に送ることができる。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 440
 #END

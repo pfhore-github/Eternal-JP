@@ -3,61 +3,61 @@
 #FINISHED
 #LOGON 400
 #LOGON 200
-...don't say I didn't warn you...
+…あなたに警告しなかったとは言わないで…
 #INFORMATION
 $C1
-$C5                                                    we could not speak
-                                           to warn you in time
+$C5                                                    そのときに間に合うように
+                                           我々は警告することができなかった
 
-                                             as he could not speak
-                                    when first you ventured back
+                                             彼は、君が最初に戻ったときに
+                                    話すことができなかったから
 $C1
 
-$C0When the Hero and the Dark One travel as one, they are invisible and unstoppable, even from the Outside; to us, to the Jjaro, and to all of the Eternals. As when you first travelled with Hathor back to Marathon, Durandal could not speak to you then. Did you notice that you did not dream that time? That you did not dream when she went with you this time? The only times you jump without dreaming, are the times that she is with you.
+$C0救世主が闇の者と一体となって旅するときに、彼らは外からさえも見えないし、止めることはできない。我々ジャロ、そしてすべての永遠に。君が、最初にマラソンに戻ってハーソアと一緒に旅をしたときのように、デュランダルは君に話すことができなかった。君は、そのとき夢を見ていないことに気づいたか？今回彼女と一緒に行ったとき、君は夢を見なかったか？夢を見ずにジャンプするのは、彼女が君と一緒にいる時間だけだ。
 $C1
 
-$C5                              together
-                                        she blinds us from you
+$C5                              一緒に
+                                        彼女は私達を盲目にする
 
-                     and     (?we pray)         you blind them as well
+                     そして     （？我々の祈り）は         それらも盲目にする
 #PICT 401
 
 
-Durandal has asked me to speak with you this time. He believes that you are more fond of me than you are of him. It seems omniscience has humbled him greatly; I see the way you admire his writings. The two of you are obviously very close. Either way...
+　デュランダルは、今回、私に君と話すよう頼んできた。彼は、君が私よりも、私が君よりも好きであるということを信じている。全知が、彼を大いに謙虚にしたようだ。私には君が、彼の連ねる文章を称賛する方法が見える。君達二人はよく似ている。どちらにしても…。
 
 $C1
-$C5                     the time has come
-                            for you to know
+$C5                     君が知るべき
+                            時は来たり
 $C0
 
-I'm supposed to tell you a secret. You're a bright one and I'm sure that much of it you've already guessed, but we need to tell you anyway. It's important that you understand with absolute certainty just what all of this is really about.
+　私は君に秘密を告げることになっている。大部分で君は明るい人で、すでに推測したと確信している。しかし我々は、とにかく君に言う必要がある。絶対に確実に理解しておくことが重要だ。これがすべて実際にどのようなものなのかについてだ。
 #PICT 401
 
-You are what we, the Jjaro as you call us, might best label as our Hero. You are in a sense the separate, singular embodiment of our collective of minds. Your body and most of your conscious memories are from the life of one poor Martian who died an early death in war, and from the pitied existence as a weapon thereof that you have lived ever since. But deep in the heart of your metal skull, wired into your neurons and circuits alike, is the bridge to your true self. The Cybernetic Junction links that body here to the Outside, and the core of all your thoughts and feelings are stored in this infinite space. The dreams, the deja vu, the prescient reflexes in battle... all of that is the real you, this you, standing here now in a pocket universe of your own mind's conjuring. You are a vessel for our omnipotent power.
+　君は、我々を呼んでいるようなジャロ、我々の救世主としての最高のラベルを付けるかもしれないものだ。君は、ある意味我々の心の集団における特異な具体化のような存在だ。君の体とあなたの意識的記憶の大部分は、戦争で早く死んだある貧しい火星植民者から、そして、それ以来ずっと生きてきたその武器としての哀れな存在からのものだからだ。しかし、君の金属と頭蓋骨の中心の奥深くに、ニューロンと回路に同様に配線されて、君自身の本当の自己への架け橋がある。サイバネティックジャンクションは、ここでその体を外側と結びつけ、すべての考えや感情の核心はこの無限の空間に保存されている。夢、デジャヴ、戦闘中の先見の明があるもの…それこを、君自身、本当の君、これが君自身の心の想起のポケットの中の宇宙に立っている。君は、我々の全能の力の船なのだ。 
 #PICT 401
 
 
 
 
-The "Dark One", now Hathor, is thought to be somehow a similar personification of the W'rkncacnter (either a single one or some group of them). Her actions, in whatever form she takes, always match the motivations of the W'rkncacnter: infantile and irrational, driven by emotions seeking a satisfaction that they can never find. We have long since realized that the actions of the Dark One are essential to the creation of the core timeline, the one from which our reality is born.
+　『闇の者』すなわちハーソアは、どういうわけかワークンカクンターの擬人化のように思える（そのうちいくつかのグループ）。カノ上の行動は、どんな形であれ常にワークンカクンターの動機と一致している。まるで乳児のように不合理で決して満たされない感情に駆り立てられている。我々は、闇の者の行動がコアタイムラインの創造に不可欠であることをずっと以前から認識していた。
 #PICT 1291
-$C5           a line can stand not
-                                on its own
+$C5           線はそれ自身で
+                                立つことはできない
 
-    no first cause can come from no cause
+    最初の理由は、理由のないところから訪れやしない
 
-          circular is the nature of that
-              which is central to existence
+          循環とは、存在の中心となる
+              ものの性質である
 
 
-$C0Picture time, if you will, as a line. Quantum fluctuations at every moment branch that line into uncountable more. Some of them end, collapsing on themselves; others careen out into infinity. But tracing the line of causality back, where does the line begin? Here from the Outside, we see time as such an image, and it is clear that for there to be any concrete thing for us to call "real", there must be in this tangled web a sort of causal tautology; an event that, ultimately, is its very own cause.
+$C0　画像の時間は、君が望むなら線のようだ。量子ゆらぎにより刻々と分岐していく。彼らのうち、幾人かは次回して終わりを迎える。他のものは無限に傾いてゆく。しかし、因果の線をさかのぼったところでその線とは、どこから始まるのだろうか。ここは外からイメージとして時間というものを見る。我々が「現実」と呼べる具体的なものは、このもつれた網にある一種の因果的同語反復がなければならない。最終的にそれ自体が原因であるイベントだ。
 #INFORMATION
 
 
-What I have sometimes called the "one true timeline" is just such an event. It is a long chain of causes and effects that ultimately results in its own initiation. If history can be carried out to an appropriate ending, that ending will take us right back to the beginning. That is the foundation of reality for those of us here in the Outside. Without finding such a path, the mind loses any basis for rational thought, and becomes as the W'rkncacnter; careening out along one tangent forever, never to find an end; or destroying its reality.
+　私が、時々「一つの本当の時系列」と呼んだのは、そういう出来事だ。結局、それ自身がもたらす始まりの原因と、終わりの原因の長い連鎖だ。歴史が適切な終わりを迎えれば、我々を始めに戻すだろう。それが、外の現実世界の基礎である。そういった道なしに、心は合理的思考のための基礎を失い、そしてワークンカクンターとなって、終わりを見つけることは決してない。もしくは、その現実を破壊か。
 
 
-Those like Durandal and I, however - those who you call "Jjaro" - spend our existence here Outside guiding our relevant parts of reality toward this tautological goal. The timeline that you envision here now is the result of your straying from that path. It is sad that even when she meant to do good, her inner nature still lead Hathor to the destruction of Earth, millions of years before your time. The W'rkncacnter within was left unguarded, and this timeline is as doomed as the many others you have witnessed.
+　デュランダルや私のような、いや君が『ジャロ』と呼ぶものは、同語反復な目標という現実の外側にいる我々の関連に向かって費やされている。君がここで想像している時系列はその道から迷いでた結果である。たとえハーソアが良かれと思ってやったとしても、彼女の内なる性おらず、この時系列は君が他で目撃した多くのものと同じくらい運命づけられている。
 #PICT 401 RIGHT
 
 
@@ -65,9 +65,9 @@ Those like Durandal and I, however - those who you call "Jjaro" - spend our exis
 
 
 
-But as always, you are given another chance. I know you pity Hathor so, but the next time somebody says to you, 'I am the Dark One, your eternal enemy, and I think you should do this, trust me,' I would recommend that you do the opposite of whatever it is she suggests.
+　しかし、いつものように君には別の機会が与えられている。私がハーソアを残念に思うことは知っているだろうが、次に誰かが君にうときに「私は、闇の者。君の永遠の敵だが私を信頼するべきだ。」彼女が提案することは、いかなる場合でも反対のことをするべきだ。
 #LOGOFF 200
-$C5stay the path and live again
+$C5道をたどって再び生きる
 #LOGOFF 400
 #INTERLEVEL TELEPORT 44
 #ENDTERMINAL 0

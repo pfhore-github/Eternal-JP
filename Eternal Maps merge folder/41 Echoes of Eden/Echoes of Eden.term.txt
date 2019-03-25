@@ -6,20 +6,20 @@
 #INFORMATION
 $C1
 
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-Welcome, [?master]. I am the [?watcher] of this installation. I am very pleased to find you alive and unharmed. I assume you fled here from one of the fallen defense vessels. We are presently on the lowermost deck of the installation, in a cargo waystation.
+　ようこそ、[?主人]。私はこの装置の[?番人]だ。私は君は生きて傷ついていないのがわかってとても喜んでいる。私は君が落ちた防御船の一つから逃げてきたと想定している。我々は現在この装置の、荷経由地の最低地のデッキにいる。
 
-The [?enemy] has already breached the installation's entry defenses, and transported many numbers into the inner sanctum. Thankfully you appear well armed, and I hope that I may aid you to stop this incursion and resume the mission before it is too late.
+　[?敵]はすでに施設の侵入防御を破っていて、たくさんの数を内部の奥の部屋に転送した。ありがたいことに君よく武装しているようで、私は君がこの侵入を止めて手遅れになる前に任務を再開するのを手伝ってくれることを望んでいる。
 #PICT 1411 RIGHT
 $C4
-However, for safety reasons the transporter grid does not reach this lowest deck. In order to leave, you must take a heavy cargo lift to an upper level. I can bring you to a more useful place from there.
+　しかしながら、安全の理由から転送グリッドはこの最低デッキには届かない。離れるためには、君は上部の階層への重荷リフトに乗らなくてはならない。そこから私はもっと有用な場所へと送ることができる。
 
-I have locked out as much of this region as I can, aside from the areas that you require access to. In addition to taking the cargo lift, you may also wish to visit the upper levels of this waystation, where there are more weapons and munitions at a number of security checkpoints. The lift is slow, however, and time is urgent, so I would recommend that you activate the lift first and then retrieve your weapons.
+　私はこの領域で、君がアクセスしなければならない場所をのぞいて、できるだけ多く鍵をかけた。荷物リフトに乗るのに加えて、君はこの積荷経由地の上部を訪れたいでだろう。そこにはもっと多くの武器と弾薬が安全検問所にある。しかし、リフトは遅く時間は重要なので、私は最初にリフトを起動して、それから武器をとることを勧める。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 440
 #ENDTERMINAL 0
@@ -30,20 +30,20 @@ $C1\\ Message ends //
 #LOGON 450
 #INFORMATION
 $C1
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 
 
-$C4The primary weapon's ignition process has already been initiated, but the process was interrupted by an unidentified personality construct which claimed that it had been sent in aid from a distant ship that had already fallen to the [?enemy]. But, when allowed into the network this construct circumvented the key integration process, and thus the weapon cannot be activated until this interloper is purged.
+$C4　主要武器の点火プロセスはすでに開始されているが、プロセスはすでに[?敵]の手に落ちた遠い船からの助けのために送られたと主張している未確認の個人構造によって中断されている。しかし、この主要統合プロセスを取り囲むこの構造がネットワークへ許容されているときは、この侵入者が一掃されるまでは武器を起動させることができない。
 
-After disrupting the weapon's ignition, this construct then transmitted an authenticated cease-fire command to the [?guardian]. The [?enemy] then targeted the bulk of their firepower on the [?guardian]'s core, disabling it entirely.
+　そして兵器の点火を中断した後に、この構造物は認証された休戦命令を[?保護者]に伝えた。[?敵]はそれを完全に無能にして、[?保護者]のコアでの火力の大半を対象とした。
 
-I am devising new strategic subroutines for myself as we speak, and hope to formulate a plan to purge this rogue construct appropriately. I am tasked only with menial operations; I am not properly equipped to cope with this scenario.
+　私たちが話して、適切にこの凶暴な構造物を掃除する計画を定式化するのを望んでいるとき、私は自分で新しい戦略のサブルーチンについて工夫している。私は単に召使の操作を仕事に課されている。このシナリオに対処するためのものは適切には私は持たない。
 #PICT 451 RIGHT
-$C4However, as the [?operators] are dead or infected and the [?guardian] is now disabled, I am adapting quickly to assume their roles. I will need your assistance to fully assume the functions of the [?guardian], however. To bring the defenses back online requires the use of the defense codes, to which I do not have access.
+$C4　しかしながら、[?操作人]が死んだか汚染され、[?守護者]が今不能にされているので、私はすぐに彼らの役割に適合している。しかし、私は[?守護者]の機能を完全に引き受けるには君の補助が必要だ。防御をオンラインに戻るためには防御コードの使用が必要で、私にはアクセスできない。
 
-We will be unable to act at all unless I am able to resume the active defense of the installation. Therefore, I wish to transport you first near to the [?guardian]'s core. You may speak with it there, if it is still functional, and request the codes on an [?artifact]. I may then use the [?artifact] to assume the [?guardian]'s defense functions.
+　私たちは設備のアクティブ防御を再開できない限りは何も行動することができない。したがって、私は君を[?守護者]のコアの近くにまず送りたいと思っている。もしまだ機能していれば、君はそこでそれと話すことができ、[?人工物]のコードを要求することができるだろう。私はそれから[?守護者]の防御機能を引き受けて[?人工物]を使うことができる。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #INTERLEVEL TELEPORT 42
 #ENDTERMINAL 1
@@ -53,17 +53,17 @@ $C1\\ Message ends //
 #LOGON 440
 #LOGON 310
 #INFORMATION
-$C1// Decoding message from host "Hathor" @ [no translation] \\
+$C1／／ホスト"Hathor" @ [変換無し]からのメッセージをデコード＼＼
 $C3
-Tell me, Marcus, how does this happen?
+　教えてください、マーカス、どうしたらこんな事が起きるんです？
 
-How is it possible that you follow me, even so far as here? How did you know I was on that ship? How did you know this place even existed, much less when and where to find it? How did you even manage to get here, alone and unaided? I see that Leela isn't with you. Perhaps you're finally mastering the use of your own Junction?
+　こんな遠くまで私についてくることがどうしたら可能なのですか？どうやって私があの船にいることが分かったのですか？どうやってこの場所が存在することさえも、ましてやいつどこで見つけるかを知ったのですか？どうやって、一人で助けも無しにここまでたどり着けさえしたのですか？リーラはあなたとはいないようです。たぶんあなたはついに自分の連結の使用を覚えたのですか？
 
-Perhaps a better question would be, how did I know? Not of this place - its time and location were easy to discern from the records of the Jjaro dreadnaught. But how did I know you would follow me here, since we first ventured back to Marathon? Answer that, and I'm willing to wager you've answered everything else as well.
+　たぶんもっといい質問はどうして私は知ったのですか？この場所の事じゃありません、時間と場所はジャロのドレッドノート艦の記録から容易に見つかります。でもどうやったら私があなたがここまで私についてくることが、最初に私たちが思いきってマラソンに戻った時から知っていたんですか？その答は、私はあなたが他全てにも同様に答えると賭けます。
 
-I've warned you about this place before, and yet you never listen. I'm sorry it had to come to this, but there is no turning back now. Goodbye, Marcus. May whoever is behind this all have mercy on us both.
+　私はこの場所を以前警告しました、それでもあなたは聞きませんでした。私はここに来なければならなくなって残念ですが、今は引き返すことはできません。さようなら、マーカス。この全ての背後にある物が私たち両方に恵むように。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 310
 #LOGOFF 440
 #ENDTERMINAL 2

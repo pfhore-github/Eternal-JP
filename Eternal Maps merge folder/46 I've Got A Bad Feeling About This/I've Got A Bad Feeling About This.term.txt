@@ -10,17 +10,17 @@
 #INFORMATION
 $C1
 
-// Decoding message from host [NO SIGNATURE] [internal process] \\
+／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
 
-our redemption is nearly at hand. we need only to activate the power circuits here, and the nova device will come online. once this world is destroyed and the enemy gone with it, the jjaro will be saved and the sphere installation will never even need to be built.
+　私たちの救出はほとんど近いです。私たちは、ここで単に電力回路を動かす必要があります、そして新星装置はオンラインになるでしょう。この世界がいったん破壊されて敵がそれと共に消えれば、ジャロは救われ、球状施設は決して建てられる必要さえないでしょう。
 
-there are seven locations in this part of the ship which you must visit to activate these power circuits. each location contains a switch. in conjunction, these switches will return power to the nova device launch mechanism.
+　船のこの部分にあなたがこれらの電力回路を動かすために訪問しなければならない7つの位置があります。各位置はスイッチを含んでいます。関連して、これらのスイッチはパワーを新星装置発射メカニズムに返すでしょう。
 
-go now and hurry, while there is still time.
+　今時間がまだある間に行ってください、そして急いでください。
 
 
-$C1\\ Message end //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #STATIC 5
 #LOGOFF 440
@@ -38,13 +38,13 @@ $C1
 
 
 
-// Decoding message from host [NO SIGNATURE] [internal process] \\
+／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
 
-you have not yet triggered all seven circuits in this area. all of them need to be online in order to restore power to the device.
+　あなたはまだこのエリアの全ての７つの回路をトリガーしていません。装置のパワーを復帰させるためにはすべてをオンラインにする必要があります。
 
 
-$C1\\ Message end //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #STATIC 5
 #LOGOFF 440
@@ -54,19 +54,19 @@ $C1\\ Message end //
 #STATIC 5
 #LOGON 460
 #INFORMATION
-$C1// Decoding message from host [NO SIGNATURE] [internal process] \\
+$C1／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
 
-the nova device has come online, and i have launched it at the sun. this solar system will soon be destroyed, and the enemy as well.
+　新星装置はオンラインになり、私はそれを太陽に発射しました。太陽系は破壊され、敵も同様です。
 
-i will return you now to the the future, to tend to the remains of mankind. i will remain here on this ship, and be destroyed when the nova comes. i am now comfortable with my death, a peaceful and noble end to my suffering. and this time i cannot be revived.
+　私は今あなたを、人間の残りを世話するために未来に返します。私はここのこの船に残って、新星が来たときに破壊されます。私は今自分の死、自分の苦痛に対して安らかで威厳のある終わりに満足しています。今回は私は生き返ることはできません。
 
-with what we have accomplished here, i feel that i can die at last. do not attempt to come back for me. do not try to save me or resurrect my mind. i fear that if you do, i will only become more evil than ever i have before. it is my destiny, and i know i cannot fight it. at least together we have ended the cycle, and you are freed of your doom.
+　私たちがここで達成した物で、私はついに死ぬことができると感じます。私のために戻らないようにしてください。私を助けたり私の心を復活させたりしないようにしてください。わたしはもしあなたがそうすれば、今までよりもずっと悪くなるだろうと恐れています。それは私の運命であり、私はそれを戦うことができないを知っています。少なくとも一緒に私たちは輪を終わらせ、あなたは自分の運命から逃れました。
 
-goodbye, marcus. thank you, and farewell.
+　さようなら、マーカス。ありがとう、お別れです。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #INTERLEVEL TELEPORT 47
 #ENDTERMINAL 2

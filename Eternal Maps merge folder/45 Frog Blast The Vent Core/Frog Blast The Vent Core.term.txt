@@ -6,15 +6,15 @@
 #LOGON 460
 #INFORMATION
 $C1
-// Decoding message from host [NO SIGNATURE] [internal process] \\
+／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
-i cannot thank you enough, marcus. if we can succeed here, stop these nightmares, your choice will have redeemed us both.
+　どれだけ感謝しても十分じゃないでしょう、マーカス。もしここで成功出れば、これらの悪夢を止められれば、あなたの選択肢は私たち両方の名誉を回復します。
 
-as you can no doubt tell already, this ship has been overrun by the enemy; but the demon is still only just awakening and its powers are yet weak. if we can activate the $Itrih xeem$i before the w'rkncacnter awakens fully, it will be destroyed before it is strong enough to defend itself from such an assault.
+　すでに間違いなくあなたに言ったように、この船は敵によって侵略されています。しかし悪魔は起きたばかりでその力はまだ弱いです。もしワークンカクンターが完全に起きる前に$Iタリ・ジーム$iを起動させることができれば、それがそのような戦いから守るのに十分強くなる前に破壊することができるでしょう。
 
-activating the $Itrih xeem$i requires two command keys, which were carried by the two most senior staff, and have since been lost as they died to the enemy. if we are to succeed here, you must find those two keys, and take them toward the bow of the ship. there should be two insertion points. you know what to do. i believe there is another terminal somewhere in that area. check in there when you are finished and we will continue our mission.
+　$Iタリ・ジーム$iの起動には二つのコマンドキーが必要で、それらはもっとも年上のスタッフによって運ばれ、敵によって死んだときに失われました。もし私たちがここで成功するには、あなたはこれらの二つの鍵を見つけて、船の船首まで運ぶ必要があります。二つの挿入点があるはずです。何をすべきか分かるでしょう。このエリアには他の場所に別のターミナルあると信じています。終わったらそこでアクセスしてください、そしたら任務を続けましょう。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #STATIC 5
 #LOGOFF 440
@@ -25,19 +25,19 @@ $C1\\ Message ends //
 #LOGON 460
 #INFORMATION
 $C1
-// Decoding message from host [NO SIGNATURE] [internal process] \\
+／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
 
-thank you, marcus. we are nearly through.
+　ありがとう、マークス。もうすぐです。
 
-the ignition process requires the simultaneous activation of the two command keys. but do not worry, i know that you cannot be in two places at once. at least without certain... extenuating circumstances.
+　点火の過程は2個のコマンドキーの同時の起動を必要とします。でも心配しないでください、わたしは一度に二つの場所にあなたがいれないことを知っています。少なくともある…酌量すべき事情がなければ。
 
-while within our means such circumstances are uncalled for, however. the power core that drives the $Itrih xeem$i and its ignition process was deactivated when this ship was overtaken, its power routed elsewhere. before we can defeat the enemy, we must reactivate that power core. when the systems come online again, they will recognize both command keys at once, and the weapon will be activated.
+　しかし、私たちの手段内ではそのような状況は不必要です。$Iタリ・ジーム$iとその点かプロセスを動かすパワーコアはこの船が侵略されたときに非活性化され、そのパワーは他の所に回されました。敵を倒す前に、そのパワーコアを再活性化させなければなりません。システムが再びオンラインになったときに、それらはすぐに両方のコマンドキーを認識するでしょう、そして、兵器は動くでしょう。
 
-let us finish this once and for all.
+　きっぱりこれを終えましょう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #INTERLEVEL TELEPORT 46
 #ENDTERMINAL 0
@@ -54,13 +54,13 @@ $C1
 
 
 
-// Decoding message from host [NO SIGNATURE] [internal process] \\
+／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
 
-you must place the two command keys into the two insertion points. please do so, and then return here.
+　二つのコマンドキーを挿入点に入れなくてはなりません。そうしてください、それからここに戻ってきてください。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #STATIC 5
 #LOGOFF 440
@@ -71,19 +71,19 @@ $C1\\ Message ends //
 #LOGON 460
 #INFORMATION
 $C1
-// Decoding message from host [NO SIGNATURE] [internal process] \\
+／／ホスト [サイン無し]  [変換無し]からのメッセージをデコード＼＼
 $C3
 
-thank you, marcus. we are nearly through.
+　ありがとう、マーカス。もうすぐです。
 
-the ignition process requires the simultaneous activation of the two command keys. but do not worry, i know that you cannot be in two places at once. at least without certain... extenuating circumstances.
+　点火の過程は2個のコマンドキーの同時の起動を必要とします。でも心配しないでください、わたしは一度に二つの場所にあなたがいれないことを知っています。少なくともある…酌量すべき事情がなければ。
 
-while within our means such circumstances are uncalled for, however. the power core that drives the $Itrih xeem$i and its ignition process was deactivated when this ship was overtaken, its power routed elsewhere. before we can defeat the enemy, we must reactivate that power core. when the systems come online again, they will recognize both command keys at once, and the weapon will be activated.
+　しかし、私たちの手段内ではそのような状況は不必要です。$Iタリ・ジーム$iとその点かプロセスを動かすパワーコアはこの船が侵略されたときに非活性化され、そのパワーは他の所に回されました。敵を倒す前に、そのパワーコアを再活性化させなければなりません。システムが再びオンラインになったときに、それらはすぐに両方のコマンドキーを認識するでしょう、そして、兵器は動くでしょう。
 
-let us finish this once and for all.
+きっぱりこれを終えましょう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 460
 #INTERLEVEL TELEPORT 46
 #ENDTERMINAL 1

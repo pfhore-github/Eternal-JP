@@ -10,15 +10,15 @@ $C1
 
 
 
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-The transporter grid has been damaged in this sector due to [?enemy] attacks, so I cannot transport you directly to a node within the [?guardian]'s network. Therefore you must enter the [?guardian]'s complex on foot. Speak with [?him?it] and request the defense codes on an [?artifact] so that I may assume [?his?its] functions.
+　このセクターの転送グリッドは[?敵]の攻撃で損害を行けているので、[?守護者]のネットワーク内のノードに直接君を転送させることはできない。したがって、[?守護者]の複合体に歩いて入らなければならない。[?彼?それ]に会って私が[?彼の?その]機能を引き受けられるように[?人工物]の防御コードを要求してくれ。
 
-Return here when you have the codes and I will aid you further.
+　コードを得たらここに戻れ。それからもっと助けよう。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 440
 #END
@@ -32,15 +32,15 @@ $C1
 
 
 
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-Excellent. You have retrieved the command codes on an [?artifact], as I recommended. I will now transport you near to my own datacore, so that you may connect the artifact to my internal network.
+　すばらしい。君は私が勧めたとおりに[?人工物]のコマンドコードを得た。私は私の内部ネットワークに人工物を接続できるように、自分のデータコアの近くに君を送る。
 
-Please stand by for departure. Initiating...
+　出発のために待機せよ。開始…
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #INTERLEVEL TELEPORT 43
 #ENDTERMINAL 0
@@ -52,19 +52,19 @@ $C1\\ Message ends //
 #TAG 1
 #INFORMATION
 $C1
-// Decoding message from host [unnamed] @ [no translation] \\
+／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-welcome, [?master]. i am the [?guardian] of this installation. my apologies for the brevity of this message; my [?mind?program] is severely damaged and failing by the minute. this node is the only remaining functional portion of my core facility.
+　ようこそ、[?主人]。私はこの設備の[?守護者]だ。このメッセージの簡潔さを許してくれ。私の[?心?プログラムは]深刻な損害を受けていて数分で機能不全になる。このノードは私のコア設備の唯一の残って機能している部分である。
 
-i have [?fabricated] a systems interface artifact for you at a location near the periphery of my facility, where some systems are still functional. on it you will find a copy of the installation's defense codes.
+　私は自分の設備の周辺部に君のためにシステムインターフェース人工物を[?制作]しておおいた。そこでまだいくつかのシステムは機能している。そこで君は施設の防御コードのコピーが見つかるだろう。
 
-you may bring the artifact to the [?watcher]. [?he?it] may be able to make use of the codes to assume some of my [?functions?duties].
+　君はその人工物を[?番人]に持って行ってもよい。[?彼?それ]は私の[?機能?義務]のいくつかを引き受けるためにコードを使うことができるかもしれない。
 
-i cannot aid you further. farewell.
+　これ以上の助けはできない。さようなら。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 490
 #LOGOFF 440
 #ENDTERMINAL 1

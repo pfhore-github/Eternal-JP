@@ -4,28 +4,28 @@
 #LOGON 440
 #LOGON 450
 #INFORMATION
-$C1// Decoding message from host [unnamed] @ [no translation] \\
+$C1／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-Excellent work. The self-destruct on the alien vessel has been successfully triggered, and the [?enemy]'s primary means of escape has been obliterated.
+　すばらしい仕事だ。異星人の船の自壊は首尾よく誘発され、[?敵]の脱出の主要な手段は消し去った。
 
-Unfortunately, the remainder of my efforts to turn back the [?enemy] within the installation have proven unsuccessful. Many key facilities are entirely overrun, and even my sensor network has been compromised. To make matters worse, the rogue [?operator] I referenced earlier has been coordinating attacks against my systems as well.
+　残念ながら、施設中で[？敵]を戻させるための私の努力の残りは失敗していると判明した。多くの主要な施設が完全に侵略され、私のセンサネットワークさえ妥協した。いっそう困ったことに、私が、前に参照した狂暴な[?操作人]はまた、私のシステムに対して攻撃を調整している。
 
-The remaining airborne alien vessels have retreated from the Sphere, after deploying a probe of some sort into the installation's stellar power core. I believe the probe may be an implementation of the $Itrih xeem$i nova research device. Though I am unversed in the intricacies thereof, I am positive that the effects of such a device in the Sphere's main power core would at least annihilate the installation - and possibly a significant portion of the galaxy as well.
+　残っているエアボーン異星人船は、施設の星のパワーコアにある種の探測装置を配備した後に星から退いた。私は、探測装置が$Iタリ・ジーム$i新星研究装置の実装であるかもしれないと信じている。その複雑さにおいて精通していないが、私は星の主要パワーコアのそのような装置の効果が少なくとも設備、およびことによると、銀河の重要な部分も全滅させると確信している。
 #PICT 1491 RIGHT
 $C4
 
-As the sole surviving member of your biological species, it is imperative that you evacuate the installation immediately. However small the percentage of chance that you will fare better outside than in when the nova device detonates, it is a margin of safety that we must attain if it is at all possible.
+　君の生物学的種の唯一の生き残っているメンバーとして、すぐに設備から避難するのは必須である。新星装置が発射されたときに中よりも外が暮らしやすい可能性の割合がどれだけ少なくても、それが全く可能であるならばそれは私たちが達しなければならない安全範囲である。
 
-To that end, I have brought you here. This deck is the highest safe elevation that the transport grid will reach; further elevations are forbidden due to atmospheric deficiency. But up the slope before you is a Mount Point where a smaller alien vessel has docked. As it is the only vessel accessible from the surface of the Sphere, it is now your only safe means of escape.
+　そのために、私はここに君を連れて来た。このデッキは輸送グリッドが達する中で最も高い安全な高度である。さらなる高度は大気の欠乏のため禁じられている。しかし、君の前のスロープの上に、2番目の小さい異星人の船がドックされているマウントポイントがある。星の表面からアクセスしやすい唯一の船であるので、現在、それは君の脱出の唯一の安全な手段である。
 #PICT 1491 RIGHT
 $C4
-The [?enemy] has fought back many of the alien landing parties, and they have in turn retreated to this one ship as their own last hope. Unfortunately for them the vessel is far too small to accommodate their numbers, but they are not a priority; they have shown great hostility toward us, and may fall to the [?enemy] for all it matters.
+　[？敵]は異星人の着陸のパーティーの多くを食い止めた、そして、彼ら自身の最後望みとして彼らは順番にこの1隻の船に退却した。残念ながら、彼らにとってその船はそれらの数を収容するにははるかに小さすぎるが、彼らは優先ではない。彼らは我々に大いなる敵意を示していて、それが問題にもかかわらず[?敵]に落ちるかもしれない。
 
-You must make your way up this slope to the Mount Point on foot. The footpaths were neither well made nor have they been maintained, but there is a [?node] at the peak where I will contact you before you leave. I wish you the best of luck. May your species survive.
+　あなたは徒歩でマウントポイントへのこのスロープを登らなければならない。小道は上手に作られていないし維持されてもないが、頂に君が去る前に私が君と連絡できる[?ノード]がある。私は君が幸運であることを願っている。願わくは君の種が生き残っているように。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 440
 #ENDTERMINAL 0

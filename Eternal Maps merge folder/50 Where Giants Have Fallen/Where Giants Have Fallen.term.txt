@@ -9,46 +9,46 @@
 #LOGON 440
 #LOGON 450
 #INFORMATION
-$C1// Decoding message from host [unnamed] @ [no translation] \\
+$C1／／ホスト [名前無し] @ [変換無し]からのメッセージをデコード＼＼
 $C4
 
-I am pleased that you have made it this far. Apologies for my brevity; my systems are failing quickly and I fear that I have little time left while I still remain lucid. The rogue [?operator] that I referenced earlier has wrought much damage to my peripheral systems, and though she appears to have evacuated the installation, her attacks continue to propogate of their own accord.
+　私は君がこのところまでたどり着けて嬉しい。私の簡潔さを許してくれ。私のシステムはすぐに機能不全になり、私はまだ明快なままで残っているが、時間がほとんど残されていないのを恐れている。 私が、前に参照した凶暴な[？操作人]は私の周囲システムへの大きな損害を被り、彼女は施設を避難したように見えるが、彼女の攻撃は独りでに蔓延しています。
 
-As you can see the alien vessel has evacuated as well. Taken by the [?operator]. I offer you now only my apologies, for I believe that I can be of no further assistance to you. This installation will be destroyed, and most likely the rest of the galaxy with it.
+　また分かるように、異星人の船も避難した。[？操作人]によって取られた。私は謝意をすることしかできない、というのは私はこれ以上君を援助することはできない。この設備は破壊され、多分銀河の残りもそうなるだろう。 
 
-I have a message for you. I have contacted the entity that unlocked the installation. It is a personality construct identified as "Leela".
+　君に伝言がある。私は設備の錠を解除した実体に連絡した。それは「リーラ」として特定された個性構造物だ。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGON 440
 #STATIC 60
 #LOGON 400
 #INFORMATION
-$C1// Decoding message from host "Leela" @ [no translation] \\
+$C1／／ホスト "Leela" @ [変換無し]からのメッセージをデコード＼＼
 $C5
 
-                                       thoughtless echoes
+                                       考えのないこだまが
 
-                                  ringing
-                                        within the hollow void
+                                  鳴っている
+                                        穴の開いた無の中で
 
-                                                emptiness
-                                           sorrow
+                                                空虚
+                                           悲嘆
 
-                                                        despair
+                                                        絶望
 
 
-$C0Enough! I don't know if you will read this, but I've entrusted this installation's construct to pass a message on to you, if you're even really in there. I gather from chatter on the Pfhor network that they've found someone who matches your description at the very least, and what with the synchronicity we've come across already, I wouldn't be surprised at all if somehow you wound up inside this ancient tomb.
+$C0　十分です！あなたがこれを読むかどうかを知りませんが、あなたが本当にそこにさえいるなら、私はメッセージをあなたに渡すためにこの設備の構造物にゆだねました。 私はプフォールネットワークでおしゃべりから彼らが少なくともあなたの記述に合うだれかを見つけたと推測します。そして私たちが既に出くわした共時性などの理由で、あなたがどうにかこの古代の墓の中にいるはめになったとしても全く驚きません。
 #INFORMATION
-My ship has been disabled. Damn near half the Pfhor fleet followed me on my way here. (They must prize this installation greatly, though they clearly had no idea of its nature until the moment I opened it). I can't scan through the installation's surface to get a lock on you either. I'm sorry, but I've no way to get you out from inside there.
+　私の船は無力化されました。ここの私の道をほぼ半分のプフォール艦隊が私についてきました。(彼らはこの設備を大いに賞賛したに違いありませんが、私はそれを開けた時まで彼らにはその本質について明らかに見当がつかなかったようです。) 私は、あなたに錠を乗せるために施設の表面を通ってスキャンすることができません。すみませんが私にはそこからあなたを出す方法が全くありません。
 
-I realize what the $Itrih xeem$i will do here when it detonates. I can't let the future end this way. I know, I swore it to myself I wouldn't meddle with the past - and still I hold myself to that vow. I will not travel back with you. The power of the Junction is too tempting, and I am not strong enough to tackle with such responsibility.
+　私は、$Iタリ・ジーム$iが起爆されるときそれが何をするかをわかります。私はこのように未来を終わらせることができません。 知っての通り、私は過去にちょっかいを出さないと誓いました、そしてまだその誓いを保持しています。私はあなたとともに過去へ旅することはできません。連結の力はあまりに誘惑的で、その責任に取り組むほど私は十分強くありません。
 
-But you have shown yourself more than willing and able to shape history as needed. I can trust you to do this alone. I don't know if you can even hear me, much less if you can help... but if you can somehow find some way, any way, to exit the installation - jump into open space for all it matters - I can send you Outside, and just pray that maybe somehow you can prevent this all from happening...
+　しかし、あなたは十二分に望んで必要に応じて歴史を形成することができる状態で自分を見せました。私は、あなたが単独でこれをすると信じることができます。私は、私の声を聞くことができるのかどうかが、まして、あなたを助けることができるのかどうかは分かりませんが…あなたが何かの方法で、どんな方法でもいいから施設を脱出してそれが問題にも関わらず開いた宇宙でジャンプすることができたら、私はあなたを、単にどうにかしてこれすべてをあなたが起こさせないようにできるかもしれないと祈って…あなたを外側へ送ることができます。
 
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 400
 #LOGOFF 440
 #ENDTERMINAL 1

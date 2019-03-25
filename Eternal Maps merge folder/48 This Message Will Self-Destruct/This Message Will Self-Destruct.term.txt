@@ -7,17 +7,17 @@ $C2
 
 
 
-$C1// Pfhor translator active \\
+$C1／／プフォール翻訳機起動＼＼
 
 $C2
-ATTN: All units.
+注目：全部隊へ
 
-Unidentified hostiles sighted in all sectors as of 70.25.70.
+未確認の敵が70.25.70に全セクターで見つかっている。
 
-ORDER: Termination of all unidentified units with extreme prejudice.
+命令：完全なる損害を持って未確認の部隊を終わらせること。
 
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 350
 #ENDTERMINAL 0
 ;
@@ -27,16 +27,16 @@ $C1\\ End translation //
 #LOGON 450
 #PICT 1481
 $C1
-// Decoding message from host
-[unnamed] @ [no translation] \\$C4
+／／ホスト [名前無し] @ [変換無し]
+からのメッセージをデコード＼＼$C4
 
-These alien intruders are clearly hostile, and as expected they are no match for the [?enemy]. You must destoy their ship before it can be captured.
+　これらの異星人の侵入者は明らかに敵であり、予想通り[？敵]には匹敵しない。君は捕らわれる前にこの船を破壊しなければならない。
 
-My sensors indicate a power core on the lower portions of this deck. If you can damage it sufficiently, the resulting coolant overflow and subsequent explosion should be sufficient to destroy this vessel.
+　私のセンサーはこのデッキの低地部にパワーコアを検出した。君がそれを十分破損すれば、結果として起こる冷却剤の溢れとその後の爆発は、この船を破壊するために十分であるはずだ。
 
-Return to this deck as quickly as possible so that I may transport you out before you are destroyed with the ship.
+　君が船と一緒に破壊される前に外に転送できるようにできるだけはやくこのデッキに戻ってこい。
 
-$C1\\ Message ends //
+$C1＼＼メッセージ終了／／
 #LOGOFF 450
 #LOGOFF 350
 #ENDTERMINAL 1
