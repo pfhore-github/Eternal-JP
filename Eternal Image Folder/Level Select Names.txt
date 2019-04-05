@@ -1,0 +1,9 @@
+02000 The Xeventh Project Presents
+02001 An Alephone / Marathon Scenario
+02002 Eternal Title
+02100 Top
+02101 Top (Hilighted)
+02400 Eternal Credits
+02401 Japanese Staff
+02402 Bungie Credits
+02700 HUD
