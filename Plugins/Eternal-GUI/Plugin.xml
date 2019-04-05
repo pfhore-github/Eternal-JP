@@ -1,7 +1,1 @@
-<plugin
-name="Eternal GUI"
-version="" 
-description="Graphic User Interface for Eternal"
-theme_dir="GUI"
-/>
-
+<plugin name="Eternal GUI" version="" description="Graphic User Interface for Eternal" theme_dir="GUI" />
