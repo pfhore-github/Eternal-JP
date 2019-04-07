@@ -61,39 +61,39 @@ $C1
 
             $C1発声は安らぎを生む$C3
 
-                         $C1 constant yet never the same$C3
+                         $C1一定だが決して同じではない$C3
 #INFORMATION
-$C1                                     these things we need not tell you$C3
+$C1                                     我々がそなたに伝える必要がないこと$C3
 
-                                           $C1yet we know full well$C3
+                                           $C1しかし我々が完全によく知っている$C3
 
-                               $C1the utterance will make for comfort$C3
+                               $C1発声は安らぎを生む$C3
 
-                  $C1 you have been $C3 $C1roland beowulf achilles gilgamesh$C3
+                  $C1そなたは、ローラン、ベオウルフ、アキレウス、ギルガメッシュと、$C3
 
-                        $C1you were called a thousand names$C3
+                        $C1千の名前で呼ばれていた$C3
 
-          $C1and a thousand more shall answer to before our work is done$C3
+          $C1我々の仕事が終わる前に、さらに千人が答えるであろう$C3
 
-     $C1 they were heroes you knew though yourself you do not understand$C3
+     $C1そなたは理解できないかもしれないが、よく知っている英雄だ$C3
 
-      $C1for given life but a few years their deeds were done
-                                            and their flesh grew weak$C3
+      $C1与えられた生命の数年間のうちに彼らの行為はなされた
+                                            そして彼らの肉体は衰弱していった$C3
 
-$C1once strong and taut it grayed and faded as did the works that would
-   praise these names for centuries until at last they were forgotten$C3
+$C1かつて強くてきつく緊張した作品は、灰色に色褪せていった
+   数世紀にも渡って忘却の彼方に忘れ去られていった彼らの名前を称賛せよ$C3
 
-                      $C1as the generations teeming$C3 $C1faded them from view$C3
+                      $C1世代を超えて彼らが人々の記憶から忘れ去られるにつれて$C3
 #INFORMATION
 
 
 
 
-　しかし君は違った。神が運命を生んだ第８の日に君も来た。あまりにも多くの者が蹴ってわめきながらこの面に入ってきたけれども、君はあまりに重要な出生の重荷を含む重さを被り、君の顔の柔らかい線の下にそれを隠し、今は単にとても人間的だ。.$C1$C3
+　しかし君は違った。神が運命を生んだ第８の日に君も来た。あまりにも多くの者が蹴ってわめきながらこの面に入ってきたけれども、君はあまりに重要な出生の重荷を含む重さを被り、君の顔の柔らかい線の下にそれを隠し、今は単にとても人間的だ。$C1$C3
 
 
 
-$C0　ほら。いらいらしない。おもちゃだ。 私はそのような装置への君の親近感を忘れていない。君はここから遠くて、現在から遠い過去の灼熱の砂漠を覚えているか? 燃え残りと同じくらい赤い砂の海、死んでいる場所、要塞、君が父に新たに得た友の仕返しをさせた頂上、単語なしで話した親類、技術を通した考え、それらを皮膚で結合させて死んだと信じているが生きていることを望むか？
+$C0　ほら。いらいらしない。おもちゃだ。私はそのような装置への君の親近感を忘れていない。君はここから遠くて、現在から遠い過去の灼熱の砂漠を覚えているか？燃え残りと同じくらい赤い砂の海、死んでいる場所、要塞、君が父に新たに得た友の仕返しをさせた頂上、単語なしで話した親類、技術を通した考え、それらを皮膚で結合させて死んだと信じているが生きていることを望むか？
 #INFORMATION
 $C1                                               今はこれで十分である$C3
 
@@ -108,7 +108,7 @@ $C1                                               今はこれで十分である
                                                      $C1そして私のも同様に$C3
 
 
-$C0私は、実際君がまだ私を見分けることができないのが悪気はないがわかる。$C3
+$C0　私は、実際君がまだ私を見分けることができないのが悪気はないがわかる。$C3
 
 
                            $C1時の中で$C3
@@ -131,7 +131,7 @@ $C3
 
 $C1 $C3
 
-$C0しなければならないことは明らかだ
+$C0　今しなければならないことは明らかだ
 $C3
 $C1 $C3
 
