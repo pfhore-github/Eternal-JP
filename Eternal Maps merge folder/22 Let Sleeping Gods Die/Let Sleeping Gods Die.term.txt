@@ -99,21 +99,22 @@ $C1＼＼メッセージ終了／／
 $C1
 
 ／／ホスト"S'bhuth" @ [変換無し]からのメッセージをデコード＼＼
+$C5
+       クッリアから我々は同胞をみはる
+             １０００周期以内に
+                    そのとき我々の主は戻る
+               そして我々はその星で彼に合流する
 
+                    我々の準備したメッセージ
+              我々が残していった同胞へ
 
-$C0
-                $C5               クッリアから我々は同胞をみはる
-$C0                $C5         １０００周期以内に
+   我々の兄弟それぞれに１文
+        全ロウォンに１文
 
-
-$C0        $C5   我々の兄弟それぞれに１文
-        $C0        $C5全ロウォンに１文
-
-
-$C0              $C5   我々が消えてずっと後に
-      $C0                $C5スフトがひとつになった時に
-           $C0                $C5スフト氏族カーは
-                                 ロウォンへと戻るだろう
+   我々が消えてずっと後に
+       スフトがひとつになった時に
+             スフト氏族カーは
+                 ロウォンへと戻るだろう
 #PICT 1222 RIGHT
 $C5
 ┌────────────────────┐
@@ -172,9 +173,8 @@ $C5
 
 
 　お前達の長であった私、ユロはお前達を留めておくことができない。お前たちを導く皇族を保持し続け、お前達が私のために建てた楽園で生活を営むのだ。お前達に私は最後の忠告を残す。この最後の予言に注意を払え。数と階級を順位と間違えるな。年長の子供も年少の子供から学ぶ事がある。
-$C1
 
-\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #ENDTERMINAL 2
 ;
@@ -184,15 +184,15 @@ $C1
 #PICT 384
 
 
-$C1// S'pht translator active \\
+$C1／／スフト翻訳機起動＼＼
 $C5
-Surely Mnr realise that Lhar hold the S'ct'lac'tr?
+　間違いなくマナはラーがスクラクタを持っていることに気づいたか？
 
-They may think us too squeamish to turn such a weapon on fellow S'pht, but if they continue to raid the civillian hamlets we may have no choice.
+　彼らは私たちがそのような武器を仲間のスフトに向けるにはあまりにも威圧的だと思うかもしれないが、彼らが民間の集落を襲撃し続けているなら私たちは選択の余地がないかもしれない。
 
-The fainthearted Kr will never forgive us for even considering this course of action, but their forgiveness will do us little good if Kr is slaughtered by Mnr.
+　気の利いたカーは、この行動方針を考慮したとしても私たちを許すことは決してないだろうが、カーがマナによって虐殺された場合、彼らの許しは私たちにほとんど役に立たない。
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #ENDTERMINAL 3
 ;
@@ -202,13 +202,13 @@ $C1\\ End translation //
 #PICT 384
 
 
-$C1// S'pht translator active \\
+$C1／／スフト翻訳機起動＼＼
 $C5
-Mnr drove us from our marsh at the fullness of T'jia.  Then Lhar came, claiming to liberate it for us, but this liberation came at a price too terrible to bear.
+マナはティジアがいっぱいになったため、沼地から私たちを追い出した。 それからラーは私達のためにそれを解放すると主張して来たが、しかしこの解放は耐えられないほどひどい代償で来た。
 
-I never imagined we would think to look for safety by hiding here amongst the F'lick'ta.
+フリッタにまぎれて安全を探すとは想像もできなかった。
 
-$C1\\ End translation //
+$C1＼＼翻訳終了／／
 #LOGOFF 380
 #ENDTERMINAL 4
 ;
@@ -220,11 +220,11 @@ $C1\\ End translation //
 #STATIC 5
 #INFORMATION
 
-$C1// Decoding message from host "Leela" @ [no translation]\\
+$C1／／ホスト"Leela" @ [変換無し]からのメッセージをデコード＼＼
 
 $C0546865726520796f7520617265212020576861742061726520796f7520646f696e6720646f776e20686572653f20204920746f6c6420796f7520746f2062652070617469656e742e20205374616e64627920666f72207472616e73706f72742c2049207468696e6b204927766520666f756e6420486174686f7220616e6420
 
-$C1\\ Connection interrupted by remote [unknown] @ [no translation] //
+$C1／／ リモートからの接続割り込み[ 不明 ] @ [変換なし] ＼＼
 #STATIC 5
 #LOGOFF 360
 #STATIC 5
