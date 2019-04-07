@@ -186,7 +186,7 @@ $C1＼＼メッセージ終了／／
 
 
 
-<<< End of message >>>
+<<< メッセージ終了 >>>
 #LOGOFF 320
 #END
 #FINISHED
