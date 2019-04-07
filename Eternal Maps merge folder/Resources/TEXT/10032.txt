@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marathon>
   <stringset index="135">
-    <string index="09">[ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ï½ž2881[ce]ï¼08.31]</string>
+    <string index="09">[ƒ^ƒCƒ€ƒXƒ^ƒ“ƒv`2881[ce]|08.31]</string>
   </stringset>
 </marathon>
