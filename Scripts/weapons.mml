@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="shift_JIS"?>
 <marathon>
 
   <!-- Knockback settings -->
@@ -99,46 +98,46 @@
   <!-- Weapon HUD Display Names -->
   <stringset index="137">
     <string index="00"></string>
-    <string index="01">ƒNƒƒmƒX‹‰Šj—Z‡ƒsƒXƒgƒ‹</string>
-    <string index="02">ƒEƒ‰ƒmƒX‹‰Šj—Z‡–C</string>
-    <string index="03">W‡ƒ‰ƒ“ƒNƒVƒ‡ƒbƒN–_</string>
-    <string index="04">W‡ƒ‰ƒ“ƒN”j‰óe</string>
-    <string index="05">‰ÊŠ¸ƒ‰ƒ“ƒNŽU—e</string>
-    <string index="06">‰ÊŠ¸ƒ‰ƒ“ƒNƒiƒp[ƒ€–C</string>
-    <string index="07">ZX‹‰d—ÍŽqŒ•</string>
-    <string index="09">ZX‹‰”g“®–C</string>
-    <string index="08">“ªŠWœ</string>
+    <string index="01">ã‚¯ãƒ­ãƒŽã‚¹ç´šæ ¸èžåˆãƒ”ã‚¹ãƒˆãƒ«</string>
+    <string index="02">ã‚¦ãƒ©ãƒŽã‚¹ç´šæ ¸èžåˆç ²</string>
+    <string index="03">é›†åˆãƒ©ãƒ³ã‚¯ã‚·ãƒ§ãƒƒã‚¯æ£’</string>
+    <string index="04">é›†åˆãƒ©ãƒ³ã‚¯ç ´å£ŠéŠƒ</string>
+    <string index="05">æžœæ•¢ãƒ©ãƒ³ã‚¯æ•£ä¹±éŠƒ</string>
+    <string index="06">æžœæ•¢ãƒ©ãƒ³ã‚¯ãƒŠãƒ‘ãƒ¼ãƒ ç ²</string>
+    <string index="07">ZXç´šé‡åŠ›å­å‰£</string>
+    <string index="09">ZXç´šæ³¢å‹•ç ²</string>
+    <string index="08">é ­è“‹éª¨</string>
   </stringset>
 
   <!-- Weapon and Ammo Inventory Names -->
   <stringset index="150">
-    <string index="00">Œœ</string>
-    <string index="01">Šj—Z‡ƒsƒXƒgƒ‹</string>
-    <string index="02">Šj—Z‡ƒsƒXƒgƒ‹</string>
-    <string index="03">Šj—Z‡ƒoƒbƒeƒŠ[</string>
-    <string index="04">Šj—Z‡ƒoƒbƒeƒŠ[</string>
-    <string index="05">Šj—Z‡–C</string>
-    <string index="06">–¢Žg—p’e–ò</string>
-    <string index="07">–¢Žg—p’e–ò</string>
-    <string index="08">ƒVƒ‡ƒbƒN–_</string>
-    <string index="09">ƒVƒ‡ƒbƒN–_[“d</string>
-    <string index="10">ƒVƒ‡ƒbƒN–_[“d</string>
-    <string index="11">ƒOƒŒƒl[ƒh’e–ò</string>
-    <string index="12">ƒOƒŒƒl[ƒh’e–ò</string>
-    <string index="13">”j‰óe</string>
-    <string index="14">e’e–ò</string>
-    <string index="15">e’e–ò</string>
-    <string index="16">ƒiƒp[ƒ€–C</string>
-    <string index="17">‰Î‰ŠƒZƒ‹</string>
-    <string index="18">‰Î‰ŠƒZƒ‹</string>
-    <string index="19">ŽU—–C</string>
-    <string index="20">ƒpƒŒƒbƒgƒpƒbƒN</string>
-    <string index="21">ƒpƒŒƒbƒgƒpƒbƒN</string>
-    <string index="27">d—ÍŽqŒ•</string>
-    <string index="28">d—ÍŽqŒ•</string>
-    <string index="41">”g“®–C</string>
-    <string index="42">ƒ[ƒ“_ƒ‚ƒWƒ…[ƒ‹</string>
-    <string index="43">ƒ[ƒ“_ƒ‚ƒWƒ…[ƒ‹</string>
+    <string index="00">æ‹³éª¨</string>
+    <string index="01">æ ¸èžåˆãƒ”ã‚¹ãƒˆãƒ«</string>
+    <string index="02">æ ¸èžåˆãƒ”ã‚¹ãƒˆãƒ«</string>
+    <string index="03">æ ¸èžåˆãƒãƒƒãƒ†ãƒªãƒ¼</string>
+    <string index="04">æ ¸èžåˆãƒãƒƒãƒ†ãƒªãƒ¼</string>
+    <string index="05">æ ¸èžåˆç ²</string>
+    <string index="06">æœªä½¿ç”¨å¼¾è–¬</string>
+    <string index="07">æœªä½¿ç”¨å¼¾è–¬</string>
+    <string index="08">ã‚·ãƒ§ãƒƒã‚¯æ£’</string>
+    <string index="09">ã‚·ãƒ§ãƒƒã‚¯æ£’å……é›»</string>
+    <string index="10">ã‚·ãƒ§ãƒƒã‚¯æ£’å……é›»</string>
+    <string index="11">ã‚°ãƒ¬ãƒãƒ¼ãƒ‰å¼¾è–¬</string>
+    <string index="12">ã‚°ãƒ¬ãƒãƒ¼ãƒ‰å¼¾è–¬</string>
+    <string index="13">ç ´å£ŠéŠƒ</string>
+    <string index="14">éŠƒå¼¾è–¬</string>
+    <string index="15">éŠƒå¼¾è–¬</string>
+    <string index="16">ãƒŠãƒ‘ãƒ¼ãƒ ç ²</string>
+    <string index="17">ç«ç‚Žã‚»ãƒ«</string>
+    <string index="18">ç«ç‚Žã‚»ãƒ«</string>
+    <string index="19">æ•£ä¹±ç ²</string>
+    <string index="20">ãƒ‘ãƒ¬ãƒƒãƒˆãƒ‘ãƒƒã‚¯</string>
+    <string index="21">ãƒ‘ãƒ¬ãƒƒãƒˆãƒ‘ãƒƒã‚¯</string>
+    <string index="27">é‡åŠ›å­å‰£</string>
+    <string index="28">é‡åŠ›å­å‰£</string>
+    <string index="41">æ³¢å‹•ç ²</string>
+    <string index="42">ã‚¼ãƒ­ç‚¹ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«</string>
+    <string index="43">ã‚¼ãƒ­ç‚¹ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«</string>
   </stringset>
 
 </marathon>

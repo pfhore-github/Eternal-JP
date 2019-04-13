@@ -230,7 +230,7 @@ function Triggers.draw()
       end
       
       -- 02: text (inventory)
-      drawInventory({ x = tx, y = ay + 40, w = tw, h = 100 })
+      drawInventory({ x = tx, y = ay + 30, w = tw, h = 100 })
       
       -- 02: text (end mask)
       if opengl then
