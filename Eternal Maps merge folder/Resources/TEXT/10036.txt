@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
 <marathon>
   <stringset index="135">
-    <string index="09">[ƒ^ƒCƒ€ƒXƒ^ƒ“ƒv`6500–œ”N[‹IŒ³‘O]|12.21]</string>
+    <string index="09">[ã‚¿ã‚¤ãƒ ã‚¹ã‚¿ãƒ³ãƒ—ï½ž6500ä¸‡å¹´[ç´€å…ƒå‰]ï¼12.21]</string>
   </stringset>
 </marathon>
