@@ -421,16 +421,16 @@ end
 function Triggers.init()
   
   -- align weapon and item mnemonics
-  ItemTypes["knife"].mnemonic = "拳骨"
+  ItemTypes["knife"].mnemonic = "fist"
   
   local wep_aliases = {}
-  wep_aliases["shotgun"] = "ブレード"
-  wep_aliases["fusion pistol"] = "核融合キャノン"
-  wep_aliases["assault rifle"] = "杖"
-  wep_aliases["alien weapon"] = "ナパーム砲"
-  wep_aliases["smg"] = "波動砲"
-  wep_aliases["missile launcher"] = "破壊銃"
-  wep_aliases["flamethrower"] = "散乱銃"
+  wep_aliases["shotgun"] = "blades"
+  wep_aliases["fusion pistol"] = "fusion cannon"
+  wep_aliases["assault rifle"] = "staff"
+  wep_aliases["alien weapon"] = "napalm cannon"
+  wep_aliases["smg"] = "wave motion cannon"
+  wep_aliases["missile launcher"] = "havoc rifle"
+  wep_aliases["flamethrower"] = "scatter rifle"
   for k, v in pairs(wep_aliases) do
     ItemTypes[k].mnemonic = v
     WeaponTypes[k].mnemonic = v
