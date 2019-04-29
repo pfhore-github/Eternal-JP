@@ -771,7 +771,7 @@ function drawInventory(rect)
           iname = item.plural
         end
         
-        fbold:draw_text(string.sub(iname, 1, 22), inx, y, clr)
+        fbold:draw_text(string.sub(iname, 1, 33), inx, y, clr)
         
         y = y + h
         if y >= lasty then break end
